@@ -1,0 +1,649 @@
+{
+  "cursos": {
+    "ADS": {
+      "nome": "Análise e Desenvolvimento de Sistemas",
+      "historico": [
+        {
+          "edicao": "2026/2",
+          "vagas": 34,
+          "primeira_chamada": {
+            "faixa": "1º ao 34º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 9.25,
+              "acertos": 38,
+              "redacao_referencia": 9.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "34º lugar",
+              "nota_final": 6.75,
+              "acertos": 20,
+              "redacao_referencia": 8.5
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "3ª Chamada",
+            "faixa": "38º ao 42º",
+            "primeiro_convocado": {
+              "posicao": "38º lugar",
+              "nota_final": 6.63,
+              "acertos": 27,
+              "redacao_referencia": 6.5
+            },
+            "ultimo_convocado": {
+              "posicao": "42º lugar",
+              "nota_final": 5.88,
+              "acertos": 17,
+              "redacao_referencia": 7.5
+            }
+          }
+        },
+        {
+          "edicao": "2026/1",
+          "vagas": 40,
+          "primeira_chamada": {
+            "faixa": "1º ao 40º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 9.25,
+              "acertos": 36,
+              "redacao_referencia": 9.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "40º lugar",
+              "nota_final": 6.5,
+              "acertos": 28,
+              "redacao_referencia": 6.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "3ª Chamada",
+            "faixa": "51º ao 61º",
+            "primeiro_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 6.03,
+              "acertos": 21,
+              "redacao_referencia": 6.8
+            },
+            "ultimo_convocado": {
+              "posicao": "61º lugar",
+              "nota_final": 5.38,
+              "acertos": 23,
+              "redacao_referencia": 5.0
+            }
+          }
+        },
+        {
+          "edicao": "2025/2",
+          "vagas": 40,
+          "primeira_chamada": {
+            "faixa": "1º ao 40º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.2,
+              "acertos": 33,
+              "redacao_referencia": 8.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "40º lugar",
+              "nota_final": 5.6,
+              "acertos": 21,
+              "redacao_referencia": 7.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "3ª Chamada",
+            "faixa": "46º e 47º",
+            "primeiro_convocado": {
+              "posicao": "46º lugar",
+              "nota_final": 5.3,
+              "acertos": 22,
+              "redacao_referencia": 4.5
+            },
+            "ultimo_convocado": {
+              "posicao": "47º lugar",
+              "nota_final": 5.3,
+              "acertos": 20,
+              "redacao_referencia": 6.5
+            }
+          }
+        },
+        {
+          "edicao": "2025/1",
+          "vagas": 38,
+          "primeira_chamada": {
+            "faixa": "1º ao 38º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.7,
+              "acertos": 31,
+              "redacao_referencia": 7.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "38º lugar",
+              "nota_final": 5.5,
+              "acertos": 20,
+              "redacao_referencia": 7.5
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "4ª Chamada",
+            "faixa": "52º lugar",
+            "primeiro_convocado": {
+              "posicao": "52º lugar",
+              "nota_final": 5.3,
+              "acertos": 20,
+              "redacao_referencia": 6.5
+            },
+            "ultimo_convocado": {
+              "posicao": "52º lugar",
+              "nota_final": 5.3,
+              "acertos": 20,
+              "redacao_referencia": 6.5
+            }
+          }
+        },
+        {
+          "edicao": "2024/2",
+          "vagas": 40,
+          "primeira_chamada": {
+            "faixa": "1º ao 40º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.9,
+              "acertos": 35,
+              "redacao_referencia": 4.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "40º lugar",
+              "nota_final": 4.8,
+              "acertos": 18,
+              "redacao_referencia": 6.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "2ª Chamada",
+            "faixa": "41º ao 51º",
+            "primeiro_convocado": {
+              "posicao": "41º lugar",
+              "nota_final": 4.6,
+              "acertos": 18,
+              "redacao_referencia": 5.0
+            },
+            "ultimo_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 3.9,
+              "acertos": 14,
+              "redacao_referencia": 5.5
+            }
+          }
+        }
+      ]
+    },
+    "TPG": {
+      "nome": "Tecnologia em Processos Gerenciais",
+      "historico": [
+        {
+          "edicao": "2026/2",
+          "vagas": 27,
+          "primeira_chamada": {
+            "faixa": "1º ao 27º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.25,
+              "acertos": 30,
+              "redacao_referencia": 9.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "27º lugar",
+              "nota_final": 3.25,
+              "acertos": 10,
+              "redacao_referencia": 4.0
+            }
+          },
+          "ultima_chamada": null
+        },
+        {
+          "edicao": "2026/1",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 21º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.63,
+              "acertos": 31,
+              "redacao_referencia": 9.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "21º lugar",
+              "nota_final": 4.63,
+              "acertos": 17,
+              "redacao_referencia": 5.0
+            }
+          },
+          "ultima_chamada": null
+        },
+        {
+          "edicao": "2025/2",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 25º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.3,
+              "acertos": 35,
+              "redacao_referencia": 6.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "25º lugar",
+              "nota_final": 4.8,
+              "acertos": 19,
+              "redacao_referencia": 5.0
+            }
+          },
+          "ultima_chamada": null
+        },
+        {
+          "edicao": "2025/1",
+          "vagas": 47,
+          "primeira_chamada": {
+            "faixa": "1º ao 31º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 6.8,
+              "acertos": 27,
+              "redacao_referencia": 7.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "31º lugar",
+              "nota_final": 3.4,
+              "acertos": 12,
+              "redacao_referencia": 5.0
+            }
+          },
+          "ultima_chamada": null
+        },
+        {
+          "edicao": "2024/2",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 8º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.0,
+              "acertos": 32,
+              "redacao_referencia": 8.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "8º lugar",
+              "nota_final": 3.9,
+              "acertos": 13,
+              "redacao_referencia": 6.5
+            }
+          },
+          "ultima_chamada": null
+        }
+      ]
+    },
+    "ADM": {
+      "nome": "Bacharelado em Administração",
+      "historico": [
+        {
+          "edicao": "2026/2",
+          "vagas": 44,
+          "primeira_chamada": {
+            "faixa": "1º ao 44º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 9.13,
+              "acertos": 35,
+              "redacao_referencia": 9.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "44º lugar",
+              "nota_final": 7.0,
+              "acertos": 32,
+              "redacao_referencia": 6.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "3ª Chamada",
+            "faixa": "52º ao 53º",
+            "primeiro_convocado": {
+              "posicao": "52º lugar",
+              "nota_final": 6.63,
+              "acertos": 25,
+              "redacao_referencia": 7.0
+            },
+            "ultimo_convocado": {
+              "posicao": "53º lugar",
+              "nota_final": 6.63,
+              "acertos": 25,
+              "redacao_referencia": 7.0
+            }
+          }
+        },
+        {
+          "edicao": "2026/1",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 50º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.5,
+              "acertos": 32,
+              "redacao_referencia": 9.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "50º lugar",
+              "nota_final": 6.5,
+              "acertos": 24,
+              "redacao_referencia": 7.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "2ª Chamada",
+            "faixa": "51º ao 55º",
+            "primeiro_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 6.5,
+              "acertos": 24,
+              "redacao_referencia": 7.0
+            },
+            "ultimo_convocado": {
+              "posicao": "55º lugar",
+              "nota_final": 6.38,
+              "acertos": 21,
+              "redacao_referencia": 7.5
+            }
+          }
+        },
+        {
+          "edicao": "2025/2",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 50º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.3,
+              "acertos": 35,
+              "redacao_referencia": 6.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "50º lugar",
+              "nota_final": 6.0,
+              "acertos": 25,
+              "redacao_referencia": 5.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "2ª Chamada",
+            "faixa": "51º ao 53º",
+            "primeiro_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 5.9,
+              "acertos": 24,
+              "redacao_referencia": 5.5
+            },
+            "ultimo_convocado": {
+              "posicao": "53º lugar",
+              "nota_final": 5.8,
+              "acertos": 24,
+              "redacao_referencia": 5.0
+            }
+          }
+        },
+        {
+          "edicao": "2025/1",
+          "vagas": 47,
+          "primeira_chamada": {
+            "faixa": "1º ao 47º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.6,
+              "acertos": 30,
+              "redacao_referencia": 8.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "47º lugar",
+              "nota_final": 5.2,
+              "acertos": 19,
+              "redacao_referencia": 7.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "6ª Chamada",
+            "faixa": "62º lugar",
+            "primeiro_convocado": {
+              "posicao": "62º lugar",
+              "nota_final": 5.0,
+              "acertos": 21,
+              "redacao_referencia": 4.0
+            },
+            "ultimo_convocado": {
+              "posicao": "62º lugar",
+              "nota_final": 5.0,
+              "acertos": 21,
+              "redacao_referencia": 4.0
+            }
+          }
+        },
+        {
+          "edicao": "2024/2",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 50º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.7,
+              "acertos": 31,
+              "redacao_referencia": 7.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "50º lugar",
+              "nota_final": 4.8,
+              "acertos": 20,
+              "redacao_referencia": 4.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "4ª Chamada",
+            "faixa": "67º ao 69º",
+            "primeiro_convocado": {
+              "posicao": "67º lugar",
+              "nota_final": 4.2,
+              "acertos": 17,
+              "redacao_referencia": 4.0
+            },
+            "ultimo_convocado": {
+              "posicao": "69º lugar",
+              "nota_final": 4.1,
+              "acertos": 15,
+              "redacao_referencia": 5.5
+            }
+          }
+        }
+      ]
+    },
+    "PEDAGOGIA": {
+      "nome": "Licenciatura em Pedagogia",
+      "historico": [
+        {
+          "edicao": "2026/2",
+          "vagas": 42,
+          "primeira_chamada": {
+            "faixa": "1º ao 42º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.88,
+              "acertos": 33,
+              "redacao_referencia": 9.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "42º lugar",
+              "nota_final": 6.5,
+              "acertos": 24,
+              "redacao_referencia": 7.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "3ª Chamada",
+            "faixa": "59º ao 64º",
+            "primeiro_convocado": {
+              "posicao": "59º lugar",
+              "nota_final": 5.75,
+              "acertos": 18,
+              "redacao_referencia": 7.0
+            },
+            "ultimo_convocado": {
+              "posicao": "64º lugar",
+              "nota_final": 5.63,
+              "acertos": 27,
+              "redacao_referencia": 4.5
+            }
+          }
+        },
+        {
+          "edicao": "2026/1",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 50º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 8.5,
+              "acertos": 30,
+              "redacao_referencia": 9.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "50º lugar",
+              "nota_final": 5.88,
+              "acertos": 19,
+              "redacao_referencia": 7.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "3ª Chamada",
+            "faixa": "51º lugar",
+            "primeiro_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 5.88,
+              "acertos": 19,
+              "redacao_referencia": 7.0
+            },
+            "ultimo_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 5.88,
+              "acertos": 19,
+              "redacao_referencia": 7.0
+            }
+          }
+        },
+        {
+          "edicao": "2025/2",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 50º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.8,
+              "acertos": 31,
+              "redacao_referencia": 8.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "50º lugar",
+              "nota_final": 5.5,
+              "acertos": 20,
+              "redacao_referencia": 7.5
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "2ª Chamada",
+            "faixa": "51º ao 60º",
+            "primeiro_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 5.4,
+              "acertos": 23,
+              "redacao_referencia": 4.0
+            },
+            "ultimo_convocado": {
+              "posicao": "60º lugar",
+              "nota_final": 5.1,
+              "acertos": 19,
+              "redacao_referencia": 6.5
+            }
+          }
+        },
+        {
+          "edicao": "2025/1",
+          "vagas": 48,
+          "primeira_chamada": {
+            "faixa": "1º ao 48º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.0,
+              "acertos": 27,
+              "redacao_referencia": 8.0
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "48º lugar",
+              "nota_final": 5.0,
+              "acertos": 18,
+              "redacao_referencia": 7.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "5ª Chamada",
+            "faixa": "65º ao 67º",
+            "primeiro_convocado": {
+              "posicao": "65º lugar",
+              "nota_final": 4.7,
+              "acertos": 17,
+              "redacao_referencia": 6.5
+            },
+            "ultimo_convocado": {
+              "posicao": "67º lugar",
+              "nota_final": 4.6,
+              "acertos": 17,
+              "redacao_referencia": 6.0
+            }
+          }
+        },
+        {
+          "edicao": "2024/2",
+          "vagas": 50,
+          "primeira_chamada": {
+            "faixa": "1º ao 50º",
+            "primeiro_lugar": {
+              "posicao": "1º lugar",
+              "nota_final": 7.3,
+              "acertos": 28,
+              "redacao_referencia": 8.5
+            },
+            "ultimo_lugar_chamada": {
+              "posicao": "50º lugar",
+              "nota_final": 3.8,
+              "acertos": 14,
+              "redacao_referencia": 5.0
+            }
+          },
+          "ultima_chamada": {
+            "nome_chamada": "2ª Chamada",
+            "faixa": "51º ao 58º",
+            "primeiro_convocado": {
+              "posicao": "51º lugar",
+              "nota_final": 3.6,
+              "acertos": 14,
+              "redacao_referencia": 4.0
+            },
+            "ultimo_convocado": {
+              "posicao": "58º lugar",
+              "nota_final": 3.3,
+              "acertos": 12,
+              "redacao_referencia": 4.5
+            }
+          }
+        }
+      ]
+    }
+  }
+}

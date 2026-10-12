@@ -1,0 +1,3336 @@
+{
+  "texts": [
+    {
+      "id": "texto-palhoca-2026",
+      "title": "Palhoça em Perspectiva: Território, História e Sociedade",
+      "content": "Localizado na região metropolitana de Florianópolis, o município de Palhoça apresenta diversidade geográfica marcada por áreas litorâneas, morros e planícies. O território é cortado por rios e abriga importantes formações naturais, como a Guarda do Embaú, reconhecida por sua beleza paisagística e relevância ambiental. O clima predominante é subtropical úmido, com vegetação típica da Mata Atlântica, o que contribui para a biodiversidade local. O crescimento populacional nas últimas décadas tem intensificado a ocupação urbana, trazendo desafios relacionados ao meio ambiente e à infraestrutura. Historicamente, Palhoça teve sua ocupação ligada ao processo de colonização açoriana, iniciado no século XVIII, com forte influência cultural que permanece visível nas tradições locais. A emancipação política ocorreu no século XIX, consolidando o município como unidade administrativa própria. Datas festivas, celebrações religiosas e eventos comunitários mantêm vivas as raízes históricas e culturais da população. No campo cultural, destacam-se manifestações folclóricas, festas tradicionais e a valorização de expressões artísticas locais, incluindo música, literatura e artes visuais. O hino municipal e eventos culturais reforçam o sentimento de pertencimento e identidade coletiva dos moradores. Economicamente, o município apresenta atividades diversificadas, incluindo agricultura, pesca, maricultura, comércio e setor industrial em expansão. Sua proximidade com centros urbanos maiores favorece o desenvolvimento econômico, ao mesmo tempo em que exige planejamento para equilibrar crescimento e preservação ambiental. Politicamente, Palhoça possui estrutura administrativa composta pela prefeitura e pela câmara de vereadores, responsáveis pela gestão pública e elaboração de leis municipais. Ao longo de sua história, o município também revelou personagens ilustres em diversas áreas, como política, artes e comunicação, contribuindo para o desenvolvimento local e regional."
+    },
+    {
+      "id": "texto-palhoca-ia",
+      "title": "Palhoça: território, cultura e desenvolvimento",
+      "content": "O município de Palhoça apresenta diversidade geográfica, com áreas litorâneas, morros, rios, planícies e formações naturais associadas à Mata Atlântica. Essas características influenciam as possibilidades de ocupação do território, mas não explicam sozinhas a dinâmica urbana. O crescimento populacional, a infraestrutura disponível e as atividades econômicas também participam desse processo. A história local é marcada por influências da colonização açoriana e pela preservação de manifestações culturais e religiosas. Festas tradicionais, expressões folclóricas, o hino municipal e outros elementos da memória coletiva contribuem para a construção da identidade palhocense. Essas práticas, entretanto, não permanecem necessariamente iguais ao longo das gerações: podem preservar referências históricas e, ao mesmo tempo, adquirir novos significados. A economia municipal reúne atividades como comércio, indústria, agricultura, pesca, maricultura e turismo. A proximidade com outros centros urbanos favorece a circulação de pessoas, mercadorias e serviços, ao mesmo tempo que aumenta a necessidade de planejamento territorial. Na organização política, a Prefeitura e a Câmara de Vereadores desempenham funções institucionais distintas. A gestão municipal envolve a execução de políticas e serviços públicos, enquanto o Poder Legislativo participa da elaboração das leis e da fiscalização, respeitadas as competências de cada instituição."
+    }
+  ],
+  "questions": [
+    {
+      "id": "PF001",
+      "textId": null,
+      "tags": [
+        "#2019-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale em qual das alternativas abaixo não representa manifestações culturais presentes em Palhoça que sejam de matriz portuguesa:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Boi-de-mamão, farra do boi, terno de reis, festa do divino, malhação de judas."
+        },
+        {
+          "key": "B",
+          "text": "Boi-de-mamão, farra do boi, terno de reis, festa do divino, pão por Deus."
+        },
+        {
+          "key": "C",
+          "text": "Boi-de-mamão, farra do boi, terno de reis, novenas, pão por Deus, malhação de judas."
+        },
+        {
+          "key": "D",
+          "text": "Benzeduras, farra do boi, terno de reis, festa do divino, pão por Deus, malhação de judas."
+        },
+        {
+          "key": "E",
+          "text": "Boi-de-mamão, farra do boi, dia das bruxas, festa do divino, pão por Deus, malhação de judas."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "O Halloween (Dia das Bruxas) não integra o conjunto tradicional de manifestações de matriz portuguesa listado nas demais alternativas; por isso, a alternativa E é a indicada no material-base."
+    },
+    {
+      "id": "PF002",
+      "textId": null,
+      "tags": [
+        "#2019-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Sobre a ocupação humana em Palhoça, assinale a alternativa correta:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Os primeiros habitantes da região foram colonizadores portugueses, que se fixaram por volta de 1650 onde hoje é o centro de Palhoça."
+        },
+        {
+          "key": "B",
+          "text": "Os primeiros habitantes foram povos indígenas, conforme demonstram os registros arqueológicos."
+        },
+        {
+          "key": "C",
+          "text": "Os primeiros habitantes foram italianos e alemães, provenientes de ondas emigratórias após as guerras de unificação em seus países no século XIX."
+        },
+        {
+          "key": "D",
+          "text": "Náufragos espanhóis foram os primeiros habitantes, seguidos por portugueses, alemães e italianos."
+        },
+        {
+          "key": "E",
+          "text": "O povoamento de Palhoça só começou a partir da fuga da família de Francisco Dias Velho, saindo de Florianópolis para Palhoça após o fatídico ataque de piratas."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A presença humana na região é anterior à colonização europeia. Vestígios arqueológicos e a história indígena de Santa Catarina demonstram a ocupação originária por povos indígenas."
+    },
+    {
+      "id": "PF003",
+      "textId": null,
+      "tags": [
+        "#2019-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Sobre os limites geográficos de Palhoça, assinale a alternativa correta:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ao norte São José; ao sul Paulo Lopes; a oeste Santo Amaro da Imperatriz e a leste Florianópolis."
+        },
+        {
+          "key": "B",
+          "text": "Ao norte São José; ao sul Garopaba; a oeste Santo Amaro da Imperatriz e a leste com o oceano Atlântico."
+        },
+        {
+          "key": "C",
+          "text": "Ao norte São José; ao sul Paulo Lopes; a oeste Santo Amaro da Imperatriz e a leste com o oceano Pacífico."
+        },
+        {
+          "key": "D",
+          "text": "Ao norte São José; ao sul Paulo Lopes; a oeste São Pedro de Alcântara e a leste com o oceano Atlântico."
+        },
+        {
+          "key": "E",
+          "text": "Ao norte São José; ao sul Paulo Lopes; a oeste Santo Amaro da Imperatriz e a leste com o oceano Atlântico."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "O gabarito do material indica a alternativa E: São José ao norte, Paulo Lopes ao sul, Santo Amaro da Imperatriz a oeste e o oceano Atlântico a leste."
+    },
+    {
+      "id": "PF004",
+      "textId": null,
+      "tags": [
+        "#2019-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Atualmente, a câmara de vereadores de Palhoça é composta por:",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 vereadores."
+        },
+        {
+          "key": "B",
+          "text": "20 vereadores."
+        },
+        {
+          "key": "C",
+          "text": "17 vereadores."
+        },
+        {
+          "key": "D",
+          "text": "18 vereadores."
+        },
+        {
+          "key": "E",
+          "text": "19 vereadores."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O documento registra 17 vereadores como resposta da edição de 2019/1. É um dado histórico da prova: para a legislatura 2025–2028, a Câmara tem 19 vereadores; a própria questão complementar feita por IA no PDF indica 21, mas esse gabarito foi corrigido após conferência da composição oficial."
+    },
+    {
+      "id": "PF005",
+      "textId": null,
+      "tags": [
+        "#2019-1",
+        "#palhoca-fmp"
+      ],
+      "question": "A criação do município de Palhoça ocorreu por meio do decreto número 184 de 24 de abril de 1894 assinado pelo então governador Antonio Moreira César, sobre esse contexto histórico, assinale a alternativa CORRETA:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A nomeação de Moreira César pelo Marechal Deodoro da Fonseca foi uma tentativa de acabar com a Guerra do Contestado."
+        },
+        {
+          "key": "B",
+          "text": "Após negociar solução pacífica para a questão do Contestado e decretar a fundação de Palhoça, Moreira Cesar foi enviado para solucionar o conflito de Canudos, de onde saiu vitorioso."
+        },
+        {
+          "key": "C",
+          "text": "Moreira Cesar foi governador eleito pelo povo, e por conta do grande apoio recebido pelos palhocenses, retribuiu concedendo o status de município independente ao povoado."
+        },
+        {
+          "key": "D",
+          "text": "A vinda de Moreira Cesar está relacionada a violenta repressão à Revolução Federalista, por ordem direta do presidente Floriano Peixoto para reprimir os revoltosos em Santa Catarina."
+        },
+        {
+          "key": "E",
+          "text": "Todas as alternativas estão incorretas."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Segundo o gabarito do documento, a alternativa D relaciona a atuação de Moreira César em Santa Catarina à repressão da Revolução Federalista durante o governo de Floriano Peixoto. O item deve ser estudado como questão histórica da edição, e não como uma descrição neutra de todo o contexto político."
+    },
+    {
+      "id": "PF006",
+      "textId": null,
+      "tags": [
+        "#2020-1",
+        "#palhoca-fmp"
+      ],
+      "question": "“Comemorada em Palhoça desde o ano de 1890. Cada ano uma família é escolhida como festeira. No dia da festa, acompanhado pela banda de música, o cortejo composto pelo imperador, imperatriz e pajens, vestidos a caráter percorre as ruas e vai se instalar num trono onde permanece presidindo a festa, com missa, barraquinhas, queima de fogos, leilões, baile e outras atividades”: O nome desta tradição bastante difundida em Palhoça é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "terno de reis."
+        },
+        {
+          "key": "B",
+          "text": "malhação de judas."
+        },
+        {
+          "key": "C",
+          "text": "festa do divino"
+        },
+        {
+          "key": "D",
+          "text": "farra do boi."
+        },
+        {
+          "key": "E",
+          "text": "boi-de-mamão."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A descrição do cortejo com imperador, imperatriz, pajens, missa, barraquinhas, leilões e baile corresponde à Festa do Divino Espírito Santo, tradição religiosa e popular associada à influência portuguesa."
+    },
+    {
+      "id": "PF007",
+      "textId": null,
+      "tags": [
+        "#2020-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Sobre os limites geográficos do município de Palhoça, assinale a alternativa correta que contém os municípios que fazem fronteira com a cidade:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Florianópolis, São Pedro de Alcântara, Santo Amaro da Imperatriz e Paulo Lopes."
+        },
+        {
+          "key": "B",
+          "text": "Biguaçu, São Pedro de Alcântara, Santo Amaro da Imperatriz e Águas Mornas."
+        },
+        {
+          "key": "C",
+          "text": "São José, São Pedro de Alcântara, Santo Amaro da Imperatriz e Paulo Lopes."
+        },
+        {
+          "key": "D",
+          "text": "Florianópolis, São Pedro de Alcântara, Santo Amaro da Imperatriz e Águas Mornas."
+        },
+        {
+          "key": "E",
+          "text": "São José, São Pedro de Alcântara, Santo Amaro da Imperatriz e Águas Mornas."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A alternativa indicada no material lista São José, São Pedro de Alcântara, Santo Amaro da Imperatriz e Paulo Lopes como municípios limítrofes de Palhoça."
+    },
+    {
+      "id": "PF008",
+      "textId": null,
+      "tags": [
+        "#2020-1",
+        "#palhoca-fmp"
+      ],
+      "question": "O primeiro núcleo de colonização europeia em Palhoça foi em:",
+      "options": [
+        {
+          "key": "A",
+          "text": "São Sebastião"
+        },
+        {
+          "key": "B",
+          "text": "Caminho Novo"
+        },
+        {
+          "key": "C",
+          "text": "Enseada do Brito"
+        },
+        {
+          "key": "D",
+          "text": "Ponta de Baixo"
+        },
+        {
+          "key": "E",
+          "text": "Barra do Aririú"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Enseada do Brito é apontada como o primeiro núcleo de colonização europeia e como um dos povoados históricos mais antigos de Palhoça."
+    },
+    {
+      "id": "PF009",
+      "textId": null,
+      "tags": [
+        "#2020-1",
+        "#palhoca-fmp"
+      ],
+      "question": "A ocupação portuguesa no litoral catarinense resultou na construção de fortificações que procuravam evitar as invasões estrangeiras. Palhoça se insere neste conjunto de fortificações através da construção de (da):",
+      "options": [
+        {
+          "key": "A",
+          "text": "Forte dos Reis Magos"
+        },
+        {
+          "key": "B",
+          "text": "Forte de São José da Ponta Grossa."
+        },
+        {
+          "key": "C",
+          "text": "Fortaleza de Nossa Senhora da Conceição de Araçatuba"
+        },
+        {
+          "key": "D",
+          "text": "Fortaleza de Anhatomirim"
+        },
+        {
+          "key": "E",
+          "text": "Forte Sant´Ana"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A Fortaleza de Nossa Senhora da Conceição de Araçatuba integra o sistema histórico de fortificações da entrada da Baía Sul, na região de Palhoça, construído para proteger o litoral."
+    },
+    {
+      "id": "PF010",
+      "textId": null,
+      "tags": [
+        "#2020-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Neste ano um importante parque de Palhoça sofreu os efeitos da longa estiagem que se abateu sobre o município tendo como consequência um incêndio de grandes proporções. Sobre este parque:",
+      "options": [
+        {
+          "key": "A",
+          "text": "É conhecido como Serra do Tabuleiro e tem como característica a ausência de espécies animais nativas."
+        },
+        {
+          "key": "B",
+          "text": "Trata-se do Parque Municipal de Palhoça, criado pela lei municipal 8530/2008."
+        },
+        {
+          "key": "C",
+          "text": "Trata-se do Parque Estadual da Serra do Tabuleiro, que se localiza unicamente em território palhocense."
+        },
+        {
+          "key": "D",
+          "text": "É o Parque Estadual da Serra do Tabuleiro, que abrange áreas de outros municípios além de Palhoça, possui vegetação e fauna nativa e é importante ponto turístico."
+        },
+        {
+          "key": "E",
+          "text": "É o Parque do Rio Vermelho."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "O Parque Estadual da Serra do Tabuleiro é uma unidade de conservação estadual que abrange áreas de mais de um município, protege ecossistemas nativos e possui relevância ambiental e turística."
+    },
+    {
+      "id": "PF011",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o número de vereadores que compõem a câmara legislativa de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 vereadores."
+        },
+        {
+          "key": "B",
+          "text": "20 vereadores."
+        },
+        {
+          "key": "C",
+          "text": "17 vereadores."
+        },
+        {
+          "key": "D",
+          "text": "18 vereadores."
+        },
+        {
+          "key": "E",
+          "text": "15 vereadores."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O PDF registra 17 vereadores como gabarito da edição 2023/1. Trata-se de uma resposta histórica do material; para a legislatura 2025–2028, a composição oficial é de 19 vereadores."
+    },
+    {
+      "id": "PF012",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica os municípios que fazem limite com o município de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "São José, São Pedro de Alcântara, Santo Amaro da Imperatriz, Paulo Lopes."
+        },
+        {
+          "key": "B",
+          "text": "São José, Biguaçu, Santo Amaro da Imperatriz, Paulo Lopes."
+        },
+        {
+          "key": "C",
+          "text": "São José, São Pedro de Alcântara, Santo Amaro da Imperatriz, Biguaçu."
+        },
+        {
+          "key": "D",
+          "text": "São José, São Pedro de Alcântara, Santo Amaro da Imperatriz, Garopaba."
+        },
+        {
+          "key": "E",
+          "text": "São José, Santo Amaro da Imperatriz, Paulo Lopes, Garopaba."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A alternativa A é a lista indicada pelo material: São José, São Pedro de Alcântara, Santo Amaro da Imperatriz e Paulo Lopes."
+    },
+    {
+      "id": "PF013",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o aniversário de emancipação política de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "24 de abril"
+        },
+        {
+          "key": "B",
+          "text": "07 de setembro"
+        },
+        {
+          "key": "C",
+          "text": "24 de agosto"
+        },
+        {
+          "key": "D",
+          "text": "08 de agosto"
+        },
+        {
+          "key": "E",
+          "text": "31 de outubro"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Palhoça celebra sua emancipação política em 24 de abril, data associada à criação do município por decreto em 1894."
+    },
+    {
+      "id": "PF014",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a manifestação folclórica de maior apelo cultural no município de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bandeira do Divino"
+        },
+        {
+          "key": "B",
+          "text": "Festa do Divino Espírito Santo"
+        },
+        {
+          "key": "C",
+          "text": "Boi-de-mamão"
+        },
+        {
+          "key": "D",
+          "text": "Pau-de-fitas"
+        },
+        {
+          "key": "E",
+          "text": "Folia de Reis"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A Festa do Divino Espírito Santo é apresentada no material como a manifestação folclórica de maior apelo cultural no município, articulando religiosidade, tradição e participação comunitária."
+    },
+    {
+      "id": "PF015",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do exgovernador de Santa Catarina que nasceu em Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Celso Ramos"
+        },
+        {
+          "key": "B",
+          "text": "Colombo Machado Sales"
+        },
+        {
+          "key": "C",
+          "text": "Luiz Henrique da Silveira"
+        },
+        {
+          "key": "D",
+          "text": "Pedro Ivo Campos"
+        },
+        {
+          "key": "E",
+          "text": "Ivo Silveira"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Ivo Silveira nasceu em Palhoça e posteriormente foi governador de Santa Catarina, além de ocupar outros cargos públicos estaduais."
+    },
+    {
+      "id": "PF016",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do bairro que é considerado distrito no município de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Enseada do Brito"
+        },
+        {
+          "key": "B",
+          "text": "Pinheira"
+        },
+        {
+          "key": "C",
+          "text": "Praia de Fora"
+        },
+        {
+          "key": "D",
+          "text": "Ponte de Imaruim"
+        },
+        {
+          "key": "E",
+          "text": "Aririu"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Enseada do Brito é reconhecida como distrito de Palhoça e tem importante patrimônio histórico-cultural."
+    },
+    {
+      "id": "PF017",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do padroeiro de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "São Sebastião"
+        },
+        {
+          "key": "B",
+          "text": "Senhor Bom Jesus de Nazaré"
+        },
+        {
+          "key": "C",
+          "text": "São José"
+        },
+        {
+          "key": "D",
+          "text": "São Tomé"
+        },
+        {
+          "key": "E",
+          "text": "Sagrado Coração de Jesus"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O padroeiro indicado nas provas locais é o Senhor Bom Jesus de Nazaré."
+    },
+    {
+      "id": "PF018",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do autor da letra do Hino do Município de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Roberto Kel"
+        },
+        {
+          "key": "B",
+          "text": "Egon Francisco Willibald Schaden"
+        },
+        {
+          "key": "C",
+          "text": "Reinaldo Weingartner"
+        },
+        {
+          "key": "D",
+          "text": "Nicolau Nagib Nahas"
+        },
+        {
+          "key": "E",
+          "text": "Paulo Roberto Vidal"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O material atribui a Roberto Kel a autoria da letra do Hino do Município de Palhoça."
+    },
+    {
+      "id": "PF019",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Palhoça é destaque nacional:",
+      "options": [
+        {
+          "key": "A",
+          "text": "no cultivo de hortaliças"
+        },
+        {
+          "key": "B",
+          "text": "no plantio de milho"
+        },
+        {
+          "key": "C",
+          "text": "na agropecuária de corte"
+        },
+        {
+          "key": "D",
+          "text": "no plantio de mandioca"
+        },
+        {
+          "key": "E",
+          "text": "no cultivo de mexilhões"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "A alternativa E destaca o cultivo de mexilhões, atividade ligada à maricultura, setor importante da economia costeira local."
+    },
+    {
+      "id": "PF020",
+      "textId": null,
+      "tags": [
+        "#2023-1",
+        "#palhoca-fmp"
+      ],
+      "question": "A FMP, mantida com recursos da prefeitura de Palhoça, foi criada por uma Lei Municipal no ano de:",
+      "options": [
+        {
+          "key": "A",
+          "text": "2003"
+        },
+        {
+          "key": "B",
+          "text": "2004"
+        },
+        {
+          "key": "C",
+          "text": "2005"
+        },
+        {
+          "key": "D",
+          "text": "2006"
+        },
+        {
+          "key": "E",
+          "text": "2007"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A Faculdade Municipal de Palhoça foi criada pela Lei Municipal nº 2.182, de 25 de outubro de 2005."
+    },
+    {
+      "id": "PF021",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "A FMP dentro da estrutura administrativa do município de Palhoça é definida como:",
+      "options": [
+        {
+          "key": "A",
+          "text": "autarquia"
+        },
+        {
+          "key": "B",
+          "text": "fundação"
+        },
+        {
+          "key": "C",
+          "text": "secretaria"
+        },
+        {
+          "key": "D",
+          "text": "superintendência"
+        },
+        {
+          "key": "E",
+          "text": "intendência"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A FMP possui natureza de autarquia municipal de ensino superior, conforme a legislação municipal que a criou."
+    },
+    {
+      "id": "PF022",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Indique a alternativa que contém o nome de uma das praias citadas no Hino de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Praia de Fora"
+        },
+        {
+          "key": "B",
+          "text": "Praia do Sonho"
+        },
+        {
+          "key": "C",
+          "text": "Guarda do Embaú"
+        },
+        {
+          "key": "D",
+          "text": "Ponta do Papagaio"
+        },
+        {
+          "key": "E",
+          "text": "Pinheira"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "O nome Pinheira aparece entre as localidades citadas no Hino Municipal, conforme o gabarito da prova."
+    },
+    {
+      "id": "PF023",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Indique a alternativa que contém o nome do padroeiro do município de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Senhor Bom Jesus de Nazaré"
+        },
+        {
+          "key": "B",
+          "text": "São Sebastião"
+        },
+        {
+          "key": "C",
+          "text": "São Tomé"
+        },
+        {
+          "key": "D",
+          "text": "São Joaquim"
+        },
+        {
+          "key": "E",
+          "text": "São José"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O Senhor Bom Jesus de Nazaré é o padroeiro indicado para o município de Palhoça."
+    },
+    {
+      "id": "PF024",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Todos os municípios abaixo fazem divisa com Palhoça. Exceto:",
+      "options": [
+        {
+          "key": "A",
+          "text": "São José"
+        },
+        {
+          "key": "B",
+          "text": "Santo Amaro da Imperatriz"
+        },
+        {
+          "key": "C",
+          "text": "Águas mornas"
+        },
+        {
+          "key": "D",
+          "text": "São Pedro de Alcântara"
+        },
+        {
+          "key": "E",
+          "text": "Paulo Lopes"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Águas Mornas não está entre os municípios limítrofes indicados no material para Palhoça; os demais nomes da questão aparecem na lista de municípios vizinhos."
+    },
+    {
+      "id": "PF025",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do mais antigo povoado de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Praia da Pinheira"
+        },
+        {
+          "key": "B",
+          "text": "Barra do Aririu"
+        },
+        {
+          "key": "C",
+          "text": "Guarda do Cubatão"
+        },
+        {
+          "key": "D",
+          "text": "Guarda do Embaú"
+        },
+        {
+          "key": "E",
+          "text": "Enseada do Brito"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Enseada do Brito é apontada nas provas locais como o mais antigo povoado de Palhoça, com raízes históricas ligadas à colonização litorânea."
+    },
+    {
+      "id": "PF026",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Indique a alternativa que contém o nome do rio que marca a divisa geográfica entre os municípios de Palhoça e Paulo Lopes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rio Imaruim"
+        },
+        {
+          "key": "B",
+          "text": "Rio da Madre"
+        },
+        {
+          "key": "C",
+          "text": "Rio Cubatão"
+        },
+        {
+          "key": "D",
+          "text": "Rio Aririú"
+        },
+        {
+          "key": "E",
+          "text": "Rio Massiambu"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O Rio da Madre marca a divisa geográfica entre Palhoça e Paulo Lopes; essa delimitação também aparece em informações institucionais de Paulo Lopes: https://paulolopes.sc.gov.br/noticia-527068/"
+    },
+    {
+      "id": "PF027",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a posição de Palhoça entre os municípios mais populosos de Santa Catarina, segundo os dados do Censo IBGE/2022.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sexto"
+        },
+        {
+          "key": "B",
+          "text": "quinto"
+        },
+        {
+          "key": "C",
+          "text": "oitavo"
+        },
+        {
+          "key": "D",
+          "text": "sétimo"
+        },
+        {
+          "key": "E",
+          "text": "nono"
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "No Censo 2022, Palhoça tinha 222.598 habitantes e aparecia na 7ª posição entre os municípios mais populosos de Santa Catarina, conforme o IBGE: https://www.ibge.gov.br/cidadesat/xtras/perfil.php?codmun=421190&r=2"
+    },
+    {
+      "id": "PF028",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a data da emancipação política de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "24 de abril"
+        },
+        {
+          "key": "B",
+          "text": "15 de novembro"
+        },
+        {
+          "key": "C",
+          "text": "06 de agosto"
+        },
+        {
+          "key": "D",
+          "text": "10 de março"
+        },
+        {
+          "key": "E",
+          "text": "10 de junho"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A data oficial comemorada como aniversário da emancipação política de Palhoça é 24 de abril."
+    },
+    {
+      "id": "PF029",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "A tese do marco temporal foi derrubada pelo Supremo Tribunal Federal em 2023. Os efeitos da decisão sobre essa tese terão validade para todo o território nacional. No município de Palhoça, o marco temporal está diretamente vinculado:",
+      "options": [
+        {
+          "key": "A",
+          "text": "à pesca artesanal da tainha nas praias."
+        },
+        {
+          "key": "B",
+          "text": "ao cultivo de mariscos e ostras."
+        },
+        {
+          "key": "C",
+          "text": "à demarcação das terras indígenas no Morro dos Cavalos."
+        },
+        {
+          "key": "D",
+          "text": "à crescente urbanização do município."
+        },
+        {
+          "key": "E",
+          "text": "à construção das obras do contorno viário da Grande Florianópolis."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A questão relaciona o debate sobre marco temporal à demarcação de terras indígenas no Morro dos Cavalos, território indígena situado em Palhoça. A explicação identifica o tema local sem pressupor que todos os desdobramentos jurídicos estejam encerrados."
+    },
+    {
+      "id": "PF030",
+      "textId": null,
+      "tags": [
+        "#2024-2",
+        "#palhoca-fmp"
+      ],
+      "question": "A FMP enquanto instituição de ensino superior é mantida com recursos do (a):",
+      "options": [
+        {
+          "key": "A",
+          "text": "estado de Santa Catarina"
+        },
+        {
+          "key": "B",
+          "text": "iniciativa privada"
+        },
+        {
+          "key": "C",
+          "text": "governo federal"
+        },
+        {
+          "key": "D",
+          "text": "câmara de vereadores de Palhoça"
+        },
+        {
+          "key": "E",
+          "text": "prefeitura de Palhoça"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "A FMP é uma instituição municipal mantida com recursos da Prefeitura de Palhoça; foi criada pela Lei Municipal nº 2.182/2005."
+    },
+    {
+      "id": "PF031",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Indique a alternativa que contém o nome do rio que marca a divisa geográfica entre os municípios de Palhoça e Paulo Lopes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rio Imaruim"
+        },
+        {
+          "key": "B",
+          "text": "Rio da Madre"
+        },
+        {
+          "key": "C",
+          "text": "Rio Cubatão"
+        },
+        {
+          "key": "D",
+          "text": "Rio Aririú"
+        },
+        {
+          "key": "E",
+          "text": "Rio Massiambu"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O Rio da Madre marca a divisa entre Palhoça e Paulo Lopes, separando inclusive partes da área conhecida como Guarda do Embaú."
+    },
+    {
+      "id": "PF032",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Na história do município de Palhoça, a “Praça das Bandeiras” presta homenagem aos:",
+      "options": [
+        {
+          "key": "A",
+          "text": "municípios da Região da Grande Florianópolis."
+        },
+        {
+          "key": "B",
+          "text": "municípios de colonização açoriana."
+        },
+        {
+          "key": "C",
+          "text": "municípios da Região da Foz do Rio Cubatão."
+        },
+        {
+          "key": "D",
+          "text": "municípios que possuem fontes de águas termais."
+        },
+        {
+          "key": "E",
+          "text": "municípios que já fizeram parte do território de Palhoça."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "A Praça das Bandeiras homenageia municípios que, em períodos anteriores, fizeram parte do território de Palhoça, conforme o conteúdo histórico cobrado pela prova."
+    },
+    {
+      "id": "PF033",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Os dados do Censo IBGE/2022 apontam que Palhoça é o ________________município mais populoso de Santa Catarina.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sexto"
+        },
+        {
+          "key": "B",
+          "text": "quinto"
+        },
+        {
+          "key": "C",
+          "text": "oitavo"
+        },
+        {
+          "key": "D",
+          "text": "sétimo"
+        },
+        {
+          "key": "E",
+          "text": "nono"
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "O Censo IBGE de 2022 registrou 222.598 habitantes e colocou Palhoça em 7º lugar entre os municípios catarinenses por população: https://www.ibge.gov.br/cidadesat/xtras/perfil.php?codmun=421190&r=2"
+    },
+    {
+      "id": "PF034",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Indique a alternativa que contém o nome das praias citadas no Hino de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pontal, Cambirela e Pinheira"
+        },
+        {
+          "key": "B",
+          "text": "Pontal, Cambirela e Praia do Sonho"
+        },
+        {
+          "key": "C",
+          "text": "Pontal, Cambirela e Guarda do Embaú"
+        },
+        {
+          "key": "D",
+          "text": "Pontal, Cambirela e Enseada do Brito"
+        },
+        {
+          "key": "E",
+          "text": "Pontal, Cambirela e Praia de Fora"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O conjunto de nomes esperado pelo gabarito é Pontal, Cambirela e Pinheira, referências à paisagem municipal presentes no Hino de Palhoça."
+    },
+    {
+      "id": "PF035",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome da instituição onde funcionou a FMP no início de suas atividades acadêmicas:",
+      "options": [
+        {
+          "key": "A",
+          "text": "UNISUL unidade Ponte de Imaruim"
+        },
+        {
+          "key": "B",
+          "text": "Escola Básica Palhoça"
+        },
+        {
+          "key": "C",
+          "text": "SESC"
+        },
+        {
+          "key": "D",
+          "text": "CAIC"
+        },
+        {
+          "key": "E",
+          "text": "SENAI"
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Segundo o material, as atividades acadêmicas iniciais da FMP ocorreram no CAIC."
+    },
+    {
+      "id": "PF036",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do mais antigo povoado de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Praia da Pinheira"
+        },
+        {
+          "key": "B",
+          "text": "Barra do Aririu"
+        },
+        {
+          "key": "C",
+          "text": "Guarda do Cubatão"
+        },
+        {
+          "key": "D",
+          "text": "Guarda do Embaú"
+        },
+        {
+          "key": "E",
+          "text": "Enseada do Brito"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Enseada do Brito é considerada o povoado mais antigo de Palhoça nas questões de conhecimentos locais reunidas no PDF."
+    },
+    {
+      "id": "PF037",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do fundador de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Caetano Silveira de Mattos"
+        },
+        {
+          "key": "B",
+          "text": "Vicentino Domingos Peixoto de Brito"
+        },
+        {
+          "key": "C",
+          "text": "Aniceto Zacchi"
+        },
+        {
+          "key": "D",
+          "text": "Matheus Caetano de Souza"
+        },
+        {
+          "key": "E",
+          "text": "Domingos Peixoto de Brito"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Caetano Silveira de Mattos é tradicionalmente apontado como fundador de Palhoça nas provas de conhecimentos locais."
+    },
+    {
+      "id": "PF038",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do fotógrafo que eternizou a memória e a história de Palhoça em imagens:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Claudir Silveira"
+        },
+        {
+          "key": "B",
+          "text": "Gedalvo José dos Passos"
+        },
+        {
+          "key": "C",
+          "text": "Nicolau Nagib Nahas"
+        },
+        {
+          "key": "D",
+          "text": "Gercino José dos Santos"
+        },
+        {
+          "key": "E",
+          "text": "Venceslau Bueno"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O gabarito identifica Gedalvo José dos Passos como o fotógrafo que registrou e preservou imagens importantes da memória histórica de Palhoça."
+    },
+    {
+      "id": "PF039",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do ex-governador de Santa Catarina que nasceu em Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Celso Ramos"
+        },
+        {
+          "key": "B",
+          "text": "Colombo Machado Sales"
+        },
+        {
+          "key": "C",
+          "text": "Luiz Henrique da Silveira"
+        },
+        {
+          "key": "D",
+          "text": "Pedro Ivo Campos"
+        },
+        {
+          "key": "E",
+          "text": "Ivo Silveira"
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Ivo Silveira nasceu em Palhoça. A Assembleia Legislativa de Santa Catarina registra sua origem e trajetória como governador: https://memoriapolitica.alesc.sc.gov.br/biografia/410-Ivo_Silveira"
+    },
+    {
+      "id": "PF040",
+      "textId": null,
+      "tags": [
+        "#2025-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do festival de música realizado em 1974, no Estádio Renato Silveira, que marcou a história cultural de Palhoça:",
+      "options": [
+        {
+          "key": "A",
+          "text": "PalhosRock"
+        },
+        {
+          "key": "B",
+          "text": "Rock in Palhoça"
+        },
+        {
+          "key": "C",
+          "text": "Palhostock"
+        },
+        {
+          "key": "D",
+          "text": "Palhoça Rock Festival"
+        },
+        {
+          "key": "E",
+          "text": "Metal Festival Rock"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Palhostock foi o festival de música realizado em 1974 no Estádio Renato Silveira, lembrado como episódio da história cultural local."
+    },
+    {
+      "id": "PF041",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a esfera responsável pela administração do Parque da Serra do Tabuleiro, com abrangência no território de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Estadual."
+        },
+        {
+          "key": "B",
+          "text": "Federal."
+        },
+        {
+          "key": "C",
+          "text": "Municipal."
+        },
+        {
+          "key": "D",
+          "text": "Privada."
+        },
+        {
+          "key": "E",
+          "text": "Internacional."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O Parque Estadual da Serra do Tabuleiro é uma unidade de conservação estadual. O IMA de Santa Catarina administra o parque: https://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao"
+    },
+    {
+      "id": "PF042",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome da festa que reúne elementos religiosos, culturais e folclóricos, resgatando tradições portuguesas e promovendo a união comunitária, no município de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Festa do Divino Espírito Santo."
+        },
+        {
+          "key": "B",
+          "text": "Festa do Sagrado Coração de Jesus."
+        },
+        {
+          "key": "C",
+          "text": "Festa da Tradição Portuguesa."
+        },
+        {
+          "key": "D",
+          "text": "Festa de Imaculada Conceição."
+        },
+        {
+          "key": "E",
+          "text": "Festa da Colonização Açoriana."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A Festa do Divino Espírito Santo reúne elementos religiosos, culturais e folclóricos e preserva tradições históricas ligadas à influência portuguesa."
+    },
+    {
+      "id": "PF043",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que corresponde à maricultura, uma atividade econômica importante para o município de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Peixes de água doce."
+        },
+        {
+          "key": "B",
+          "text": "Camarões de água salgada."
+        },
+        {
+          "key": "C",
+          "text": "Ostras e mexilhões."
+        },
+        {
+          "key": "D",
+          "text": "Berbigão."
+        },
+        {
+          "key": "E",
+          "text": "Algas marinhas."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Maricultura é o cultivo de organismos aquáticos em ambiente marinho; entre os produtos associados à atividade local estão ostras e mexilhões."
+    },
+    {
+      "id": "PF044",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a localização da Igreja de Nossa Senhora do Rosário, em Palhoça, tombada como patrimônio histórico.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pinheira."
+        },
+        {
+          "key": "B",
+          "text": "Praça central de Palhoça."
+        },
+        {
+          "key": "C",
+          "text": "Guarda do Cubatão."
+        },
+        {
+          "key": "D",
+          "text": "Enseada de Brito."
+        },
+        {
+          "key": "E",
+          "text": "Araçatuba."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A Igreja de Nossa Senhora do Rosário fica na Enseada do Brito e é apontada como patrimônio histórico de Palhoça."
+    },
+    {
+      "id": "PF045",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do município com o qual Palhoça faz limite ao sul.",
+      "options": [
+        {
+          "key": "A",
+          "text": "São José."
+        },
+        {
+          "key": "B",
+          "text": "Garopaba."
+        },
+        {
+          "key": "C",
+          "text": "Paulo Lopes."
+        },
+        {
+          "key": "D",
+          "text": "Santo Amaro da Imperatriz."
+        },
+        {
+          "key": "E",
+          "text": "Imbituba."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Paulo Lopes fica ao sul de Palhoça, e o Rio da Madre marca parte da divisa entre os dois municípios."
+    },
+    {
+      "id": "PF046",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a data que marca oficialmente a emancipação política do município de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "24 de abril."
+        },
+        {
+          "key": "B",
+          "text": "15 de novembro."
+        },
+        {
+          "key": "C",
+          "text": "06 de agosto."
+        },
+        {
+          "key": "D",
+          "text": "10 de março."
+        },
+        {
+          "key": "E",
+          "text": "10 de junho."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A emancipação política de Palhoça é comemorada em 24 de abril."
+    },
+    {
+      "id": "PF047",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica uma informação CORRETA sobre Ivo Silveira, importante figura política nascida em Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Foi o primeiro governador militar de Santa Catarina após o golpe de 1964."
+        },
+        {
+          "key": "B",
+          "text": "Atuou exclusivamente como deputado federal, sem cargos no executivo estadual."
+        },
+        {
+          "key": "C",
+          "text": "Ficou conhecido por sua atuação no setor jurídico, sem envolvimento político."
+        },
+        {
+          "key": "D",
+          "text": "Foi senador da República por três mandatos consecutivos."
+        },
+        {
+          "key": "E",
+          "text": "Foi governador de Santa Catarina."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Ivo Silveira nasceu em Palhoça e foi governador de Santa Catarina no período de 1966 a 1971, conforme o registro biográfico da ALESC: https://memoriapolitica.alesc.sc.gov.br/biografia/410-Ivo_Silveira"
+    },
+    {
+      "id": "PF048",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do órgão responsável pela manutenção da FMP.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Estado de Santa Catarina."
+        },
+        {
+          "key": "B",
+          "text": "Iniciativa privada"
+        },
+        {
+          "key": "C",
+          "text": "Governo federal."
+        },
+        {
+          "key": "D",
+          "text": "Câmara de Vereadores de Palhoça"
+        },
+        {
+          "key": "E",
+          "text": "Prefeitura de Palhoça."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "A FMP é mantida pelo poder público municipal, com recursos da Prefeitura de Palhoça."
+    },
+    {
+      "id": "PF049",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica o nome do fundador de Palhoça.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Caetano Silveira de Mattos."
+        },
+        {
+          "key": "B",
+          "text": "Vicentino Domingos Peixoto de Brito."
+        },
+        {
+          "key": "C",
+          "text": "Aniceto Zacchi."
+        },
+        {
+          "key": "D",
+          "text": "Matheus Caetano de Souza."
+        },
+        {
+          "key": "E",
+          "text": "Domingos Peixoto de Brito."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Caetano Silveira de Mattos é reconhecido, nas questões de história municipal, como fundador de Palhoça."
+    },
+    {
+      "id": "PF050",
+      "textId": null,
+      "tags": [
+        "#2025-2",
+        "#palhoca-fmp"
+      ],
+      "question": "Assinale a alternativa que indica a posição de Palhoça entre os municípios mais populosos de Santa Catarina, segundo os dados do Censo IBGE/2022.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sexto."
+        },
+        {
+          "key": "B",
+          "text": "Quinto."
+        },
+        {
+          "key": "C",
+          "text": "Oitavo."
+        },
+        {
+          "key": "D",
+          "text": "Sétimo."
+        },
+        {
+          "key": "E",
+          "text": "Nono."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "De acordo com o Censo IBGE/2022, Palhoça era o 7º município mais populoso de Santa Catarina, com 222.598 habitantes: https://www.ibge.gov.br/cidadesat/xtras/perfil.php?codmun=421190&r=2"
+    },
+    {
+      "id": "PF051",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#palhoca-fmp"
+      ],
+      "question": "O padroeiro do município de Palhoça é uma figura religiosa de grande importância para a comunidade local. Assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Senhor Bom Jesus de Nazaré"
+        },
+        {
+          "key": "B",
+          "text": "São José"
+        },
+        {
+          "key": "C",
+          "text": "São Sebastião"
+        },
+        {
+          "key": "D",
+          "text": "São Tomé"
+        },
+        {
+          "key": "E",
+          "text": "São Joaquim"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O padroeiro de Palhoça é o Senhor Bom Jesus de Nazaré, conforme o gabarito das provas locais."
+    },
+    {
+      "id": "PF052",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#palhoca-fmp"
+      ],
+      "question": "A emancipação política de Palhoça representa um marco histórico na formação do município. Assinale a alternativa que indica corretamente a data desse acontecimento.",
+      "options": [
+        {
+          "key": "A",
+          "text": "24 de abril"
+        },
+        {
+          "key": "B",
+          "text": "10 de março"
+        },
+        {
+          "key": "C",
+          "text": "10 de junho"
+        },
+        {
+          "key": "D",
+          "text": "15 de novembro"
+        },
+        {
+          "key": "E",
+          "text": "06 de agosto"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O aniversário da emancipação política de Palhoça é celebrado em 24 de abril, data associada ao decreto municipal de 1894."
+    },
+    {
+      "id": "PF053",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#palhoca-fmp"
+      ],
+      "question": "O Boi de Mamão é uma das manifestações culturais mais tradicionais de Palhoça, especialmente preservada na região da Barra. Sobre essa expressão do folclore local, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Por ser uma manifestação musical, o Boi de Mamão não utiliza elementos cênicos ou figurinos artesanais."
+        },
+        {
+          "key": "B",
+          "text": "O Boi de Mamão da Barra é apresentado apenas durante festividades religiosas e segue um roteiro sem variações ao longo dos anos."
+        },
+        {
+          "key": "C",
+          "text": "A brincadeira envolve personagens como o Boi, a Maricota, o Esqueleto e o Urubu, e combina música, dança e dramatização em torno da morte e ressurreição do boi."
+        },
+        {
+          "key": "D",
+          "text": "A origem do Boi de Mamão da Barra está muito vinculada às populações indígenas que habitavam Palhoça antes da chegada dos açorianos."
+        },
+        {
+          "key": "E",
+          "text": "Na região da Barra, a apresentação do Boi de Mamão é feita por grupos profissionais financiados pela Fundação Catarinense de Cultura"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O Boi de Mamão combina música, dança, personagens, figurinos e encenação. Em versões tradicionais, a narrativa envolve a morte e a ressurreição do boi."
+    },
+    {
+      "id": "PF054",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#palhoca-fmp"
+      ],
+      "question": "Nos últimos anos, a Prefeitura de Palhoça reforçou ações na área de infraestrutura e mobilidade urbana, com destaque para a obra de duplicação da Avenida Paulo Roberto Vidal (antiga Avenida das Torres). Essa intervenção é considera da estratégica principalmente, por quê?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Facilita exclusivamente o acesso às praias do sul do município."
+        },
+        {
+          "key": "B",
+          "text": "Melhora o fluxo entre bairros populosos e reduz congestionamentos na ligação com a BR-101."
+        },
+        {
+          "key": "C",
+          "text": "Atende ao trânsito de pedestres da região central."
+        },
+        {
+          "key": "D",
+          "text": "Tem como objetivo principal criar novas áreas de lazer e praças públicas."
+        },
+        {
+          "key": "E",
+          "text": "É voltada ao transporte cicloviário."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A alternativa B corresponde à justificativa de mobilidade apresentada na questão: a duplicação procura melhorar a circulação entre bairros populosos e as conexões com a BR-101."
+    },
+    {
+      "id": "PF055",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#palhoca-fmp"
+      ],
+      "question": "A construção do novo Hospital Regional de Palhoça tem sido destacada como uma das principais obras públicas em execução no município em 2025. Considerando as informações divulgadas oficialmente sobre o projeto, analise as afirmativas a seguir: I – O hospital será o primeiro equipamento de saúde totalmente público da cidade, com atendimento integral pelo SUS. II – O investimento estimado para a execução da obra é de cerca de R$ 120 milhões, provenientes do Governo do Estado e da Prefeitura de Palhoça. III – A implantação do hospital ocorrerá por meio de parceria com a iniciativa privada, responsável por parte da construção. Está(ão) correta(s):",
+      "options": [
+        {
+          "key": "A",
+          "text": "Apenas II"
+        },
+        {
+          "key": "B",
+          "text": "Apenas II e III"
+        },
+        {
+          "key": "C",
+          "text": "Apenas I"
+        },
+        {
+          "key": "D",
+          "text": "Apenas I e II"
+        },
+        {
+          "key": "E",
+          "text": "I, II e III"
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Segundo as informações de divulgação consideradas pela prova, as afirmações I e II são verdadeiras: o projeto prevê atendimento pelo SUS e investimento público compartilhado de cerca de R$ 120 milhões. A afirmação III não é indicada como correta porque o financiamento descrito é público, estadual e municipal."
+    },
+    {
+      "id": "PF056",
+      "textId": "texto-palhoca-2026",
+      "tags": [
+        "#2026-2",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-2026"
+      ],
+      "question": "A relação estabelecida no texto entre diversidade geográfica e crescimento urbano autoriza a interpretação de que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A heterogeneidade do relevo e da cobertura vegetal atua como condicionante, mas não como determinante absoluto."
+        },
+        {
+          "key": "B",
+          "text": "A expansão urbana ocorre prioritariamente em função de variáveis naturais, relegando a segundo plano fatores socioeconômicos."
+        },
+        {
+          "key": "C",
+          "text": "A configuração espacial do município resulta de uma relação linear entre ambiente físico e ocupação humana."
+        },
+        {
+          "key": "D",
+          "text": "A dinâmica de crescimento populacional tende a neutralizar as especificidades ambientais do território."
+        },
+        {
+          "key": "E",
+          "text": "Os elementos naturais funcionam como obstáculos intransponíveis à reorganização do espaço urbano."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O texto apresenta relevo e vegetação como fatores que influenciam a ocupação, mas também destaca crescimento populacional, infraestrutura e economia. Portanto, fatores naturais condicionam, mas não determinam sozinhos o crescimento urbano."
+    },
+    {
+      "id": "PF057",
+      "textId": "texto-palhoca-2026",
+      "tags": [
+        "#2026-2",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-2026"
+      ],
+      "question": "A permanência de traços da colonização açoriana, conforme apresentada no texto, pode ser compreendida como:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Um processo de reprodução cultural estática, sem reinterpretações ao longo do tempo."
+        },
+        {
+          "key": "B",
+          "text": "Um resquício histórico sem influência significativa nas práticas sociais contemporâneas."
+        },
+        {
+          "key": "C",
+          "text": "Uma evidência de que a identidade local se estrutura por meio de continuidades e ressignificações históricas."
+        },
+        {
+          "key": "D",
+          "text": "Um elemento isolado, dissociado das dinâmicas sociais e culturais atuais."
+        },
+        {
+          "key": "E",
+          "text": "Um indicativo de resistência à incorporação de novas referências culturais."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A permanência de influências açorianas não significa repetição imutável. Tradições podem continuar reconhecíveis e receber novos significados ao longo do tempo."
+    },
+    {
+      "id": "PF058",
+      "textId": "texto-palhoca-2026",
+      "tags": [
+        "#2026-2",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-2026"
+      ],
+      "question": "Ao considerar o papel das manifestações culturais mencionadas no texto, é possível afirmar que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A cultura local assume função predominantemente simbólica, sem efeitos sobre a coesão social."
+        },
+        {
+          "key": "B",
+          "text": "Os elementos culturais operam como dispositivos de mediação entre memória coletiva e identidade social."
+        },
+        {
+          "key": "C",
+          "text": "A valorização cultural implica necessariamente homogeneização das práticas sociais."
+        },
+        {
+          "key": "D",
+          "text": "As manifestações culturais tendem a se desvincular de processos históricos em contextos urbanos."
+        },
+        {
+          "key": "E",
+          "text": "O hino municipal exerce função meramente protocolar, sem inserção no imaginário coletivo."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Festas, folclore e hino ajudam a conectar memória coletiva, pertencimento e identidade social, para além de sua dimensão simbólica ou protocolar."
+    },
+    {
+      "id": "PF059",
+      "textId": "texto-palhoca-2026",
+      "tags": [
+        "#2026-2",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-2026"
+      ],
+      "question": "A articulação entre diversidade econômica e localização geográfica permite inferir a partir do texto que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A proximidade com centros urbanos maiores elimina a necessidade de diversificação produtiva."
+        },
+        {
+          "key": "B",
+          "text": "A estrutura econômica local se organiza de modo independente das dinâmicas regionais."
+        },
+        {
+          "key": "C",
+          "text": "O setor industrial tende a suprimir progressivamente as demais atividades econômicas."
+        },
+        {
+          "key": "D",
+          "text": "A diversificação econômica decorre, em parte, de condicionantes espaciais que favorecem fluxos e integração regional."
+        },
+        {
+          "key": "E",
+          "text": "A economia municipal apresenta baixa sensibilidade às transformações territoriais."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A proximidade com outros centros urbanos facilita fluxos de pessoas, mercadorias e serviços, favorecendo integração regional e diversificação econômica."
+    },
+    {
+      "id": "PF060",
+      "textId": "texto-palhoca-2026",
+      "tags": [
+        "#2026-2",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-2026"
+      ],
+      "question": "A descrição da organização política municipal, apresentada no texto, permite concluir que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A atuação da câmara de vereadores limita-se à validação formal de decisões do poder executivo."
+        },
+        {
+          "key": "B",
+          "text": "A estrutura política local reproduz, de forma reduzida, a centralização típica de esferas superiores de governo."
+        },
+        {
+          "key": "C",
+          "text": "A gestão pública municipal prescinde de mecanismos de representação institucional."
+        },
+        {
+          "key": "D",
+          "text": "A autonomia administrativa implica ausência de articulação entre os poderes constituídos."
+        },
+        {
+          "key": "E",
+          "text": "A separação entre funções administrativas e legislativas configura um modelo de atuação interdependente."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "A Prefeitura executa políticas e serviços públicos, enquanto a Câmara participa da elaboração das leis e fiscalização, respeitadas as competências institucionais de cada poder."
+    },
+    {
+      "id": "IAPF001",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Considerando a composição da Câmara Municipal de Palhoça para a legislatura 2025–2028, assinale a alternativa correta quanto ao número de vereadores.",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 vereadores."
+        },
+        {
+          "key": "B",
+          "text": "17 vereadores."
+        },
+        {
+          "key": "C",
+          "text": "19 vereadores."
+        },
+        {
+          "key": "D",
+          "text": "21 vereadores."
+        },
+        {
+          "key": "E",
+          "text": "23 vereadores."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O gabarito original dessa questão de IA no PDF indicava 21, mas a conferência da ata oficial da Câmara de Palhoça registra 19 vereadores presentes na composição da legislatura 2025–2028. Por isso, o gabarito foi corrigido para 19. Fonte oficial: https://www.cmp.sc.gov.br/atas/sessao_ordinaria/2025/1/0/818"
+    },
+    {
+      "id": "IAPF002",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O Parque Estadual da Serra do Tabuleiro possui grande importância ambiental para Santa Catarina e abrange áreas do município de Palhoça. Sobre sua administração, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "É uma unidade de conservação municipal, administrada exclusivamente pela Prefeitura de Palhoça."
+        },
+        {
+          "key": "B",
+          "text": "É uma unidade de conservação estadual, administrada pelo Instituto do Meio Ambiente de Santa Catarina (IMA)."
+        },
+        {
+          "key": "C",
+          "text": "É uma unidade de conservação federal, administrada exclusivamente pelo IBAMA."
+        },
+        {
+          "key": "D",
+          "text": "É uma área privada de preservação ambiental, sem participação do poder público."
+        },
+        {
+          "key": "E",
+          "text": "É uma unidade de conservação internacional, administrada conjuntamente por países do Mercosul."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O Parque Estadual da Serra do Tabuleiro é uma unidade de conservação estadual sob gestão do Instituto do Meio Ambiente de Santa Catarina (IMA): https://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao"
+    },
+    {
+      "id": "IAPF003",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A Festa do Divino Espírito Santo integra o patrimônio cultural de Palhoça, reunindo tradições religiosas e manifestações populares. Assinale a alternativa que melhor caracteriza essa celebração.",
+      "options": [
+        {
+          "key": "A",
+          "text": "É um evento essencialmente industrial, criado para divulgar a produção das empresas do município."
+        },
+        {
+          "key": "B",
+          "text": "É uma comemoração exclusivamente cívica, sem relação com tradições religiosas."
+        },
+        {
+          "key": "C",
+          "text": "É uma manifestação que articula religiosidade, tradição cultural e participação comunitária, preservando influências históricas portuguesas."
+        },
+        {
+          "key": "D",
+          "text": "É uma festividade relacionada exclusivamente à imigração italiana do século XIX."
+        },
+        {
+          "key": "E",
+          "text": "É uma celebração criada recentemente para substituir as manifestações folclóricas tradicionais."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A Festa do Divino Espírito Santo combina devoção religiosa, manifestações populares e organização comunitária, mantendo influências históricas portuguesas."
+    },
+    {
+      "id": "IAPF004",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A maricultura constitui uma atividade econômica importante no litoral catarinense, incluindo Palhoça. Assinale a alternativa que apresenta organismos tradicionalmente associados à atividade de cultivo marinho na região.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tilápias e carpas de água doce."
+        },
+        {
+          "key": "B",
+          "text": "Ostras e mexilhões."
+        },
+        {
+          "key": "C",
+          "text": "Bois e búfalos."
+        },
+        {
+          "key": "D",
+          "text": "Milho e mandioca."
+        },
+        {
+          "key": "E",
+          "text": "Café e cana-de-açúcar."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A maricultura regional é especialmente associada ao cultivo de moluscos, como ostras e mexilhões, e tem relevância econômica no litoral catarinense."
+    },
+    {
+      "id": "IAPF005",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A Igreja de Nossa Senhora do Rosário é uma referência histórica e arquitetônica de Palhoça. Em qual localidade está situado esse patrimônio?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ponte do Imaruim."
+        },
+        {
+          "key": "B",
+          "text": "Guarda do Embaú."
+        },
+        {
+          "key": "C",
+          "text": "Barra do Aririú."
+        },
+        {
+          "key": "D",
+          "text": "Enseada do Brito."
+        },
+        {
+          "key": "E",
+          "text": "Pedra Branca."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A Igreja de Nossa Senhora do Rosário está situada na Enseada do Brito, localidade histórica de Palhoça."
+    },
+    {
+      "id": "IAPF006",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual município faz limite com Palhoça ao sul?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biguaçu."
+        },
+        {
+          "key": "B",
+          "text": "Garopaba."
+        },
+        {
+          "key": "C",
+          "text": "Paulo Lopes."
+        },
+        {
+          "key": "D",
+          "text": "Imbituba."
+        },
+        {
+          "key": "E",
+          "text": "Águas Mornas."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Paulo Lopes é o município situado ao sul de Palhoça; o Rio da Madre marca parte dessa divisa: https://paulolopes.sc.gov.br/noticia-527068/"
+    },
+    {
+      "id": "IAPF007",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O Rio da Madre aparece nas questões de conhecimentos locais por sua importância na delimitação territorial. Ele está associado à divisa entre:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Palhoça e São José."
+        },
+        {
+          "key": "B",
+          "text": "Palhoça e Paulo Lopes."
+        },
+        {
+          "key": "C",
+          "text": "Palhoça e Biguaçu."
+        },
+        {
+          "key": "D",
+          "text": "Palhoça e Santo Amaro da Imperatriz."
+        },
+        {
+          "key": "E",
+          "text": "Palhoça e São Pedro de Alcântara."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O Rio da Madre está associado à divisa entre Palhoça e Paulo Lopes: https://paulolopes.sc.gov.br/noticia-527068/"
+    },
+    {
+      "id": "IAPF008",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A emancipação política de Palhoça é uma data importante para a história municipal. Assinale a alternativa que indica corretamente o aniversário de emancipação.",
+      "options": [
+        {
+          "key": "A",
+          "text": "24 de abril."
+        },
+        {
+          "key": "B",
+          "text": "7 de setembro."
+        },
+        {
+          "key": "C",
+          "text": "15 de novembro."
+        },
+        {
+          "key": "D",
+          "text": "10 de março."
+        },
+        {
+          "key": "E",
+          "text": "6 de agosto."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Palhoça celebra sua emancipação política em 24 de abril."
+    },
+    {
+      "id": "IAPF009",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "De acordo com o Censo Demográfico do IBGE de 2022, Palhoça ocupava qual posição entre os municípios mais populosos de Santa Catarina?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Terceiro lugar."
+        },
+        {
+          "key": "B",
+          "text": "Quinto lugar."
+        },
+        {
+          "key": "C",
+          "text": "Sexto lugar."
+        },
+        {
+          "key": "D",
+          "text": "Sétimo lugar."
+        },
+        {
+          "key": "E",
+          "text": "Décimo lugar."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "O IBGE registrou 222.598 habitantes em Palhoça no Censo de 2022, colocando o município em 7º lugar em Santa Catarina: https://www.ibge.gov.br/cidadesat/xtras/perfil.php?codmun=421190&r=2"
+    },
+    {
+      "id": "IAPF010",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Ivo Silveira, nascido em Palhoça, é uma figura importante da história política catarinense. Qual cargo estadual ocupou?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Governador de Santa Catarina."
+        },
+        {
+          "key": "B",
+          "text": "Prefeito de Florianópolis."
+        },
+        {
+          "key": "C",
+          "text": "Presidente da República."
+        },
+        {
+          "key": "D",
+          "text": "Presidente do Supremo Tribunal Federal."
+        },
+        {
+          "key": "E",
+          "text": "Governador do Rio Grande do Sul."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Ivo Silveira nasceu em Palhoça e foi governador de Santa Catarina. Sua biografia está registrada pela Assembleia Legislativa estadual: https://memoriapolitica.alesc.sc.gov.br/biografia/410-Ivo_Silveira"
+    },
+    {
+      "id": "IAPF011",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A Faculdade Municipal de Palhoça (FMP) foi criada em 2005. Considerando sua natureza institucional e sua vinculação administrativa, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "É uma universidade federal vinculada ao Ministério da Educação."
+        },
+        {
+          "key": "B",
+          "text": "É uma autarquia de ensino superior municipal."
+        },
+        {
+          "key": "C",
+          "text": "É uma instituição privada mantida por mensalidades."
+        },
+        {
+          "key": "D",
+          "text": "É uma instituição estadual vinculada ao Governo de Santa Catarina."
+        },
+        {
+          "key": "E",
+          "text": "É um órgão legislativo subordinado à Câmara de Vereadores."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A FMP é uma autarquia municipal de ensino superior, criada pela Lei Municipal nº 2.182/2005: https://leis.org/prefeitura/sc/palhoca/lei/lei-ordinaria/2005/2182/lei-ordinaria-n-2182-2005-cria-a-faculdade-municipal-de-palhoca-e-da-outras"
+    },
+    {
+      "id": "IAPF012",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O nome de Caetano Silveira de Mattos está associado à história da formação de Palhoça. Nas questões tradicionais de conhecimentos locais, ele é reconhecido como:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fundador de Palhoça."
+        },
+        {
+          "key": "B",
+          "text": "Autor da letra do Hino Municipal."
+        },
+        {
+          "key": "C",
+          "text": "Primeiro presidente da Câmara de Vereadores da atual legislatura."
+        },
+        {
+          "key": "D",
+          "text": "Criador do Parque Estadual da Serra do Tabuleiro."
+        },
+        {
+          "key": "E",
+          "text": "Fundador da Faculdade Municipal de Palhoça."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Caetano Silveira de Mattos é apontado como fundador de Palhoça nas questões tradicionais de história municipal."
+    },
+    {
+      "id": "IAPF013",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A Praça das Bandeiras, em Palhoça, possui um significado histórico relacionado à formação territorial regional. As bandeiras ali presentes homenageiam:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Somente os países que mantêm relações comerciais com Santa Catarina."
+        },
+        {
+          "key": "B",
+          "text": "Apenas as antigas províncias do Brasil Imperial."
+        },
+        {
+          "key": "C",
+          "text": "As cidades que possuem as maiores populações do estado."
+        },
+        {
+          "key": "D",
+          "text": "Os bairros mais populosos da região continental."
+        },
+        {
+          "key": "E",
+          "text": "Municípios que já fizeram parte do território de Palhoça."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "As bandeiras da praça homenageiam municípios que já integraram o território de Palhoça, destacando mudanças históricas da divisão territorial regional."
+    },
+    {
+      "id": "IAPF014",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O Hino Municipal apresenta referências à paisagem local. Assinale a alternativa que reúne os três nomes citados em seus versos.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Praia do Sonho, Guarda do Embaú e Enseada do Brito."
+        },
+        {
+          "key": "B",
+          "text": "Pinheira, Praia de Fora e Ponta do Papagaio."
+        },
+        {
+          "key": "C",
+          "text": "Pontal, Cambirela e Pinheira."
+        },
+        {
+          "key": "D",
+          "text": "Guarda do Cubatão, Aririú e Ponte do Imaruim."
+        },
+        {
+          "key": "E",
+          "text": "Pinheira, Rio da Madre e Enseada do Brito."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A combinação que consta no gabarito é Pontal, Cambirela e Pinheira, nomes associados à geografia local e citados no Hino Municipal."
+    },
+    {
+      "id": "IAPF015",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O Morro dos Cavalos, localizado em Palhoça, aparece em debates relacionados à questão indígena. Assinale a alternativa que identifica corretamente essa relação.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A construção de uma fortificação portuguesa para combater piratas."
+        },
+        {
+          "key": "B",
+          "text": "A exploração histórica de minas de carvão."
+        },
+        {
+          "key": "C",
+          "text": "A instalação de uma colônia de imigrantes alemães."
+        },
+        {
+          "key": "D",
+          "text": "A demarcação de terras indígenas."
+        },
+        {
+          "key": "E",
+          "text": "A implantação de um polo industrial de maricultura."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "O Morro dos Cavalos está ligado ao debate sobre demarcação de terras indígenas em Palhoça, especialmente no contexto do território Guarani."
+    },
+    {
+      "id": "IAPF016",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O Palhostock é lembrado como um acontecimento marcante da história cultural de Palhoça. Sobre esse evento, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Foi uma festa religiosa criada no início do século XXI."
+        },
+        {
+          "key": "B",
+          "text": "Foi um festival de música realizado em 1974, associado à cultura jovem e ao movimento contracultural da época."
+        },
+        {
+          "key": "C",
+          "text": "Foi uma feira agropecuária organizada exclusivamente por agricultores."
+        },
+        {
+          "key": "D",
+          "text": "Foi um festival de cinema criado para celebrar o aniversário da emancipação municipal."
+        },
+        {
+          "key": "E",
+          "text": "Foi um evento esportivo realizado para inaugurar o Parque Estadual da Serra do Tabuleiro."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Palhostock foi um festival de música realizado em 1974, associado à cultura jovem da época e lembrado na história cultural de Palhoça."
+    },
+    {
+      "id": "IAPF017",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O Boi de Mamão é uma manifestação tradicional da cultura popular local. Assinale a alternativa que melhor descreve essa expressão folclórica.",
+      "options": [
+        {
+          "key": "A",
+          "text": "É exclusivamente uma apresentação musical instrumental, sem personagens ou figurinos."
+        },
+        {
+          "key": "B",
+          "text": "É uma atividade econômica relacionada ao cultivo de moluscos."
+        },
+        {
+          "key": "C",
+          "text": "Combina música, dança e dramatização, com personagens populares e uma narrativa que tradicionalmente envolve a morte e a ressurreição do boi."
+        },
+        {
+          "key": "D",
+          "text": "É uma cerimônia restrita aos templos religiosos, sem participação comunitária."
+        },
+        {
+          "key": "E",
+          "text": "É uma competição esportiva realizada anualmente entre bairros do município."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O Boi de Mamão é uma brincadeira folclórica que combina música, dança e dramatização com personagens populares, incluindo a narrativa tradicional da morte e ressurreição do boi."
+    },
+    {
+      "id": "IAPF018",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "O projeto do Hospital Regional de Palhoça prevê financiamento público compartilhado. Considerando o convênio divulgado em dezembro de 2024, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "O investimento total previsto era de R$ 20 milhões, custeados integralmente pela Prefeitura."
+        },
+        {
+          "key": "B",
+          "text": "O investimento total era de R$ 119 milhões, sendo R$ 99 milhões do Governo do Estado e R$ 20 milhões de contrapartida do município."
+        },
+        {
+          "key": "C",
+          "text": "O hospital seria custeado integralmente por empresas privadas, sem recursos governamentais."
+        },
+        {
+          "key": "D",
+          "text": "O Governo Federal seria responsável por todo o investimento, sem participação estadual ou municipal."
+        },
+        {
+          "key": "E",
+          "text": "O investimento total seria de R$ 500 milhões, com recursos exclusivos do município."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A previsão divulgada para a obra somava R$ 119 milhões: R$ 99 milhões do Governo de Santa Catarina e R$ 20 milhões de contrapartida municipal. Fonte jornalística de 2026: https://tudoaquisc.com.br/obras/hospital-regional-palhoca-21/"
+    },
+    {
+      "id": "IAPF019",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Em notícia publicada em 8 de outubro de 2026 sobre o andamento das obras do Hospital Regional de Palhoça, qual percentual de execução foi informado?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5%."
+        },
+        {
+          "key": "B",
+          "text": "10%."
+        },
+        {
+          "key": "C",
+          "text": "21%."
+        },
+        {
+          "key": "D",
+          "text": "50%."
+        },
+        {
+          "key": "E",
+          "text": "80%."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A notícia publicada em 8 de outubro de 2026 informou execução de 21% da obra. O percentual é temporal e deve ser entendido como o status divulgado naquela data: https://tudoaquisc.com.br/obras/hospital-regional-palhoca-21/"
+    },
+    {
+      "id": "IAPF020",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "A duplicação de vias e a criação de novas ligações entre bairros podem representar intervenções importantes para a mobilidade urbana. Considerando o contexto de crescimento de Palhoça, qual alternativa apresenta a justificativa mais adequada para obras dessa natureza?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Restringir os deslocamentos entre bairros residenciais e comerciais."
+        },
+        {
+          "key": "B",
+          "text": "Melhorar a circulação entre bairros populosos e facilitar as conexões com corredores viários como a BR-101."
+        },
+        {
+          "key": "C",
+          "text": "Impedir o crescimento da atividade comercial no município."
+        },
+        {
+          "key": "D",
+          "text": "Substituir integralmente o transporte coletivo pelo transporte individual."
+        },
+        {
+          "key": "E",
+          "text": "Eliminar a necessidade de planejamento urbano e ambiental."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A justificativa é melhorar as conexões entre áreas residenciais e comerciais e ampliar o fluxo em direção a corredores estruturais, como a BR-101."
+    },
+    {
+      "id": "IAPF021",
+      "textId": "texto-palhoca-ia",
+      "tags": [
+        "#ia",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-ia"
+      ],
+      "question": "A relação entre as características naturais de Palhoça e seu crescimento urbano permite concluir que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A diversidade do território influencia as possibilidades de ocupação, mas não determina isoladamente a dinâmica urbana."
+        },
+        {
+          "key": "B",
+          "text": "A ocupação urbana depende exclusivamente das condições naturais, independentemente das decisões humanas."
+        },
+        {
+          "key": "C",
+          "text": "O crescimento populacional elimina necessariamente os limites ambientais do município."
+        },
+        {
+          "key": "D",
+          "text": "As características geográficas impedem permanentemente qualquer mudança no uso do solo."
+        },
+        {
+          "key": "E",
+          "text": "A infraestrutura urbana não interfere na distribuição da população."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O texto diz que as características naturais influenciam as possibilidades de ocupação, mas também aponta crescimento populacional, infraestrutura e atividades econômicas como fatores da dinâmica urbana."
+    },
+    {
+      "id": "IAPF022",
+      "textId": "texto-palhoca-ia",
+      "tags": [
+        "#ia",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-ia"
+      ],
+      "question": "De acordo com o texto, a permanência de manifestações culturais associadas à colonização açoriana pode ser compreendida como:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uma reprodução imutável das tradições, sem qualquer transformação histórica."
+        },
+        {
+          "key": "B",
+          "text": "Um fenômeno sem relação com a identidade dos habitantes atuais."
+        },
+        {
+          "key": "C",
+          "text": "Um processo que combina continuidade histórica e ressignificação cultural ao longo das gerações."
+        },
+        {
+          "key": "D",
+          "text": "Uma evidência de que novas influências culturais não podem ser incorporadas."
+        },
+        {
+          "key": "E",
+          "text": "Uma prática exclusivamente econômica, desvinculada da memória coletiva."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A identidade cultural pode preservar elementos históricos e, ao mesmo tempo, ressignificá-los conforme as experiências e práticas das gerações atuais."
+    },
+    {
+      "id": "IAPF023",
+      "textId": "texto-palhoca-ia",
+      "tags": [
+        "#ia",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-ia"
+      ],
+      "question": "O texto atribui às festas, ao folclore e ao hino municipal uma contribuição para a identidade local. Qual interpretação corresponde melhor a essa ideia?",
+      "options": [
+        {
+          "key": "A",
+          "text": "As manifestações culturais possuem apenas valor comercial."
+        },
+        {
+          "key": "B",
+          "text": "As expressões culturais ajudam a relacionar memória coletiva, pertencimento e identidade social."
+        },
+        {
+          "key": "C",
+          "text": "A valorização cultural exige que todos os moradores tenham as mesmas práticas e crenças."
+        },
+        {
+          "key": "D",
+          "text": "As tradições deixam de ter importância assim que o município cresce."
+        },
+        {
+          "key": "E",
+          "text": "O hino municipal não possui qualquer possível relação com a identidade coletiva."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Festas, folclore e hino são referências simbólicas compartilhadas que conectam memória coletiva, pertencimento e identidade social."
+    },
+    {
+      "id": "IAPF024",
+      "textId": "texto-palhoca-ia",
+      "tags": [
+        "#ia",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-ia"
+      ],
+      "question": "A relação entre a diversidade econômica de Palhoça e sua proximidade com outros centros urbanos permite inferir que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "A proximidade com outras cidades torna desnecessário manter diferentes atividades econômicas."
+        },
+        {
+          "key": "B",
+          "text": "O desenvolvimento industrial elimina automaticamente a importância do comércio e do turismo."
+        },
+        {
+          "key": "C",
+          "text": "A economia municipal funciona sem influência dos fluxos regionais."
+        },
+        {
+          "key": "D",
+          "text": "A integração regional pode favorecer a circulação de pessoas, mercadorias e serviços e contribuir para a diversificação econômica."
+        },
+        {
+          "key": "E",
+          "text": "O crescimento regional impede qualquer necessidade de planejamento territorial."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A proximidade com outros centros urbanos facilita circulação e integração regional, podendo contribuir para diversificar a economia, sem eliminar a necessidade de planejamento territorial."
+    },
+    {
+      "id": "IAPF025",
+      "textId": "texto-palhoca-ia",
+      "tags": [
+        "#ia",
+        "#palhoca-fmp",
+        "#com-texto",
+        "#texto-palhoca-ia"
+      ],
+      "question": "Com base no texto, assinale a alternativa que melhor descreve a atuação da Prefeitura e da Câmara de Vereadores.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A Câmara de Vereadores é responsável exclusivamente pela execução das obras públicas."
+        },
+        {
+          "key": "B",
+          "text": "A Prefeitura possui competência para substituir integralmente o Poder Legislativo."
+        },
+        {
+          "key": "C",
+          "text": "Ambas desempenham exatamente as mesmas funções administrativas e legislativas."
+        },
+        {
+          "key": "D",
+          "text": "A Câmara atua somente na validação formal das decisões tomadas pela Prefeitura."
+        },
+        {
+          "key": "E",
+          "text": "As instituições possuem funções próprias, relacionadas à gestão pública, à elaboração das leis e à fiscalização, dentro de suas competências."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Prefeitura e Câmara têm funções distintas e complementares: o Executivo administra e executa políticas; o Legislativo participa da elaboração das leis e da fiscalização."
+    },
+    {
+      "id": "IAPF026",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual norma municipal criou a Faculdade Municipal de Palhoça (FMP)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lei Municipal nº 1.894, de 1998."
+        },
+        {
+          "key": "B",
+          "text": "Lei Municipal nº 2.024, de 2003."
+        },
+        {
+          "key": "C",
+          "text": "Lei Municipal nº 2.182, de 25 de outubro de 2005."
+        },
+        {
+          "key": "D",
+          "text": "Decreto estadual nº 184, de 1894."
+        },
+        {
+          "key": "E",
+          "text": "Lei Federal nº 10.861, de 2004."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A FMP foi criada pela Lei Municipal nº 2.182, de 25 de outubro de 2005. Referência à legislação municipal: https://leis.org/prefeitura/sc/palhoca/lei/lei-ordinaria/2005/2182/lei-ordinaria-n-2182-2005-cria-a-faculdade-municipal-de-palhoca-e-da-outras"
+    },
+    {
+      "id": "IAPF027",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Segundo a página da Biblioteca Universitária da FMP, em que data a instituição foi inaugurada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 de abril de 2006."
+        },
+        {
+          "key": "B",
+          "text": "25 de outubro de 2005."
+        },
+        {
+          "key": "C",
+          "text": "24 de abril de 1894."
+        },
+        {
+          "key": "D",
+          "text": "7 de setembro de 2007."
+        },
+        {
+          "key": "E",
+          "text": "1º de janeiro de 2006."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A página da Biblioteca Universitária da FMP diferencia a criação legal, em 25 de outubro de 2005, da inauguração, em 20 de abril de 2006: https://sites.google.com/fmpsc.edu.br/biblioteca/in%C3%ADcio/sobre-bu-fmp"
+    },
+    {
+      "id": "IAPF028",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual foi a população de Palhoça registrada pelo Censo Demográfico de 2022?",
+      "options": [
+        {
+          "key": "A",
+          "text": "175.272 habitantes."
+        },
+        {
+          "key": "B",
+          "text": "222.598 habitantes."
+        },
+        {
+          "key": "C",
+          "text": "261.287 habitantes."
+        },
+        {
+          "key": "D",
+          "text": "190.823 habitantes."
+        },
+        {
+          "key": "E",
+          "text": "302.114 habitantes."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O Censo 2022 registrou 222.598 habitantes em Palhoça. A estimativa de 2026 é um indicador diferente e não deve ser confundida com o resultado censitário: https://www.ibge.gov.br/cidadesat/xtras/perfil.php?codmun=421190&r=2"
+    },
+    {
+      "id": "IAPF029",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual era a população estimada de Palhoça divulgada pelo IBGE para 2026?",
+      "options": [
+        {
+          "key": "A",
+          "text": "222.598 habitantes."
+        },
+        {
+          "key": "B",
+          "text": "244.000 habitantes."
+        },
+        {
+          "key": "C",
+          "text": "250.000 habitantes."
+        },
+        {
+          "key": "D",
+          "text": "261.287 habitantes."
+        },
+        {
+          "key": "E",
+          "text": "300.000 habitantes."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A página do IBGE consultada apresenta estimativa de 261.287 habitantes para 2026; estimativas podem ser atualizadas, portanto o ano de referência acompanha o dado: https://www.ibge.gov.br/cidades-e-estados/sc/palhoca.html"
+    },
+    {
+      "id": "IAPF030",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "De acordo com os dados territoriais do IBGE referentes a 2025, qual é a área de Palhoça?",
+      "options": [
+        {
+          "key": "A",
+          "text": "120,35 km²."
+        },
+        {
+          "key": "B",
+          "text": "394,85 km²."
+        },
+        {
+          "key": "C",
+          "text": "563,75 km²."
+        },
+        {
+          "key": "D",
+          "text": "222,60 km²."
+        },
+        {
+          "key": "E",
+          "text": "1.024,00 km²."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O IBGE informa área territorial de 394,85 km² para Palhoça em 2025. Atenção para não confundir área territorial com densidade demográfica: https://www.ibge.gov.br/cidades-e-estados/sc/palhoca.html"
+    },
+    {
+      "id": "IAPF031",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual era a densidade demográfica de Palhoça no Censo de 2022, conforme o IBGE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "222,60 habitantes por km²."
+        },
+        {
+          "key": "B",
+          "text": "394,85 habitantes por km²."
+        },
+        {
+          "key": "C",
+          "text": "563,75 habitantes por km²."
+        },
+        {
+          "key": "D",
+          "text": "687 habitantes por km²."
+        },
+        {
+          "key": "E",
+          "text": "1.287 habitantes por km²."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A densidade demográfica no Censo 2022 foi de 563,75 habitantes por km². O valor é diferente da área territorial e da população total: https://www.ibge.gov.br/cidades-e-estados/sc/palhoca.html"
+    },
+    {
+      "id": "IAPF032",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Em qual período Ivo Silveira exerceu o governo de Santa Catarina?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1951 a 1956."
+        },
+        {
+          "key": "B",
+          "text": "1966 a 1971."
+        },
+        {
+          "key": "C",
+          "text": "1975 a 1980."
+        },
+        {
+          "key": "D",
+          "text": "1983 a 1987."
+        },
+        {
+          "key": "E",
+          "text": "1991 a 1994."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Ivo Silveira, natural de Palhoça, foi governador de Santa Catarina de 1966 a 1971. Referência biográfica da ALESC: https://memoriapolitica.alesc.sc.gov.br/biografia/410-Ivo_Silveira"
+    },
+    {
+      "id": "IAPF033",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual órgão estadual administra o Parque Estadual da Serra do Tabuleiro?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), exclusivamente."
+        },
+        {
+          "key": "B",
+          "text": "Fundação Municipal de Meio Ambiente de Palhoça."
+        },
+        {
+          "key": "C",
+          "text": "Instituto do Meio Ambiente de Santa Catarina (IMA)."
+        },
+        {
+          "key": "D",
+          "text": "Ministério do Turismo."
+        },
+        {
+          "key": "E",
+          "text": "Câmara Municipal de Palhoça."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O IMA de Santa Catarina administra unidades de conservação estaduais, incluindo o Parque Estadual da Serra do Tabuleiro: https://www.ima.sc.gov.br/index.php/biodiversidade/unidades-de-conservacao"
+    },
+    {
+      "id": "IAPF034",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Em notícia publicada em 8 de outubro de 2026, qual percentual de execução das obras do Hospital Regional de Palhoça foi informado?",
+      "options": [
+        {
+          "key": "A",
+          "text": "21%."
+        },
+        {
+          "key": "B",
+          "text": "35%."
+        },
+        {
+          "key": "C",
+          "text": "50%."
+        },
+        {
+          "key": "D",
+          "text": "75%."
+        },
+        {
+          "key": "E",
+          "text": "90%."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A notícia de 8 de outubro de 2026 informou 21% de execução. É um indicador datado, sujeito a mudança conforme o avanço da obra: https://tudoaquisc.com.br/obras/hospital-regional-palhoca-21/"
+    },
+    {
+      "id": "IAPF035",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Conforme o projeto divulgado em outubro de 2026, qual combinação descreve a estrutura prevista para o Hospital Regional de Palhoça?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40 leitos, dois pavimentos e 3 mil m²."
+        },
+        {
+          "key": "B",
+          "text": "100 leitos, três pavimentos e 8 mil m²."
+        },
+        {
+          "key": "C",
+          "text": "120 leitos, quatro pavimentos e 12 mil m²."
+        },
+        {
+          "key": "D",
+          "text": "250 leitos, oito pavimentos e 25 mil m²."
+        },
+        {
+          "key": "E",
+          "text": "183 leitos, cinco pavimentos e cerca de 18 mil m²."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "As informações publicadas em outubro de 2026 descrevem 183 leitos, cinco pavimentos e cerca de 18 mil m² de área construída: https://tudoaquisc.com.br/obras/hospital-regional-palhoca-21/"
+    },
+    {
+      "id": "IAPF036",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Como se dividia o investimento previsto de R$ 119 milhões para a construção do Hospital Regional de Palhoça, segundo as informações divulgadas em 2026?",
+      "options": [
+        {
+          "key": "A",
+          "text": "R$ 119 milhões exclusivamente da Prefeitura."
+        },
+        {
+          "key": "B",
+          "text": "R$ 100 milhões federais e R$ 19 milhões privados."
+        },
+        {
+          "key": "C",
+          "text": "R$ 99 milhões do Governo de Santa Catarina e R$ 20 milhões de contrapartida municipal."
+        },
+        {
+          "key": "D",
+          "text": "R$ 60 milhões do Estado e R$ 59 milhões de empresas privadas."
+        },
+        {
+          "key": "E",
+          "text": "R$ 119 milhões de doações internacionais."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O investimento divulgado soma R$ 99 milhões estaduais e R$ 20 milhões municipais, totalizando R$ 119 milhões: https://tudoaquisc.com.br/obras/hospital-regional-palhoca-21/"
+    },
+    {
+      "id": "IAPF037",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Segundo o perfil municipal do IBGE consultado, quantas pessoas indígenas foram registradas em Palhoça no Censo de 2022?",
+      "options": [
+        {
+          "key": "A",
+          "text": "687 pessoas."
+        },
+        {
+          "key": "B",
+          "text": "38 pessoas."
+        },
+        {
+          "key": "C",
+          "text": "2.598 pessoas."
+        },
+        {
+          "key": "D",
+          "text": "18 mil pessoas."
+        },
+        {
+          "key": "E",
+          "text": "21 pessoas."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O perfil municipal do IBGE registra 687 pessoas indígenas em Palhoça no Censo 2022. Trata-se de um dado censitário com ano de referência específico: https://www.ibge.gov.br/cidadesat/xtras/perfil.php?codmun=421190&r=2"
+    },
+    {
+      "id": "IAPF038",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual elemento geográfico está associado à divisa municipal na região da Guarda do Embaú?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rio Cubatão, entre Palhoça e Garopaba."
+        },
+        {
+          "key": "B",
+          "text": "Rio da Madre, entre Palhoça e Paulo Lopes."
+        },
+        {
+          "key": "C",
+          "text": "Rio Imaruim, entre Palhoça e Biguaçu."
+        },
+        {
+          "key": "D",
+          "text": "Rio Aririú, entre Palhoça e Santo Amaro da Imperatriz."
+        },
+        {
+          "key": "E",
+          "text": "Rio Tijucas, entre Palhoça e São José."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O Rio da Madre determina a divisa entre Palhoça e Paulo Lopes na área da Guarda do Embaú. A localidade e a praia podem aparecer associadas a lados diferentes dessa divisão: https://paulolopes.sc.gov.br/noticia-527068/"
+    },
+    {
+      "id": "IAPF039",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual bioma está associado à vegetação nativa de grande parte do território de Palhoça, conforme o texto de apoio e as referências ambientais locais?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Caatinga."
+        },
+        {
+          "key": "B",
+          "text": "Pampa."
+        },
+        {
+          "key": "C",
+          "text": "Pantanal."
+        },
+        {
+          "key": "D",
+          "text": "Mata Atlântica."
+        },
+        {
+          "key": "E",
+          "text": "Floresta Amazônica."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A vegetação nativa local está associada ao bioma Mata Atlântica, que abriga ecossistemas importantes para a biodiversidade de áreas costeiras, encostas e planícies."
+    },
+    {
+      "id": "IAPF040",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#palhoca-fmp"
+      ],
+      "question": "Qual alternativa diferencia corretamente o Censo Demográfico de uma estimativa populacional do IBGE?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Censo e estimativa são sempre o mesmo número e têm o mesmo ano de referência."
+        },
+        {
+          "key": "B",
+          "text": "O Censo 2022 registrou a população naquele levantamento, enquanto a estimativa de 2026 é uma projeção/estimativa referente a outro ano."
+        },
+        {
+          "key": "C",
+          "text": "A estimativa substitui retroativamente os resultados de todos os censos anteriores."
+        },
+        {
+          "key": "D",
+          "text": "O Censo mede apenas a área territorial, sem contar moradores."
+        },
+        {
+          "key": "E",
+          "text": "Estimativas populacionais são feitas exclusivamente pelas prefeituras."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O IBGE apresenta 222.598 habitantes no Censo 2022 e uma estimativa de 261.287 para 2026. Os indicadores têm naturezas e anos de referência distintos: https://www.ibge.gov.br/cidades-e-estados/sc/palhoca.html"
+    }
+  ]
+}

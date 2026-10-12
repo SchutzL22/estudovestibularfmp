@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FMP Vestibular – Plataforma de Estudos</title>
+  <meta name="description" content="Plataforma completa de estudos para o Vestibular da Faculdade Municipal de Palhoça (FMP). Questões, redação, notas de corte e guia teórico." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="app-header" id="app-header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <img src="data/imagens/fmplogo.png" alt="FMP – Faculdade Municipal de Palhoça" class="brand-logo" id="brand-logo" />
+        <div class="brand-text">
+          <span class="brand-title">FMP Vestibular</span>
+          <span class="brand-subtitle">Plataforma de Estudos</span>
+        </div>
+      </div>
+      <div class="header-controls">
+        <div class="font-size-control" role="group" aria-label="Tamanho da fonte">
+          <button class="font-btn" id="font-decrease" aria-label="Diminuir fonte">A-</button>
+          <span class="font-label">Aa</span>
+          <button class="font-btn" id="font-increase" aria-label="Aumentar fonte">A+</button>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema">
+          <span class="theme-icon" id="theme-icon">☀️</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- TAB NAVIGATION -->
+  <nav class="tab-nav" id="tab-nav" role="tablist" aria-label="Navegação principal">
+    <button class="tab-btn active" id="tab-estudar" role="tab" aria-selected="true" aria-controls="panel-estudar" data-tab="estudar">
+      <span class="tab-icon">📖</span>
+      <span class="tab-label">Estudar</span>
+    </button>
+    <button class="tab-btn" id="tab-praticar" role="tab" aria-selected="false" aria-controls="panel-praticar" data-tab="praticar">
+      <span class="tab-icon">🎯</span>
+      <span class="tab-label">Praticar</span>
+    </button>
+    <button class="tab-btn" id="tab-redacao" role="tab" aria-selected="false" aria-controls="panel-redacao" data-tab="redacao">
+      <span class="tab-icon">✍️</span>
+      <span class="tab-label">Redação</span>
+    </button>
+    <button class="tab-btn" id="tab-notas" role="tab" aria-selected="false" aria-controls="panel-notas" data-tab="notas">
+      <span class="tab-icon">📊</span>
+      <span class="tab-label">Notas de Corte</span>
+    </button>
+    <button class="tab-btn" id="tab-cola" role="tab" aria-selected="false" aria-controls="panel-cola" data-tab="cola">
+      <span class="tab-icon">⚡</span>
+      <span class="tab-label">Cola Rápida</span>
+    </button>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="main-content">
+
+    <!-- ABA 1: ESTUDAR -->
+    <section class="tab-panel active" id="panel-estudar" role="tabpanel" aria-labelledby="tab-estudar">
+      <div class="panel-header">
+        <h1>📖 Guia de Estudos</h1>
+        <p class="panel-desc">Teoria completa para o Vestibular FMP. Marque os tópicos revisados e acompanhe seu progresso.</p>
+      </div>
+
+      <div class="progress-container">
+        <div class="progress-header">
+          <span class="progress-label">Progresso de Revisão</span>
+          <span class="progress-value" id="progress-value">0%</span>
+        </div>
+        <div class="progress-bar-track" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" id="progress-bar-aria">
+          <div class="progress-bar-fill" id="progress-bar-fill"></div>
+        </div>
+        <span class="progress-detail" id="progress-detail">0 de 0 tópicos revisados</span>
+      </div>
+
+      <div class="search-container">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input type="search" class="search-input" id="study-search" placeholder="Buscar nos conteúdos (ex: Enseada de Brito, RAM, FMP...)" autocomplete="off" />
+        <button class="search-clear" id="search-clear" aria-label="Limpar busca" hidden>✕</button>
+      </div>
+
+      <div class="accordion-list" id="accordion-list">
+
+        <!-- PALHOCA GROUP -->
+        <div class="accordion-group" data-group="palhoca">
+          <div class="accordion-group-header">
+            <span class="group-badge">🌊</span>
+            <h2>História e Geografia de Palhoça</h2>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="palh-01">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-palh-01" id="trigger-palh-01">
+                <span class="acc-icon">🏛️</span>
+                <span class="acc-title">Origem e Emancipação de Palhoça</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="palh-01" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-palh-01" role="region" aria-labelledby="trigger-palh-01">
+              <div class="content-body">
+                <h3>Origem do Nome e Povoamento</h3>
+                <p>Palhoça originou-se no século XVIII (<strong>1793</strong>) com a construção de um rancho de palha às margens da Baía Sul, que servia de ponto de pouso e descanso para tropeiros que viajavam entre a antiga Vila de Nossa Senhora do Desterro (Florianópolis) e o sul do Estado. O topônimo <strong>"Palhoça"</strong> deriva diretamente desse rancho de palha.</p>
+                <div class="info-box highlight">
+                  <span class="info-icon">📌</span>
+                  <div><strong>Datas Fundamentais:</strong> Rancho de tropeiros em <strong>1793</strong> | Freguesia em <strong>22 de setembro de 1833</strong> | Emancipação em <strong>24 de abril de 1894</strong></div>
+                </div>
+                <h3>Emancipação Política / Criação do Município</h3>
+                <p>Palhoça foi emancipada e desmembrada do município de <strong>São José</strong> em <strong>24 de abril de 1894</strong>, data oficial de criação do município autônomo. Antes dessa data, o território pertencia à jurisdição josefense.</p>
+                <h3>Linha do Tempo Oficial</h3>
+                <ul class="timeline-list">
+                  <li><strong>1793:</strong> Construção do rancho de palha como pouso de tropeiros (origem do nome).</li>
+                  <li><strong>22 de setembro de 1833:</strong> Elevada à condição canônica e civil de Freguesia.</li>
+                  <li><strong>24 de abril de 1894:</strong> Emancipação política — criação oficial do município de Palhoça.</li>
+                  <li><strong>Século XX:</strong> Integração rodoviária com a BR-101 e expansão da maricultura.</li>
+                  <li><strong>Atualidade:</strong> Polo universitário e um dos municípios mais dinâmicos de Santa Catarina (~395 km²).</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="palh-02">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-palh-02" id="trigger-palh-02">
+                <span class="acc-icon">🗺️</span>
+                <span class="acc-title">Localização e Limites Geográficos</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="palh-02" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-palh-02" role="region" aria-labelledby="trigger-palh-02">
+              <div class="content-body">
+                <h3>Localização Estratégica</h3>
+                <p>Palhoça situa-se na <strong>Região Metropolitana da Grande Florianópolis</strong>, no litoral centro-sul do estado de Santa Catarina.</p>
+                <div class="limits-grid">
+                  <div class="limit-card north"><span class="direction">⬆️ Norte</span><strong>São José e São Pedro de Alcântara</strong></div>
+                  <div class="limit-card east"><span class="direction">➡️ Leste</span><strong>Oceano Atlântico / Baía Sul (Florianópolis)</strong></div>
+                  <div class="limit-card south"><span class="direction">⬇️ Sul</span><strong>Paulo Lopes</strong></div>
+                  <div class="limit-card west"><span class="direction">⬅️ Oeste</span><strong>Santo Amaro da Imperatriz e Águas Mornas</strong></div>
+                </div>
+                <h3>Dados Territoriais Oficiais</h3>
+                <ul>
+                  <li>Área territorial oficial: aproximadamente <strong>~395 km²</strong>.</li>
+                  <li>Bioma predominante: <strong>Mata Atlântica</strong> com rica faixa litorânea de manguezais e restingas.</li>
+                  <li>Relevo: Planície costeira com morros graníticos (ex: Morro do Cambirela no Parque Estadual da Serra do Tabuleiro).</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="palh-03">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-palh-03" id="trigger-palh-03">
+                <span class="acc-icon">🦪</span>
+                <span class="acc-title">Maricultura – 80% do Brasil</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="palh-03" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-palh-03" role="region" aria-labelledby="trigger-palh-03">
+              <div class="content-body">
+                <div class="stat-highlight">
+                  <span class="stat-number">80%</span>
+                  <span class="stat-desc">da produção nacional de moluscos bivalves (ostras e mexilhões)</span>
+                </div>
+                <h3>Capital Nacional da Maricultura</h3>
+                <p>Palhoça é consagrada como a capital nacional da maricultura, respondendo por cerca de <strong>80% de toda a produção brasileira</strong> de mariscos e moluscos bivalves cultivados, em especial ostras do Pacífico (<em>Crassostrea gigas</em>) e mexilhões (<em>Perna perna</em>).</p>
+                <h3>Enseada de Brito</h3>
+                <p>A histórica <strong>Enseada de Brito</strong> é o principal polo tradicional de cultivo aquícola de Palhoça, com herança açoriana, centenas de produtores familiares e suporte tecnológico da EPAGRI.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="palh-04">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-palh-04" id="trigger-palh-04">
+                <span class="acc-icon">🏛️</span>
+                <span class="acc-title">Câmara Municipal, Símbolos e Praias</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="palh-04" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-palh-04" role="region" aria-labelledby="trigger-palh-04">
+              <div class="content-body">
+                <div class="info-box highlight">
+                  <span class="info-icon">📌</span>
+                  <div><strong>Câmara Municipal:</strong> Composta por <strong>17 vereadores</strong> eleitos.</div>
+                </div>
+                <h3>Símbolos Oficiais do Município</h3>
+                <ul>
+                  <li>🌴 <strong>Árvore Oficial:</strong> Palmeira-Juçara (<em>Euterpe edulis</em>)</li>
+                  <li>🌺 <strong>Flor Oficial:</strong> Bromélia</li>
+                  <li>🐟 <strong>Peixe/Animal Símbolo:</strong> Tainha (<em>Mugil liza</em>)</li>
+                </ul>
+                <h3>Principais Praias</h3>
+                <div class="tags-container">
+                  <span class="tag">🏖️ Pinheira</span>
+                  <span class="tag">🏄 Guarda do Embaú</span>
+                  <span class="tag">🦪 Enseada de Brito</span>
+                  <span class="tag">🌊 Praia do Sonho</span>
+                  <span class="tag">⚓ Praia de Baixo</span>
+                  <span class="tag">📍 Ponta do Papagaio</span>
+                </div>
+                <h3>Guarda do Embaú</h3>
+                <p>Reserva Mundial de Surfe, famosa pelo encontro do <strong>Rio da Madre (Embaú)</strong> com o oceano Atlântico.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="palh-05">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-palh-05" id="trigger-palh-05">
+                <span class="acc-icon">🗺️</span>
+                <span class="acc-title">Mapas Oficiais das Praias de Palhoça</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="palh-05" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-palh-05" role="region" aria-labelledby="trigger-palh-05">
+              <div class="content-body">
+                <p>Clique em qualquer mapa para visualizá-lo em alta resolução no visualizador Lightbox com ferramentas de zoom:</p>
+                <div class="beach-maps-grid">
+                  <div class="map-card">
+                    <img src="data/imagens/Mapa%20das%20praias%20de%20Palho%C3%A7a.jpg" alt="Mapa Cartográfico das Praias de Palhoça" class="map-img lightbox-trigger" data-caption="Mapa Cartográfico das Praias de Palhoça" loading="lazy" onerror="this.onerror=null;this.parentElement.innerHTML='<div class=\'img-fallback-box\'><span>🗺️</span><p>Imagem em alta resolução disponível no material em PDF</p></div>';" />
+                    <div class="map-caption">📍 Mapa Cartográfico das Praias (clique para ampliar 🔍)</div>
+                  </div>
+                  <div class="map-card">
+                    <img src="data/imagens/Maps%20-%20praias%20de%20Palho%C3%A7a.png" alt="Visão Satélite das Praias de Palhoça" class="map-img lightbox-trigger" data-caption="Visão Satélite / Orla de Palhoça" loading="lazy" onerror="this.onerror=null;this.parentElement.innerHTML='<div class=\'img-fallback-box\'><span>🛰️</span><p>Imagem em alta resolução disponível no material em PDF</p></div>';" />
+                    <div class="map-caption">🛰️ Visão Satélite / Orla de Palhoça (clique para ampliar 🔍)</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- INFORMATICA GROUP -->
+        <div class="accordion-group" data-group="informatica">
+          <div class="accordion-group-header">
+            <span class="group-badge">💻</span>
+            <h2>Informática e Tecnologias Digitais</h2>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="info-01">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-info-01" id="trigger-info-01">
+                <span class="acc-icon">🖥️</span>
+                <span class="acc-title">Hardware e Componentes do Computador</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="info-01" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-info-01" role="region" aria-labelledby="trigger-info-01">
+              <div class="content-body">
+                <h3>Processador (CPU)</h3>
+                <p>O <strong>processador</strong> (CPU – Central Processing Unit) é o "cérebro" do computador. Executa instruções e processa dados. Medido em GHz.</p>
+                <h3>Memória RAM</h3>
+                <p>Memória de acesso aleatório (RAM – Random Access Memory) é <strong>volátil</strong> (perde dados ao desligar) e temporária.</p>
+                <div class="info-box">
+                  <span class="info-icon">💡</span>
+                  <div><strong>Macete:</strong> RAM = Rápida, Acessada e Momentaneamente (temporária).</div>
+                </div>
+                <h3>Armazenamento</h3>
+                <ul>
+                  <li><strong>HD (Hard Disk):</strong> Disco rígido magnético, mais barato, mais lento</li>
+                  <li><strong>SSD (Solid State Drive):</strong> Memória flash, mais rápido, mais caro</li>
+                  <li>Ambos são <strong>não-voláteis</strong> (guardam dados sem energia)</li>
+                </ul>
+                <h3>Extensões de Arquivo</h3>
+                <ul>
+                  <li><code>.docx</code> → Word | <code>.xlsx</code> → Excel | <code>.pptx</code> → PowerPoint</li>
+                  <li><code>.pdf</code> → Documento portátil | <code>.txt</code> → Texto puro</li>
+                </ul>
+                <h3>Atalhos Essenciais</h3>
+                <ul>
+                  <li><kbd>Ctrl+Z</kbd> Desfazer | <kbd>Ctrl+Y</kbd> Refazer</li>
+                  <li><kbd>Ctrl+C</kbd> Copiar | <kbd>Ctrl+V</kbd> Colar | <kbd>Ctrl+S</kbd> Salvar</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="info-02">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-info-02" id="trigger-info-02">
+                <span class="acc-icon">🔒</span>
+                <span class="acc-title">Segurança Digital e Internet</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="info-02" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-info-02" role="region" aria-labelledby="trigger-info-02">
+              <div class="content-body">
+                <h3>Ameaças Digitais</h3>
+                <ul>
+                  <li><strong>Vírus:</strong> Programa malicioso que se replica</li>
+                  <li><strong>Phishing:</strong> Engenharia social para roubar dados</li>
+                  <li><strong>Ransomware:</strong> Sequestra arquivos e pede resgate</li>
+                  <li><strong>Spyware:</strong> Monitora o usuário sem consentimento</li>
+                  <li><strong>Trojan:</strong> Malware disfarçado de software legítimo</li>
+                </ul>
+                <h3>Proteção</h3>
+                <ul>
+                  <li>✅ Antivírus atualizado | ✅ Firewall ativo</li>
+                  <li>✅ Senhas fortes | ✅ Autenticação em dois fatores (2FA)</li>
+                </ul>
+                <h3>Conceitos de Internet</h3>
+                <ul>
+                  <li><strong>HTTP/HTTPS:</strong> Protocolo web (S = Seguro com SSL/TLS)</li>
+                  <li><strong>IP:</strong> Endereço único de cada dispositivo</li>
+                  <li><strong>DNS:</strong> Traduz domínios em endereços IP</li>
+                  <li><strong>Nuvem:</strong> Armazenamento remoto via internet (Google Drive, Dropbox)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="info-03">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-info-03" id="trigger-info-03">
+                <span class="acc-icon">📊</span>
+                <span class="acc-title">Planilhas, Fórmulas e Office</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="info-03" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-info-03" role="region" aria-labelledby="trigger-info-03">
+              <div class="content-body">
+                <h3>Fórmulas do Excel</h3>
+                <div class="code-table">
+                  <div class="code-row header"><span>Fórmula</span><span>Função</span></div>
+                  <div class="code-row"><span>=SOMA(A1:A10)</span><span>Soma intervalo A1 até A10</span></div>
+                  <div class="code-row"><span>=MÉDIA(B1:B5)</span><span>Média aritmética</span></div>
+                  <div class="code-row"><span>=MÁXIMO(C1:C8)</span><span>Maior valor</span></div>
+                  <div class="code-row"><span>=MÍNIMO(C1:C8)</span><span>Menor valor</span></div>
+                  <div class="code-row"><span>=SE(A1>5;"OK";"NOK")</span><span>Teste condicional</span></div>
+                  <div class="code-row"><span>=CONT.SE(A:A;"sim")</span><span>Conta células com critério</span></div>
+                </div>
+                <div class="info-box">
+                  <span class="info-icon">💡</span>
+                  <div><strong>Lembre:</strong> Dois pontos (:) = intervalo. Ponto e vírgula (;) = células separadas ou separador de argumentos.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- FMP GROUP -->
+        <div class="accordion-group" data-group="fmp">
+          <div class="accordion-group-header">
+            <span class="group-badge">🏫</span>
+            <h2>FMP e Atualidades</h2>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="fmp-01">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-fmp-01" id="trigger-fmp-01">
+                <span class="acc-icon">🎓</span>
+                <span class="acc-title">Sobre a FMP – Faculdade Municipal de Palhoça</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="fmp-01" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-fmp-01" role="region" aria-labelledby="trigger-fmp-01">
+              <div class="content-body">
+                <p>A <strong>Faculdade Municipal de Palhoça (FMP)</strong> é uma instituição de ensino superior pública municipal, mantida pela Prefeitura de Palhoça e credenciada pelo MEC.</p>
+                <h3>Cursos Oferecidos</h3>
+                <div class="tags-container">
+                  <span class="tag">💻 ADS – Análise e Desenvolvimento de Sistemas</span>
+                  <span class="tag">📋 TPG – Tecnologia em Processos Gerenciais</span>
+                  <span class="tag">📈 ADM – Administração</span>
+                  <span class="tag">📚 Pedagogia</span>
+                </div>
+                <h3>Vestibular FMP</h3>
+                <ul>
+                  <li>Prova objetiva com <strong>40 questões</strong> (0 a 40 acertos)</li>
+                  <li>Redação dissertativo-argumentativa (nota mínima <strong>4,0</strong>)</li>
+                  <li>Matérias: Português, Matemática, Informática, Palhoça, Atualidades</li>
+                  <li>Vagas: <strong>40 por curso</strong> por semestre</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item" data-lesson-id="fmp-02">
+            <div class="accordion-header">
+              <button class="accordion-trigger" aria-expanded="false" aria-controls="content-fmp-02" id="trigger-fmp-02">
+                <span class="acc-icon">🌍</span>
+                <span class="acc-title">Atualidades – Temas Recentes 2023–2025</span>
+                <span class="acc-chevron">›</span>
+              </button>
+              <label class="checkbox-review" title="Marcar como revisado">
+                <input type="checkbox" class="review-check" data-lesson="fmp-02" />
+                <span class="check-label">Revisado</span>
+              </label>
+            </div>
+            <div class="accordion-content" id="content-fmp-02" role="region" aria-labelledby="trigger-fmp-02">
+              <div class="content-body">
+                <h3>Tecnologia e Inovação</h3>
+                <ul>
+                  <li><strong>IA Generativa:</strong> ChatGPT, Gemini – revolução desde 2022</li>
+                  <li><strong>ChatGPT:</strong> Lançado em nov/2022 pela OpenAI</li>
+                  <li><strong>Computação em Nuvem:</strong> AWS, Google Cloud, Azure</li>
+                </ul>
+                <h3>Meio Ambiente</h3>
+                <ul>
+                  <li><strong>COP28 (Dubai, 2023):</strong> Acordo sobre transição energética</li>
+                  <li><strong>COP30 (Belém, 2025):</strong> Brasil anfitrião na Amazônia</li>
+                  <li><strong>Enchentes RS (maio 2024):</strong> Maior catástrofe climática do estado</li>
+                </ul>
+                <h3>Política e Sociedade</h3>
+                <ul>
+                  <li><strong>G20 no Brasil (2024):</strong> Foco em desigualdade e tributação global</li>
+                  <li><strong>Marco Temporal:</strong> STF declarou inconstitucional</li>
+                  <li><strong>Minha Casa, Minha Vida:</strong> Reativado em 2023</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /accordion-list -->
+    </section>
+
+    <!-- ABA 2: PRATICAR -->
+    <section class="tab-panel" id="panel-praticar" role="tabpanel" aria-labelledby="tab-praticar">
+      <div class="panel-header">
+        <h1>🎯 Simulado Objetivo</h1>
+        <p class="panel-desc">Pratique com questões reais do Vestibular FMP. Filtre por matéria e veja seu desempenho.</p>
+      </div>
+
+      <div class="filters-bar" id="practice-filters">
+        <div class="filter-group">
+          <label class="filter-label" for="filter-subject">Matéria</label>
+          <select class="filter-select" id="filter-subject">
+            <option value="all">Todas as Matérias</option>
+            <option value="Português">📝 Português (64)</option>
+            <option value="Matemática">➕ Matemática (86)</option>
+            <option value="Informática">💻 Informática (76)</option>
+            <option value="Palhoça">🌊 Palhoça (144)</option>
+            <option value="Atualidades">🌍 Atualidades (97)</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label" for="filter-exam">Edição / Prova</label>
+          <select class="filter-select" id="filter-exam">
+            <option value="all">Todas as Provas (467Q)</option>
+            <option value="2026">Vestibular 2026</option>
+            <option value="2025">Vestibular 2025</option>
+            <option value="2024">Vestibular 2024</option>
+            <option value="ia">Questões Inéditas IA</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label" for="filter-status">Status</label>
+          <select class="filter-select" id="filter-status">
+            <option value="all">Todas</option>
+            <option value="unanswered">Não Respondidas</option>
+            <option value="wrong">Só Erros</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label" for="filter-qsearch">Busca</label>
+          <input type="search" class="filter-search" id="filter-qsearch" placeholder="Buscar no enunciado..." />
+        </div>
+        <label class="filter-checkbox-label">
+          <input type="checkbox" id="shuffle-alts" />
+          <span class="custom-checkbox"></span>
+          <span>Embaralhar</span>
+        </label>
+        <button class="btn-simulado-fmp" id="btn-simulado-40" title="Gera um simulado aleatório no formato oficial do Vestibular FMP (40 questões)">⚡ Simulado 40Q</button>
+        <button class="btn-reset-practice" id="reset-practice">🔄 Reiniciar</button>
+      </div>
+
+      <div class="practice-stats" id="practice-stats">
+        <span class="stat-chip correct">✅ <span id="count-correct">0</span> Corretas</span>
+        <span class="stat-chip wrong">❌ <span id="count-wrong">0</span> Erradas</span>
+        <span class="stat-chip total">📝 <span id="count-total">0</span> Total</span>
+        <button class="btn-result" id="btn-show-result">📊 Ver Resultado</button>
+      </div>
+
+      <div class="questions-list" id="questions-list">
+        <div class="loading-state" id="questions-loading">
+          <div class="spinner"></div>
+          <p>Carregando questões...</p>
+        </div>
+      </div>
+
+      <div class="pagination-bar" id="pagination-bar"></div>
+    </section>
+
+    <!-- ABA 3: REDAÇÃO -->
+    <section class="tab-panel" id="panel-redacao" role="tabpanel" aria-labelledby="tab-redacao">
+      <div class="panel-header">
+        <h1>✍️ Temas de Redação</h1>
+        <p class="panel-desc">Propostas reais e inéditas do Vestibular FMP com instruções oficiais e textos motivadores.</p>
+      </div>
+      <div class="redacao-rules-banner">
+        <div class="rules-item">📝 10 a 25 linhas</div>
+        <div class="rules-item">✅ Nota mínima: 4,0</div>
+        <div class="rules-item">📋 Texto dissertativo-argumentativo</div>
+        <div class="rules-item">🚫 Sem identificação</div>
+      </div>
+      <div class="redacao-list" id="redacao-list">
+        <div class="loading-state">
+          <div class="spinner"></div>
+          <p>Carregando propostas de redação...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABA 4: NOTAS DE CORTE -->
+    <section class="tab-panel" id="panel-notas" role="tabpanel" aria-labelledby="tab-notas">
+      <div class="panel-header">
+        <h1>📊 Notas de Corte Históricas</h1>
+        <p class="panel-desc">Histórico detalhado de todas as edições do Vestibular FMP.</p>
+      </div>
+      <div class="notas-filter-bar">
+        <div class="notas-course-btns" id="notas-course-btns" role="group" aria-label="Filtrar curso">
+          <button class="course-btn active" data-course="all">Todos os Cursos</button>
+          <button class="course-btn" data-course="ADS">ADS</button>
+          <button class="course-btn" data-course="TPG">TPG</button>
+          <button class="course-btn" data-course="ADM">ADM</button>
+          <button class="course-btn" data-course="Pedagogia">Pedagogia</button>
+        </div>
+      </div>
+      <div class="notas-grid" id="notas-grid">
+        <div class="loading-state">
+          <div class="spinner"></div>
+          <p>Carregando histórico de notas...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABA 5: COLA RÁPIDA -->
+    <section class="tab-panel" id="panel-cola" role="tabpanel" aria-labelledby="tab-cola">
+      <div class="panel-header">
+        <h1>⚡ Cola Rápida &amp; Macetes</h1>
+        <p class="panel-desc">Revisão expressa para a véspera da prova. Os dados mais cobrados e os macetes que salvam pontos.</p>
+      </div>
+      <div class="cola-grid" id="cola-grid">
+
+        <div class="cola-card dates">
+          <div class="cola-card-header">
+            <span class="cola-card-icon">📅</span>
+            <h2>Datas Críticas de Palhoça</h2>
+          </div>
+          <ul class="cola-list">
+            <li><strong>1793</strong> → Pouso de tropeiros / Origem do rancho de palha (topônimo)</li>
+            <li><strong>22/09/1833</strong> → Elevada à condição canônica e civil de Freguesia</li>
+            <li><strong>24/04/1894</strong> → Emancipação política de São José (Criação do Município)</li>
+            <li><strong>17</strong> → Número de vereadores da Câmara Municipal</li>
+            <li><strong>80%</strong> → Produção nacional de moluscos bivalves (ostras e mexilhões)</li>
+            <li><strong>~395 km²</strong> → Área territorial oficial aproximada</li>
+          </ul>
+        </div>
+
+        <div class="cola-card fmp-info">
+          <div class="cola-card-header">
+            <span class="cola-card-icon">🎓</span>
+            <h2>Dados da FMP</h2>
+          </div>
+          <ul class="cola-list">
+            <li><strong>40 questões</strong> objetivas na prova (0 a 40 acertos)</li>
+            <li><strong>4 cursos:</strong> ADS, TPG, ADM e Pedagogia</li>
+            <li><strong>40 vagas</strong> por curso por semestre</li>
+            <li><strong>Nota mínima na redação:</strong> 4,0</li>
+            <li><strong>Redação:</strong> 10 a 30 linhas</li>
+            <li><strong>Gênero:</strong> Dissertativo-argumentativo</li>
+          </ul>
+        </div>
+
+        <div class="cola-card limits">
+          <div class="cola-card-header">
+            <span class="cola-card-icon">🧭</span>
+            <h2>Rosa dos Ventos &amp; Limites Geográficos</h2>
+          </div>
+          <div class="compass-rose-3x3" role="region" aria-label="Rosa dos Ventos dos limites de Palhoça">
+            <div class="compass-cell north">
+              <span class="compass-dir-tag">NORTE ⬆️</span>
+              <span class="compass-title">São José e São Pedro de Alcântara</span>
+            </div>
+            <div class="compass-cell west">
+              <span class="compass-dir-tag">OESTE ⬅️</span>
+              <span class="compass-title">Santo Amaro da Imperatriz</span>
+              <span class="compass-sub">e Águas Mornas</span>
+            </div>
+            <div class="compass-cell center">
+              <span class="compass-dir-tag">CENTRO 📍</span>
+              <span class="compass-title">PALHOÇA</span>
+              <span class="compass-sub">~395 km²</span>
+            </div>
+            <div class="compass-cell east">
+              <span class="compass-dir-tag">LESTE ➡️</span>
+              <span class="compass-title">Oceano Atlântico</span>
+              <span class="compass-sub">Baía Sul (Florianópolis)</span>
+            </div>
+            <div class="compass-cell south">
+              <span class="compass-dir-tag">SUL ⬇️</span>
+              <span class="compass-title">Paulo Lopes</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="cola-card confusions">
+          <div class="cola-card-header">
+            <span class="cola-card-icon">⚠️</span>
+            <h2>Conceitos que Confundem</h2>
+          </div>
+          <ul class="cola-list confuse-list">
+            <li>
+              <span class="wrong-x">1793</span> ≠ <span class="right-check">1894</span>
+              <small>1793 = rancho de tropeiros (origem); 1894 = emancipação de São José</small>
+            </li>
+            <li>
+              <span class="wrong-x">RAM</span> ≠ <span class="right-check">HD/SSD</span>
+              <small>RAM é volátil/temporária; HD/SSD é permanente</small>
+            </li>
+            <li>
+              <span class="wrong-x">Palmeira-Juçara</span> ≠ <span class="right-check">Bromélia</span>
+              <small>Juçara = Árvore Oficial; Bromélia = Flor Oficial; Tainha = Peixe</small>
+            </li>
+            <li>
+              <span class="wrong-x">Vírus</span> ≠ <span class="right-check">Phishing</span>
+              <small>Vírus replica código; Phishing é engenharia social para roubar dados</small>
+            </li>
+            <li>
+              <span class="wrong-x">HTTP</span> ≠ <span class="right-check">HTTPS</span>
+              <small>HTTPS tem SSL/TLS (canal criptografado seguro)</small>
+            </li>
+          </ul>
+        </div>
+
+        <div class="cola-card tricks">
+          <div class="cola-card-header">
+            <span class="cola-card-icon">🧠</span>
+            <h2>Macetes para a Prova</h2>
+          </div>
+          <ul class="cola-list">
+            <li>🦪 <strong>"Palhoça = palha + maricultura"</strong> – Rancho de palha (1793) e 80% das ostras do Brasil</li>
+            <li>📅 <strong>"Emancipada DE São José em 1894"</strong> – Desmembramento oficial em 24/04/1894</li>
+            <li>🧭 <strong>"São José ao Norte, Paulo Lopes ao Sul"</strong> – Limites norte/sul de Palhoça</li>
+            <li>💻 <strong>"=SOMA(A1:A10)"</strong> – Dois pontos (:) = intervalo até; ponto e vírgula (;) = e</li>
+            <li>🔒 <strong>"S no HTTPS = Seguro"</strong> – Certificado SSL/TLS protege a comunicação</li>
+            <li>🌴 <strong>"Juçara = Árvore | Bromélia = Flor | Tainha = Animal"</strong> – Trindade de símbolos</li>
+          </ul>
+        </div>
+
+        <div class="cola-card symbols">
+          <div class="cola-card-header">
+            <span class="cola-card-icon">🔆</span>
+            <h2>Símbolos Oficiais e Praias</h2>
+          </div>
+          <div class="symbol-table">
+            <div class="sym-row"><span class="sym-key">🌴 Árvore Oficial</span><span class="sym-val">Palmeira-Juçara (<em>Euterpe edulis</em>)</span></div>
+            <div class="sym-row"><span class="sym-key">🌺 Flor Oficial</span><span class="sym-val">Bromélia</span></div>
+            <div class="sym-row"><span class="sym-key">🐟 Peixe/Animal</span><span class="sym-val">Tainha (<em>Mugil liza</em>)</span></div>
+          </div>
+          <h3 style="margin-top:1rem;font-size:.85rem;opacity:.7">Principais Praias</h3>
+          <div class="tags-container">
+            <span class="tag sm">Pinheira</span>
+            <span class="tag sm">Guarda do Embaú</span>
+            <span class="tag sm">Enseada de Brito</span>
+            <span class="tag sm">Praia do Sonho</span>
+            <span class="tag sm">Praia de Baixo</span>
+            <span class="tag sm">Ponta do Papagaio</span>
+          </div>
+        </div>
+
+      </div><!-- /cola-grid -->
+
+      <!-- DOWNLOADS & PAST EXAMS -->
+      <div style="margin-top: 2rem;">
+        <h2 style="font-size: 1.15rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+          <span>📚</span> Arquivos Oficiais &amp; Provas Anteriores em PDF
+        </h2>
+        <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem;">
+          Acesse os editais, gabaritos e cadernos de provas reais do Vestibular FMP para baixar ou estudar offline.
+        </p>
+
+        <div class="downloads-grid">
+          <a href="data/edital/Edital%20fmp%202027-1.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📜</span>
+              <div>
+                <div class="download-title">Edital Oficial FMP 2027/1</div>
+                <div class="download-subtitle">Regras, vagas e conteúdo programático</div>
+              </div>
+            </div>
+            <span class="download-action">Baixar PDF ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2026-2%20_%20vestibular.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📝</span>
+              <div>
+                <div class="download-title">Prova Vestibular 2026/2</div>
+                <div class="download-subtitle">Caderno de questões oficial</div>
+              </div>
+            </div>
+            <span class="download-action">Prova ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2026-2%20_%20gabarito.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">✅</span>
+              <div>
+                <div class="download-title">Gabarito Oficial 2026/2</div>
+                <div class="download-subtitle">Respostas definitivas</div>
+              </div>
+            </div>
+            <span class="download-action">Gabarito ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2026-1%20_%20vestibular%20e%20gabarito.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📚</span>
+              <div>
+                <div class="download-title">Prova &amp; Gabarito 2026/1</div>
+                <div class="download-subtitle">Caderno completo consolidado</div>
+              </div>
+            </div>
+            <span class="download-action">Baixar PDF ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2025-2%20_%20vestibular.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📝</span>
+              <div>
+                <div class="download-title">Prova Vestibular 2025/2</div>
+                <div class="download-subtitle">Caderno de questões oficial</div>
+              </div>
+            </div>
+            <span class="download-action">Prova ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2025-2%20_%20gabarito.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">✅</span>
+              <div>
+                <div class="download-title">Gabarito Oficial 2025/2</div>
+                <div class="download-subtitle">Respostas definitivas</div>
+              </div>
+            </div>
+            <span class="download-action">Gabarito ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2025-1%20_%20vestibular.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📝</span>
+              <div>
+                <div class="download-title">Prova Vestibular 2025/1</div>
+                <div class="download-subtitle">Caderno de questões oficial</div>
+              </div>
+            </div>
+            <span class="download-action">Prova ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2025-1%20_%20gabarito.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">✅</span>
+              <div>
+                <div class="download-title">Gabarito Oficial 2025/1</div>
+                <div class="download-subtitle">Respostas definitivas</div>
+              </div>
+            </div>
+            <span class="download-action">Gabarito ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2024-2%20_%20vestibular.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📝</span>
+              <div>
+                <div class="download-title">Prova Vestibular 2024/2</div>
+                <div class="download-subtitle">Caderno de questões oficial</div>
+              </div>
+            </div>
+            <span class="download-action">Prova ↗</span>
+          </a>
+
+          <a href="data/vestibulares_antigos/2024-2%20_%20gabarito.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">✅</span>
+              <div>
+                <div class="download-title">Gabarito Oficial 2024/2</div>
+                <div class="download-subtitle">Respostas definitivas</div>
+              </div>
+            </div>
+            <span class="download-action">Gabarito ↗</span>
+          </a>
+
+          <a href="data/outros/Hist%C3%B3ria%20de%20Palho%C3%A7a.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">📖</span>
+              <div>
+                <div class="download-title">Apostila: História de Palhoça</div>
+                <div class="download-subtitle">Material de estudo histórico</div>
+              </div>
+            </div>
+            <span class="download-action">Apostila ↗</span>
+          </a>
+
+          <a href="data/outros/Informa%C3%A7%C3%B5es%20fmp.pdf" target="_blank" rel="noopener" class="download-card">
+            <div class="download-card-info">
+              <span class="download-icon">🏫</span>
+              <div>
+                <div class="download-title">Informações Institucionais FMP</div>
+                <div class="download-subtitle">Guia sobre a faculdade municipal</div>
+              </div>
+            </div>
+            <span class="download-action">Guia ↗</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- RESULT MODAL (COMPARATIVO DE RESULTADO) -->
+  <div class="result-overlay" id="result-overlay" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="result-title">
+    <div class="result-modal" id="result-modal">
+      <div class="result-modal-header">
+        <h2 id="result-title">📊 Comparativo de Resultado Oficial</h2>
+        <button class="result-close" id="result-close" aria-label="Fechar resultado">✕</button>
+      </div>
+      <div class="result-modal-body" id="result-modal-body">
+        <div class="result-score-display">
+          <div class="score-circle">
+            <span class="score-number" id="result-score-number">0</span>
+            <span class="score-max">/40 acertos</span>
+          </div>
+        </div>
+        <div class="result-course-select">
+          <label for="result-course-select" class="result-label">Comparar desempenho com o curso:</label>
+          <select id="result-course-select" class="filter-select">
+            <option value="ADS">ADS – Análise e Desenvolvimento de Sistemas</option>
+            <option value="TPG">TPG – Tecnologia em Processos Gerenciais</option>
+            <option value="ADM">ADM – Bacharelado em Administração</option>
+            <option value="PEDAGOGIA">Pedagogia – Licenciatura em Pedagogia</option>
+          </select>
+        </div>
+        <div class="result-comparison-grid" id="result-comparison-grid"></div>
+        <p class="result-note">⚠️ Nota da redação exibida apenas como referência histórica. O comparativo considera somente acertos objetivos (0 a 40).</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- LIGHTBOX MODAL (VISUALIZADOR DE IMAGENS & MAPAS) -->
+  <div class="lightbox-overlay" id="lightbox-overlay" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-label="Visualizador de Imagem em Alta Resolução">
+    <div class="lightbox-container" id="lightbox-container">
+      <div class="lightbox-toolbar">
+        <span class="lightbox-caption" id="lightbox-caption">Mapa das Praias de Palhoça</span>
+        <div class="lightbox-actions">
+          <button class="lightbox-btn" id="lightbox-zoom-out" title="Diminuir Zoom" aria-label="Diminuir Zoom">🔍−</button>
+          <button class="lightbox-btn" id="lightbox-zoom-reset" title="Tamanho Original (100%)" aria-label="Tamanho Original">↺ 100%</button>
+          <button class="lightbox-btn" id="lightbox-zoom-in" title="Aumentar Zoom" aria-label="Aumentar Zoom">🔍+</button>
+          <a class="lightbox-btn" id="lightbox-external" target="_blank" rel="noopener" title="Abrir imagem em nova aba" aria-label="Abrir original">↗</a>
+          <button class="lightbox-btn lightbox-close" id="lightbox-close" title="Fechar (Esc)" aria-label="Fechar">✕</button>
+        </div>
+      </div>
+      <div class="lightbox-view" id="lightbox-view">
+        <img src="" alt="" class="lightbox-img" id="lightbox-img" />
+      </div>
+    </div>
+  </div>
+
+  <div class="toast-container" id="toast-container" aria-live="polite"></div>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

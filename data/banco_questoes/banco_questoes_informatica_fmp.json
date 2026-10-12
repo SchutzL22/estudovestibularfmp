@@ -1,0 +1,1721 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "ITD001-2026-1",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#informatica"
+      ],
+      "question": "Sobre o uso da Internet e medidas de segurança, é correto afirmar que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "manter o antivírus desatualizado não compromete o desempenho do computador."
+        },
+        {
+          "key": "B",
+          "text": "é seguro compartilhar senhas em redes sociais, desde que em mensagens privadas."
+        },
+        {
+          "key": "C",
+          "text": "apenas sites governamentais utilizam conexões seguras (https)."
+        },
+        {
+          "key": "D",
+          "text": "apagar o histórico do navegador impede qualquer rastreamento de navegação."
+        },
+        {
+          "key": "E",
+          "text": "o uso de autenticação em dois fatores aumenta a segurança no acesso a contas online."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "A autenticação em dois fatores (2FA) acrescenta uma etapa de verificação além da senha e dificulta o acesso indevido à conta."
+    },
+    {
+      "id": "ITD002-2026-1",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#informatica"
+      ],
+      "question": "No Microsoft Word, o recurso de “mala direta” é utilizado para:",
+      "options": [
+        {
+          "key": "A",
+          "text": "combinar automaticamente dados de uma planilha com um documento modelo."
+        },
+        {
+          "key": "B",
+          "text": "traduzir um texto em vários idiomas ao mesmo tempo."
+        },
+        {
+          "key": "C",
+          "text": "aplicar regras gramaticais e ortográficas de forma automática."
+        },
+        {
+          "key": "D",
+          "text": "gerar índices e sumários em documentos longos."
+        },
+        {
+          "key": "E",
+          "text": "converter o arquivo em formato PDF."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A mala direta combina um documento-modelo com uma fonte de dados, como uma planilha, para gerar documentos personalizados."
+    },
+    {
+      "id": "ITD003-2026-1",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#informatica"
+      ],
+      "question": "No Microsoft Excel, a função =SOMA(A1:A5) tem como finalidade:",
+      "options": [
+        {
+          "key": "A",
+          "text": "concatenar o conteúdo das células A1 a A5."
+        },
+        {
+          "key": "B",
+          "text": "calcular a média aritmética das células A1 a A5."
+        },
+        {
+          "key": "C",
+          "text": "somar os valores contidos nas células de A1 a A5."
+        },
+        {
+          "key": "D",
+          "text": "exibir o maior valor existente no intervalo A1:A5."
+        },
+        {
+          "key": "E",
+          "text": "contar a quantidade de células preenchidas no intervalo A1:A5."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A função SOMA adiciona os valores numéricos contidos no intervalo informado."
+    },
+    {
+      "id": "ITD004-2026-1",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#informatica"
+      ],
+      "question": "No Microsoft PowerPoint, a ferramenta “Transições” permite ao usuário:",
+      "options": [
+        {
+          "key": "A",
+          "text": "aplicar efeitos de movimentação entre um slide e outro durante a apresentação."
+        },
+        {
+          "key": "B",
+          "text": "alterar o plano de fundo de um slide específico."
+        },
+        {
+          "key": "C",
+          "text": "inserir textos e imagens em um mesmo slide."
+        },
+        {
+          "key": "D",
+          "text": "revisar ortograficamente o conteúdo apresentação."
+        },
+        {
+          "key": "E",
+          "text": "criar hyperlinks entre slides e documentos externos."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Transições controlam o efeito visual que ocorre na passagem de um slide para outro."
+    },
+    {
+      "id": "ITD005-2026-1",
+      "textId": null,
+      "tags": [
+        "#2026-1",
+        "#informatica"
+      ],
+      "question": "No sistema operacional Windows, a opção “modo de espera” tem a função de:",
+      "options": [
+        {
+          "key": "A",
+          "text": "suspender temporariamente as atividades, economizando energia."
+        },
+        {
+          "key": "B",
+          "text": "bloquear o acesso do usuário e desligar a internet."
+        },
+        {
+          "key": "C",
+          "text": "desligar completamente o computador."
+        },
+        {
+          "key": "D",
+          "text": "salvar todos os arquivos e reiniciar o sistema automaticamente."
+        },
+        {
+          "key": "E",
+          "text": "formatar o disco rígido e restaurar as configurações padrão."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O modo de espera suspende temporariamente a atividade do computador e reduz o consumo de energia, permitindo retomar a sessão rapidamente."
+    },
+    {
+      "id": "ITD006-2026-2",
+      "textId": null,
+      "tags": [
+        "#2026-2",
+        "#informatica"
+      ],
+      "question": "Ao acessar a Internet, um usuário decide utilizar um navegador para realizar pesquisas. Sobre navegadores e motores de busca, assinale a alternativa correta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "O navegador permite acessar páginas web, enquanto o motor de busca auxilia na localização de informações na Internet."
+        },
+        {
+          "key": "B",
+          "text": "O navegador é responsável por indexar páginas da Internet, enquanto o motor de busca apenas exibe sites armazenados no computador."
+        },
+        {
+          "key": "C",
+          "text": "Motores de busca funcionam apenas offline, utilizando arquivos locais do sistema."
+        },
+        {
+          "key": "D",
+          "text": "Navegadores e motores de busca são softwares idênticos, com a mesma função."
+        },
+        {
+          "key": "E",
+          "text": "Motores de busca substituem a necessidade de conexão com a Internet."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "O navegador acessa e exibe páginas web; o motor de busca ajuda a localizar páginas e informações disponíveis na Internet."
+    },
+    {
+      "id": "ITD007-2026-2",
+      "textId": null,
+      "tags": [
+        "#2026-2",
+        "#informatica"
+      ],
+      "question": "No sistema operacional Windows, um usuário deseja se ausentar temporariamente do computador, mantendo seus arquivos e programas abertos, mas protegendo o acesso. A opção mais adequada é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Desligar o computador."
+        },
+        {
+          "key": "B",
+          "text": "Reiniciar o sistema."
+        },
+        {
+          "key": "C",
+          "text": "Colocar em modo de espera."
+        },
+        {
+          "key": "D",
+          "text": "Bloquear o computador."
+        },
+        {
+          "key": "E",
+          "text": "Encerrar sessão."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Bloquear o computador mantém a sessão e os programas abertos e exige autenticação para voltar a utilizá-lo."
+    },
+    {
+      "id": "ITD008-2026-2",
+      "textId": null,
+      "tags": [
+        "#2026-2",
+        "#informatica"
+      ],
+      "question": "No Microsoft Word, ao elaborar um documento extenso com capítulos e subtítulos, o recurso mais adequado para gerar automaticamente uma lista organizada desses itens é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mala direta."
+        },
+        {
+          "key": "B",
+          "text": "Inserção de tabela."
+        },
+        {
+          "key": "C",
+          "text": "Sumário automático."
+        },
+        {
+          "key": "D",
+          "text": "Revisão ortográfica."
+        },
+        {
+          "key": "E",
+          "text": "Inserção de cabeçalho."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O sumário automático usa os estilos de título para listar os capítulos e suas páginas e pode ser atualizado quando o documento muda."
+    },
+    {
+      "id": "ITD009-2026-2",
+      "textId": null,
+      "tags": [
+        "#2026-2",
+        "#informatica"
+      ],
+      "question": "No Microsoft Excel, considere a necessidade de analisar grandes volumes de dados, permitindo reorganizar informações dinamicamente e gerar resumos. O recurso mais apropriado é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gráfico de colunas."
+        },
+        {
+          "key": "B",
+          "text": "Função SOMA."
+        },
+        {
+          "key": "C",
+          "text": "Formatação condicional."
+        },
+        {
+          "key": "D",
+          "text": "Tabela dinâmica."
+        },
+        {
+          "key": "E",
+          "text": "Planilha protegida."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A tabela dinâmica permite agrupar, reorganizar e resumir grandes conjuntos de dados sem alterar a disposição original da fonte."
+    },
+    {
+      "id": "ITD010-2026-2",
+      "textId": null,
+      "tags": [
+        "#2026-2",
+        "#informatica"
+      ],
+      "question": "Sobre dispositivos e práticas de uso de tecnologias no cotidiano, assinale a alternativa correta:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dispositivos removíveis, como pen drives, não apresentam riscos de segurança."
+        },
+        {
+          "key": "B",
+          "text": "Impressoras não podem digitalizar documentos."
+        },
+        {
+          "key": "C",
+          "text": "O envio de e-mails dispensa cuidados com anexos desconhecidos."
+        },
+        {
+          "key": "D",
+          "text": "Redes sociais não exigem configurações de privacidade."
+        },
+        {
+          "key": "E",
+          "text": "Dispositivos multifuncionais podem imprimir, copiar e digitalizar documentos."
+        }
+      ],
+      "correctKey": "E",
+      "explanation": "Equipamentos multifuncionais podem reunir impressão, cópia e digitalização no mesmo dispositivo."
+    },
+    {
+      "id": "IAITD001",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Sobre o armazenamento em nuvem, é correto afirmar que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "arquivos armazenados na nuvem só podem ser acessados no computador em que foram criados."
+        },
+        {
+          "key": "B",
+          "text": "serviços de nuvem permitem armazenar e acessar arquivos pela internet."
+        },
+        {
+          "key": "C",
+          "text": "o armazenamento em nuvem dispensa qualquer tipo de conexão com a internet."
+        },
+        {
+          "key": "D",
+          "text": "arquivos na nuvem não podem ser compartilhados com outras pessoas."
+        },
+        {
+          "key": "E",
+          "text": "apenas empresas podem utilizar serviços de armazenamento em nuvem."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Serviços de nuvem armazenam arquivos em servidores remotos e permitem acessá-los pela Internet, de acordo com as permissões e condições do serviço."
+    },
+    {
+      "id": "IAITD002",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Excel, a função =MÉDIA(A1:A10) tem como finalidade:",
+      "options": [
+        {
+          "key": "A",
+          "text": "somar os valores do intervalo A1:A10."
+        },
+        {
+          "key": "B",
+          "text": "contar as células preenchidas do intervalo A1:A10."
+        },
+        {
+          "key": "C",
+          "text": "calcular a média aritmética dos valores do intervalo A1:A10."
+        },
+        {
+          "key": "D",
+          "text": "localizar o maior valor do intervalo A1:A10."
+        },
+        {
+          "key": "E",
+          "text": "concatenar os conteúdos das células."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A função MÉDIA calcula a média aritmética dos valores numéricos do intervalo informado."
+    },
+    {
+      "id": "IAITD003",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Sobre os navegadores de internet, é correto afirmar que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "são programas utilizados para criar sistemas operacionais."
+        },
+        {
+          "key": "B",
+          "text": "permitem acessar páginas e conteúdos disponíveis na web."
+        },
+        {
+          "key": "C",
+          "text": "funcionam exclusivamente sem conexão com a internet."
+        },
+        {
+          "key": "D",
+          "text": "substituem completamente os antivírus."
+        },
+        {
+          "key": "E",
+          "text": "servem apenas para envio de e-mails."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Navegadores, como Firefox e Chrome, permitem acessar e visualizar páginas e outros conteúdos da web."
+    },
+    {
+      "id": "IAITD004",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Word, a funcionalidade utilizada para corrigir erros de escrita é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mala Direta."
+        },
+        {
+          "key": "B",
+          "text": "Quebra de Página."
+        },
+        {
+          "key": "C",
+          "text": "Verificação Ortográfica e Gramatical."
+        },
+        {
+          "key": "D",
+          "text": "Inserir Comentário."
+        },
+        {
+          "key": "E",
+          "text": "Controlar Alterações."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A verificação ortográfica e gramatical identifica possíveis erros de escrita e sugere correções."
+    },
+    {
+      "id": "IAITD005",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No sistema operacional Windows, a Lixeira tem a função de:",
+      "options": [
+        {
+          "key": "A",
+          "text": "armazenar temporariamente arquivos excluídos."
+        },
+        {
+          "key": "B",
+          "text": "proteger o computador contra vírus."
+        },
+        {
+          "key": "C",
+          "text": "realizar backups automáticos."
+        },
+        {
+          "key": "D",
+          "text": "compactar arquivos."
+        },
+        {
+          "key": "E",
+          "text": "instalar programas."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A Lixeira mantém temporariamente muitos arquivos excluídos e permite restaurá-los antes da remoção definitiva; nem toda exclusão passa por ela."
+    },
+    {
+      "id": "IAITD006",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Sobre senhas seguras, é correto afirmar que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "devem conter apenas números para facilitar a memorização."
+        },
+        {
+          "key": "B",
+          "text": "devem ser compartilhadas com colegas de confiança."
+        },
+        {
+          "key": "C",
+          "text": "quanto mais simples, maior a segurança."
+        },
+        {
+          "key": "D",
+          "text": "a combinação de letras, números e caracteres especiais aumenta a segurança."
+        },
+        {
+          "key": "E",
+          "text": "devem ser iguais em todos os serviços utilizados."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "A combinação de diferentes tipos de caracteres pode fortalecer uma senha; também é importante que ela seja longa, exclusiva e difícil de adivinhar."
+    },
+    {
+      "id": "IAITD007",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft PowerPoint, a ferramenta “Animações” permite:",
+      "options": [
+        {
+          "key": "A",
+          "text": "alterar o sistema operacional do computador."
+        },
+        {
+          "key": "B",
+          "text": "aplicar efeitos visuais aos objetos presentes em um slide."
+        },
+        {
+          "key": "C",
+          "text": "criar planilhas eletrônicas."
+        },
+        {
+          "key": "D",
+          "text": "converter apresentações em vídeos automaticamente."
+        },
+        {
+          "key": "E",
+          "text": "corrigir erros ortográficos em imagens."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "As animações controlam como objetos, como textos e imagens, aparecem, desaparecem ou se movimentam dentro de um slide."
+    },
+    {
+      "id": "IAITD008",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Um dispositivo comumente utilizado para realizar cópias de segurança (backup) de arquivos é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "monitor."
+        },
+        {
+          "key": "B",
+          "text": "teclado."
+        },
+        {
+          "key": "C",
+          "text": "impressora."
+        },
+        {
+          "key": "D",
+          "text": "pendrive."
+        },
+        {
+          "key": "E",
+          "text": "caixa de som."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Um pendrive pode armazenar cópias de segurança, embora seja recomendável manter cópias adicionais em dispositivos ou locais distintos."
+    },
+    {
+      "id": "IAITD009",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Sobre o correio eletrônico (e-mail), é correto afirmar que:",
+      "options": [
+        {
+          "key": "A",
+          "text": "permite apenas o envio de mensagens de texto."
+        },
+        {
+          "key": "B",
+          "text": "não pode ser acessado por dispositivos móveis."
+        },
+        {
+          "key": "C",
+          "text": "possibilita o envio e recebimento de mensagens e arquivos digitais."
+        },
+        {
+          "key": "D",
+          "text": "substitui totalmente os navegadores de internet."
+        },
+        {
+          "key": "E",
+          "text": "funciona somente em redes locais."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O e-mail permite enviar e receber mensagens e, quando suportado pelo serviço, anexar arquivos digitais."
+    },
+    {
+      "id": "IAITD010",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Em informática, o termo “hardware” refere-se:",
+      "options": [
+        {
+          "key": "A",
+          "text": "aos programas instalados no computador."
+        },
+        {
+          "key": "B",
+          "text": "aos arquivos armazenados na nuvem."
+        },
+        {
+          "key": "C",
+          "text": "aos componentes físicos de um sistema computacional."
+        },
+        {
+          "key": "D",
+          "text": "às páginas da internet acessadas pelo usuário."
+        },
+        {
+          "key": "E",
+          "text": "aos serviços de correio eletrônico."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Hardware é a parte física de um sistema computacional, como teclado, monitor, memória, processador e unidades de armazenamento."
+    },
+    {
+      "id": "IAITD011",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No sistema operacional Windows, o atalho de teclado utilizado para alternar entre as janelas abertas é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ctrl + X"
+        },
+        {
+          "key": "B",
+          "text": "Alt + Tab"
+        },
+        {
+          "key": "C",
+          "text": "Shift + Del"
+        },
+        {
+          "key": "D",
+          "text": "Ctrl + Z"
+        },
+        {
+          "key": "E",
+          "text": "Win + L"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Alt + Tab permite alternar entre janelas abertas. Win + L bloqueia o computador, Ctrl + Z desfaz uma ação e Ctrl + X recorta o conteúdo selecionado."
+    },
+    {
+      "id": "IAITD012",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "A memória de um computador que é volátil e armazena temporariamente os dados dos programas que estão em execução é a:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memória ROM"
+        },
+        {
+          "key": "B",
+          "text": "Memória RAM"
+        },
+        {
+          "key": "C",
+          "text": "Memória Flash"
+        },
+        {
+          "key": "D",
+          "text": "Unidade de Disco Rígido (HD)"
+        },
+        {
+          "key": "E",
+          "text": "Unidade de Estado Sólido (SSD)"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A RAM mantém temporariamente dados e instruções usados pelos programas em execução e perde seu conteúdo quando fica sem alimentação elétrica."
+    },
+    {
+      "id": "IAITD013",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Excel, para extrair a média aritmética dos valores presentes no intervalo de células de B1 até B10, utiliza-se a função:",
+      "options": [
+        {
+          "key": "A",
+          "text": "=MEDIANA(B1:B10)"
+        },
+        {
+          "key": "B",
+          "text": "=SOMAR(B1:B10)"
+        },
+        {
+          "key": "C",
+          "text": "=MEDIA(B1:B10)"
+        },
+        {
+          "key": "D",
+          "text": "=PROCM(B1:B10)"
+        },
+        {
+          "key": "E",
+          "text": "=CONT.SE(B1:B10)"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "A alternativa C é a indicada no documento-fonte. Observação de revisão: em instalações do Excel em português, a forma usual da função é =MÉDIA(B1:B10); a grafia sem acento no PDF parece ser um erro de transcrição."
+    },
+    {
+      "id": "IAITD014",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual das seguintes alternativas apresenta apenas dispositivos de entrada de dados em um computador?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Monitor e Impressora."
+        },
+        {
+          "key": "B",
+          "text": "Caixa de som e Projetor."
+        },
+        {
+          "key": "C",
+          "text": "Teclado e Mouse."
+        },
+        {
+          "key": "D",
+          "text": "Disco Rígido e Memória RAM."
+        },
+        {
+          "key": "E",
+          "text": "Placa de vídeo e Processador."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Teclado e mouse são periféricos de entrada porque permitem fornecer dados e comandos ao computador."
+    },
+    {
+      "id": "IAITD015",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Word, o recurso que permite aplicar uma formatação rápida e consistente (como fontes, tamanhos e cores) a títulos e parágrafos em todo o documento é chamado de:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Estilos"
+        },
+        {
+          "key": "B",
+          "text": "Layout da Página"
+        },
+        {
+          "key": "C",
+          "text": "AutoTexto"
+        },
+        {
+          "key": "D",
+          "text": "Inspecionar Documento"
+        },
+        {
+          "key": "E",
+          "text": "Macros"
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Os estilos reúnem configurações de formatação que podem ser aplicadas consistentemente a títulos e parágrafos."
+    },
+    {
+      "id": "IAITD016",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Um software malicioso projetado especificamente para criptografar os arquivos de uma vítima e exigir o pagamento de um resgate para restabelecer o acesso é conhecido como:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Spyware"
+        },
+        {
+          "key": "B",
+          "text": "Ransomware"
+        },
+        {
+          "key": "C",
+          "text": "Adware"
+        },
+        {
+          "key": "D",
+          "text": "Rootkit"
+        },
+        {
+          "key": "E",
+          "text": "Phishing"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Ransomware é um tipo de malware que pode criptografar arquivos e exigir resgate. Pagar não garante a recuperação dos dados."
+    },
+    {
+      "id": "IAITD017",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft PowerPoint, o recurso utilizado para configurar a maneira como os elementos individuais (como textos, imagens ou gráficos) surgem ou se movem dentro de um mesmo slide é chamado de:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Transições"
+        },
+        {
+          "key": "B",
+          "text": "Animações"
+        },
+        {
+          "key": "C",
+          "text": "Design do Slide"
+        },
+        {
+          "key": "D",
+          "text": "Testar Intervalos"
+        },
+        {
+          "key": "E",
+          "text": "Apresentação Personalizada"
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Animações afetam objetos dentro de um slide; transições definem o efeito visual da passagem entre slides."
+    },
+    {
+      "id": "IAITD018",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Ao navegar na Internet, a principal função de um servidor DNS (Domain Name System) é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Proteger a rede local contra ataques de vírus e malwares."
+        },
+        {
+          "key": "B",
+          "text": "Criptografar as transações bancárias realizadas pelo usuário."
+        },
+        {
+          "key": "C",
+          "text": "Traduzir nomes de domínios amigáveis (como www.exemplo.com) em endereços IP."
+        },
+        {
+          "key": "D",
+          "text": "Armazenar o histórico de navegação local do usuário."
+        },
+        {
+          "key": "E",
+          "text": "Aumentar a velocidade de download de arquivos grandes."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O DNS ajuda a localizar serviços na rede ao resolver nomes de domínio para endereços IP."
+    },
+    {
+      "id": "IAITD019",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No sistema operacional Windows, para excluir um arquivo permanentemente, enviando-o diretamente para fora do computador sem passar pela Lixeira, deve-se selecioná-lo e pressionar as teclas:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ctrl + Del"
+        },
+        {
+          "key": "B",
+          "text": "Alt + Del"
+        },
+        {
+          "key": "C",
+          "text": "Shift + Del"
+        },
+        {
+          "key": "D",
+          "text": "Win + Del"
+        },
+        {
+          "key": "E",
+          "text": "Fn + Del"
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Shift + Delete solicita a exclusão sem passar pela Lixeira no Explorador de Arquivos do Windows; por isso, deve ser usado com cuidado."
+    },
+    {
+      "id": "IAITD020",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No contexto de redes de computadores e Internet, a principal função de um Firewall é:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Realizar o backup automático dos arquivos do usuário na nuvem."
+        },
+        {
+          "key": "B",
+          "text": "Monitorar e filtrar o tráfego de rede para bloquear acessos não autorizados."
+        },
+        {
+          "key": "C",
+          "text": "Limpar o cache do navegador e remover cookies antigos."
+        },
+        {
+          "key": "D",
+          "text": "Desfragmentar o disco rígido para melhorar o desempenho do sistema."
+        },
+        {
+          "key": "E",
+          "text": "Compartilhar a impressora local com outros computadores da rede."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Um firewall filtra o tráfego de rede segundo regras de segurança, ajudando a bloquear conexões não autorizadas."
+    },
+    {
+      "id": "IAITD021",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Excel, a função =CONT.SE(A1:A20;\"Aprovado\") é utilizada para:",
+      "options": [
+        {
+          "key": "A",
+          "text": "somar os valores numéricos das células A1 até A20."
+        },
+        {
+          "key": "B",
+          "text": "calcular a média dos valores de A1 até A20."
+        },
+        {
+          "key": "C",
+          "text": "contar quantas células do intervalo A1:A20 atendem ao critério \"Aprovado\"."
+        },
+        {
+          "key": "D",
+          "text": "ordenar alfabeticamente os dados do intervalo."
+        },
+        {
+          "key": "E",
+          "text": "destacar automaticamente todas as células que contêm números."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "CONT.SE conta as células de um intervalo que satisfazem um critério. O ponto e vírgula normalmente separa os argumentos no Excel em português."
+    },
+    {
+      "id": "IAITD022",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Em uma planilha do Microsoft Excel, qual recurso permite representar visualmente dados numéricos para facilitar a comparação entre categorias ou a observação de tendências?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Validação de dados."
+        },
+        {
+          "key": "B",
+          "text": "Proteção de planilha."
+        },
+        {
+          "key": "C",
+          "text": "Congelamento de painéis."
+        },
+        {
+          "key": "D",
+          "text": "Criação de gráficos."
+        },
+        {
+          "key": "E",
+          "text": "Localizar e substituir."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Gráficos apresentam dados visualmente; gráficos de colunas facilitam comparar categorias, enquanto gráficos de linhas podem destacar tendências."
+    },
+    {
+      "id": "IAITD023",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Excel, a formatação condicional é utilizada para:",
+      "options": [
+        {
+          "key": "A",
+          "text": "alterar automaticamente a aparência das células quando elas atendem a regras definidas."
+        },
+        {
+          "key": "B",
+          "text": "criar cópias de segurança de toda a planilha."
+        },
+        {
+          "key": "C",
+          "text": "traduzir fórmulas para outras linguagens de programação."
+        },
+        {
+          "key": "D",
+          "text": "impedir que o arquivo seja aberto em outro computador."
+        },
+        {
+          "key": "E",
+          "text": "transformar toda a planilha em uma apresentação de slides."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A formatação condicional aplica formatos, como cores ou ícones, com base em regras ou valores das células."
+    },
+    {
+      "id": "IAITD024",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Word, qual recurso é mais adequado para inserir informações variáveis, como o nome do destinatário, em várias cartas personalizadas a partir de uma lista de pessoas?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quebra de seção."
+        },
+        {
+          "key": "B",
+          "text": "Mala direta."
+        },
+        {
+          "key": "C",
+          "text": "Controlar Alterações."
+        },
+        {
+          "key": "D",
+          "text": "Contagem de palavras."
+        },
+        {
+          "key": "E",
+          "text": "Orientação da página."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A mala direta combina um modelo com uma lista de destinatários e gera documentos personalizados automaticamente."
+    },
+    {
+      "id": "IAITD025",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Para que um sumário automático do Microsoft Word identifique corretamente os capítulos e subtítulos de um documento, é recomendável:",
+      "options": [
+        {
+          "key": "A",
+          "text": "digitar manualmente todos os números de página antes de escrever o documento."
+        },
+        {
+          "key": "B",
+          "text": "usar apenas letras maiúsculas nos títulos."
+        },
+        {
+          "key": "C",
+          "text": "inserir cada título como imagem."
+        },
+        {
+          "key": "D",
+          "text": "aplicar os estilos de título apropriados aos capítulos e subtítulos."
+        },
+        {
+          "key": "E",
+          "text": "salvar o documento exclusivamente em formato de texto simples."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "O Word utiliza os estilos de título para identificar a estrutura do documento e montar o sumário automático."
+    },
+    {
+      "id": "IAITD026",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Microsoft Word, qual é a finalidade principal do cabeçalho de um documento?",
+      "options": [
+        {
+          "key": "A",
+          "text": "armazenar arquivos excluídos temporariamente."
+        },
+        {
+          "key": "B",
+          "text": "inserir informações na área superior das páginas, como título, data ou identificação."
+        },
+        {
+          "key": "C",
+          "text": "executar cálculos matemáticos em tabelas externas."
+        },
+        {
+          "key": "D",
+          "text": "impedir a edição de qualquer parte do documento."
+        },
+        {
+          "key": "E",
+          "text": "criar transições entre páginas."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O cabeçalho fica na região superior da página e pode conter informações repetidas, conforme a configuração do documento."
+    },
+    {
+      "id": "IAITD027",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Ao utilizar o Microsoft PowerPoint, qual alternativa descreve corretamente a diferença entre transições e animações?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Transições editam fórmulas; animações corrigem a ortografia."
+        },
+        {
+          "key": "B",
+          "text": "Transições afetam a passagem entre slides; animações afetam objetos dentro de um slide."
+        },
+        {
+          "key": "C",
+          "text": "Transições só funcionam em documentos impressos; animações só funcionam em planilhas."
+        },
+        {
+          "key": "D",
+          "text": "Transições e animações são nomes diferentes para a mesma ferramenta."
+        },
+        {
+          "key": "E",
+          "text": "Animações alteram o sistema operacional; transições gerenciam arquivos."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "A transição ocorre ao mudar de slide; a animação controla efeitos aplicados a elementos de um slide."
+    },
+    {
+      "id": "IAITD028",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "No Windows, qual é a principal diferença entre bloquear o computador e colocá-lo em modo de espera?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bloquear sempre desliga o computador; o modo de espera remove todos os arquivos."
+        },
+        {
+          "key": "B",
+          "text": "Bloquear apaga a sessão; o modo de espera desinstala os programas."
+        },
+        {
+          "key": "C",
+          "text": "Bloquear protege o acesso mantendo a sessão ativa; o modo de espera reduz o consumo de energia e suspende temporariamente a atividade."
+        },
+        {
+          "key": "D",
+          "text": "As duas opções formatam o disco rígido."
+        },
+        {
+          "key": "E",
+          "text": "O modo de espera é usado exclusivamente para trocar a senha."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Bloquear exige autenticação para retornar à sessão, enquanto o modo de espera suspende temporariamente a atividade do sistema e reduz o consumo de energia."
+    },
+    {
+      "id": "IAITD029",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Um usuário excluiu um arquivo pelo Explorador de Arquivos do Windows e deseja recuperá-lo. Se o arquivo tiver sido enviado à Lixeira e ela ainda não tiver sido esvaziada, ele deverá:",
+      "options": [
+        {
+          "key": "A",
+          "text": "abrir a Lixeira, selecionar o arquivo e utilizar a opção Restaurar."
+        },
+        {
+          "key": "B",
+          "text": "formatar o disco para reverter a exclusão."
+        },
+        {
+          "key": "C",
+          "text": "reiniciar o computador três vezes."
+        },
+        {
+          "key": "D",
+          "text": "abrir o Firewall e desativar todas as regras."
+        },
+        {
+          "key": "E",
+          "text": "limpar o histórico do navegador."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A opção Restaurar recupera o arquivo da Lixeira para seu local original, desde que ele ainda esteja disponível nela."
+    },
+    {
+      "id": "IAITD030",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual alternativa apresenta uma prática recomendada para aumentar a segurança de contas na Internet?",
+      "options": [
+        {
+          "key": "A",
+          "text": "utilizar a mesma senha em todos os serviços."
+        },
+        {
+          "key": "B",
+          "text": "desativar todas as atualizações de segurança."
+        },
+        {
+          "key": "C",
+          "text": "enviar senhas por mensagens públicas."
+        },
+        {
+          "key": "D",
+          "text": "utilizar senhas exclusivas e ativar a autenticação em dois fatores quando disponível."
+        },
+        {
+          "key": "E",
+          "text": "salvar a senha em qualquer computador compartilhado."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Senhas exclusivas reduzem o impacto de vazamentos, e a autenticação em dois fatores acrescenta uma camada de proteção."
+    },
+    {
+      "id": "IAITD031",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Uma mensagem eletrônica afirma ser de um banco, exige atualização urgente dos dados e contém um link para uma página suspeita. Essa tentativa de enganar o usuário para obter informações é conhecida como:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Desfragmentação."
+        },
+        {
+          "key": "B",
+          "text": "Phishing."
+        },
+        {
+          "key": "C",
+          "text": "Compactação."
+        },
+        {
+          "key": "D",
+          "text": "Virtualização."
+        },
+        {
+          "key": "E",
+          "text": "Indexação."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Phishing utiliza mensagens ou páginas fraudulentas para induzir a vítima a revelar senhas, dados financeiros ou outras informações."
+    },
+    {
+      "id": "IAITD032",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Um computador foi infectado por um programa malicioso que bloqueou o acesso aos documentos e exige pagamento para liberá-los. Qual tipo de ameaça melhor corresponde a essa descrição?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ransomware."
+        },
+        {
+          "key": "B",
+          "text": "Cookie."
+        },
+        {
+          "key": "C",
+          "text": "Firewall."
+        },
+        {
+          "key": "D",
+          "text": "Driver."
+        },
+        {
+          "key": "E",
+          "text": "Editor de texto."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Ransomware pode bloquear ou criptografar arquivos e exigir resgate. Manter backups independentes ajuda na recuperação dos dados."
+    },
+    {
+      "id": "IAITD033",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual alternativa descreve corretamente a função de um firewall?",
+      "options": [
+        {
+          "key": "A",
+          "text": "É um programa que calcula a média de uma planilha."
+        },
+        {
+          "key": "B",
+          "text": "É um dispositivo utilizado exclusivamente para imprimir documentos."
+        },
+        {
+          "key": "C",
+          "text": "É um mecanismo que filtra conexões e tráfego de rede de acordo com regras de segurança."
+        },
+        {
+          "key": "D",
+          "text": "É um serviço que substitui todas as senhas."
+        },
+        {
+          "key": "E",
+          "text": "É um tipo de memória permanente usada para iniciar o computador."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "O firewall controla o tráfego de rede permitido ou bloqueado segundo regras configuradas, contribuindo para a proteção do sistema."
+    },
+    {
+      "id": "IAITD034",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Quando um usuário digita o endereço de um site no navegador, qual serviço normalmente ajuda a localizar o endereço IP associado ao nome do domínio?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DHCP, exclusivamente para corrigir erros ortográficos."
+        },
+        {
+          "key": "B",
+          "text": "DNS."
+        },
+        {
+          "key": "C",
+          "text": "Lixeira."
+        },
+        {
+          "key": "D",
+          "text": "Editor de apresentações."
+        },
+        {
+          "key": "E",
+          "text": "Planilha eletrônica."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O DNS resolve nomes de domínio para endereços IP, ajudando os dispositivos a localizar os serviços na rede."
+    },
+    {
+      "id": "IAITD035",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Ao acessar um site por HTTPS, qual é uma característica importante dessa conexão?",
+      "options": [
+        {
+          "key": "A",
+          "text": "garante que o conteúdo do site seja sempre verdadeiro e livre de golpes."
+        },
+        {
+          "key": "B",
+          "text": "impede que qualquer tipo de malware seja executado no computador."
+        },
+        {
+          "key": "C",
+          "text": "dispensa o uso de senhas seguras."
+        },
+        {
+          "key": "D",
+          "text": "protege a comunicação em trânsito por criptografia, mas não garante, por si só, que o site seja confiável."
+        },
+        {
+          "key": "E",
+          "text": "permite navegar sem conexão com a Internet."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "HTTPS protege a comunicação entre o navegador e o site durante o tráfego; não garante que o site seja legítimo ou que todo conteúdo seja seguro."
+    },
+    {
+      "id": "IAITD036",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Sobre cookies e histórico de navegação, assinale a alternativa correta:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cookies são sempre vírus que destroem arquivos do computador."
+        },
+        {
+          "key": "B",
+          "text": "O histórico registra páginas visitadas no navegador, enquanto cookies podem guardar preferências e informações de sessão."
+        },
+        {
+          "key": "C",
+          "text": "Apagar o histórico impede qualquer forma de rastreamento por sites ou provedores."
+        },
+        {
+          "key": "D",
+          "text": "Cookies são componentes físicos instalados na placa-mãe."
+        },
+        {
+          "key": "E",
+          "text": "O histórico do navegador armazena exclusivamente senhas bancárias."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "O histórico registra páginas visitadas no navegador; cookies podem manter sessões, preferências e outros dados. Apagar o histórico não elimina necessariamente outros registros de atividade."
+    },
+    {
+      "id": "IAITD037",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual alternativa apresenta corretamente a diferença entre memória RAM e memória ROM?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A RAM é normalmente volátil e usada durante a execução; a ROM é não volátil e pode armazenar instruções persistentes."
+        },
+        {
+          "key": "B",
+          "text": "A RAM é exclusivamente um dispositivo de saída e a ROM é um navegador."
+        },
+        {
+          "key": "C",
+          "text": "A RAM armazena apenas arquivos impressos e a ROM só funciona com Internet."
+        },
+        {
+          "key": "D",
+          "text": "Ambas perdem necessariamente todos os dados quando o computador é desligado."
+        },
+        {
+          "key": "E",
+          "text": "A ROM é usada apenas para reproduzir sons."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "A RAM guarda temporariamente dados em uso e perde seu conteúdo sem alimentação. A ROM é não volátil e pode conter firmware ou instruções de inicialização."
+    },
+    {
+      "id": "IAITD038",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual das alternativas contém um exemplo de periférico de saída de dados?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Teclado."
+        },
+        {
+          "key": "B",
+          "text": "Mouse."
+        },
+        {
+          "key": "C",
+          "text": "Scanner."
+        },
+        {
+          "key": "D",
+          "text": "Monitor."
+        },
+        {
+          "key": "E",
+          "text": "Microfone."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "O monitor apresenta informações visuais ao usuário e é um dispositivo de saída; os demais itens são dispositivos de entrada."
+    },
+    {
+      "id": "IAITD039",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual alternativa descreve melhor o conceito de software?",
+      "options": [
+        {
+          "key": "A",
+          "text": "É exclusivamente o gabinete do computador."
+        },
+        {
+          "key": "B",
+          "text": "É o conjunto de programas e instruções que orientam o funcionamento de um sistema computacional."
+        },
+        {
+          "key": "C",
+          "text": "É qualquer cabo conectado ao computador."
+        },
+        {
+          "key": "D",
+          "text": "É apenas a memória RAM."
+        },
+        {
+          "key": "E",
+          "text": "É sinônimo de monitor."
+        }
+      ],
+      "correctKey": "B",
+      "explanation": "Software compreende programas e instruções, como sistemas operacionais e aplicativos, executados pelo hardware."
+    },
+    {
+      "id": "IAITD040",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Uma equipe precisa manter cópias de segurança de documentos importantes. Qual prática é mais adequada?",
+      "options": [
+        {
+          "key": "A",
+          "text": "manter a única cópia dos arquivos no mesmo disco do computador."
+        },
+        {
+          "key": "B",
+          "text": "fazer backup apenas depois de perder os arquivos."
+        },
+        {
+          "key": "C",
+          "text": "manter cópias atualizadas em outro dispositivo ou local e verificar se podem ser restauradas."
+        },
+        {
+          "key": "D",
+          "text": "renomear os arquivos para impedir qualquer falha."
+        },
+        {
+          "key": "E",
+          "text": "desativar as atualizações e apagar todas as cópias antigas sem conferir."
+        }
+      ],
+      "correctKey": "C",
+      "explanation": "Backups atualizados e independentes reduzem o risco de perda por falha, roubo ou malware. Testar a restauração confirma se as cópias são utilizáveis."
+    },
+    {
+      "id": "IAITD041",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Ao pressionar Shift + Delete sobre um arquivo no Explorador de Arquivos do Windows, o usuário normalmente:",
+      "options": [
+        {
+          "key": "A",
+          "text": "envia o arquivo para a Lixeira sem removê-lo."
+        },
+        {
+          "key": "B",
+          "text": "abre o arquivo no Word."
+        },
+        {
+          "key": "C",
+          "text": "bloqueia a sessão do Windows."
+        },
+        {
+          "key": "D",
+          "text": "solicita a exclusão sem passar pela Lixeira."
+        },
+        {
+          "key": "E",
+          "text": "cria automaticamente uma cópia na nuvem."
+        }
+      ],
+      "correctKey": "D",
+      "explanation": "Esse atalho solicita a exclusão direta, sem o envio usual à Lixeira, por isso deve ser usado com cuidado."
+    },
+    {
+      "id": "IAITD042",
+      "textId": null,
+      "tags": [
+        "#ia",
+        "#informatica"
+      ],
+      "question": "Qual atalho do Windows é comumente utilizado para bloquear rapidamente o computador antes de o usuário se ausentar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Win + L."
+        },
+        {
+          "key": "B",
+          "text": "Alt + F4."
+        },
+        {
+          "key": "C",
+          "text": "Ctrl + C."
+        },
+        {
+          "key": "D",
+          "text": "Alt + Tab."
+        },
+        {
+          "key": "E",
+          "text": "Ctrl + P."
+        }
+      ],
+      "correctKey": "A",
+      "explanation": "Win + L bloqueia a sessão do Windows e ajuda a impedir o acesso de outras pessoas sem autenticação."
+    }
+  ]
+}

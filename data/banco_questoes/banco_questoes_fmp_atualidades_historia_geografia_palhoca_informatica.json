@@ -1,0 +1,2339 @@
+{
+  "texts": [
+    {
+      "id": "text_atu_2026_2",
+      "title": "Tensões no Oriente Médio e seus Impactos na Geopolítica Global",
+      "author": "Texto adaptado de referências em geopolítica contemporânea",
+      "content": "Em meio ao aumento das tensões no Oriente Médio, as relações entre Irã, Israel e os Estados Unidos tornaram-se ainda mais delicadas. O Irã tem ampliado seu programa nuclear, alegando fins pacíficos, enquanto Israel considera essa expansão uma ameaça direta à sua segurança nacional. Os Estados Unidos, por sua vez, mantêm alianças estratégicas na região e impõem sanções econômicas ao Irã, visando conter seu avanço tecnológico e militar.\n\nAlém disso, o conflito indireto entre esses países ocorre por meio de grupos aliados em diferentes territórios, o que amplia a instabilidade regional. Especialistas apontam que uma escalada mais intensa poderia afetar o fornecimento global de petróleo, impactando economias ao redor do mundo.\n\nA instabilidade na região também tem gerado preocupações no campo diplomático, com tentativas de mediação por parte de organizações internacionais e outros países. No entanto, divergências históricas, interesses estratégicos e disputas por influência dificultam a construção de acordos duradouros. Esse cenário reforça a complexidade das relações internacionais contemporâneas, nas quais fatores políticos, militares e econômicos se interligam."
+    },
+    {
+      "id": "text_palhoca_2026_2",
+      "title": "Palhoça em Perspectiva: Território, História e Sociedade",
+      "author": "Texto elaborado a partir de referência sobre o município de Palhoça",
+      "content": "Localizado na região metropolitana de Florianópolis, o município de Palhoça apresenta diversidade geográfica marcada por áreas litorâneas, morros e planícies. O território é cortado por rios e abriga importantes formações naturais, como a Guarda do Embaú, reconhecida por sua beleza paisagística e relevância ambiental. O clima predominante é subtropical úmido, com vegetação típica da Mata Atlântica, o que contribui para a biodiversidade local. O crescimento populacional nas últimas décadas tem intensificado a ocupação urbana, trazendo desafios relacionados ao meio ambiente e à infraestrutura.\n\nHistoricamente, Palhoça teve sua ocupação ligada ao processo de colonização açoriana, iniciado no século XVIII, com forte influência cultural que permanece visível nas tradições locais. A emancipação política ocorreu no século XIX, consolidando o município como unidade administrativa própria. Datas festivas, celebrações religiosas e eventos comunitários mantêm vivas as raízes históricas e culturais da população.\n\nNo campo cultural, destacam-se manifestações folclóricas, festas tradicionais e a valorização de expressões artísticas locais, incluindo música, literatura e artes visuais. O hino municipal e eventos culturais reforçam o sentimento de pertencimento e identidade coletiva dos moradores.\n\nEconomicamente, o município apresenta atividades diversificadas, incluindo agricultura, pesca, maricultura, comércio e setor industrial em expansão. Sua proximidade com centros urbanos maiores favorece o desenvolvimento econômico, ao mesmo tempo em que exige planejamento para equilibrar crescimento e preservação ambiental.\n\nPoliticamente, Palhoça possui estrutura administrativa composta pela prefeitura e pela câmara de vereadores, responsáveis pela gestão pública e elaboração de leis municipais. Ao longo de sua história, o município também revelou personagens ilustres em diversas áreas, como política, artes e comunicação, contribuindo para o desenvolvimento local e regional."
+    },
+    {
+      "id": "text_geo_2026_2_q39",
+      "title": "Geopolítica contemporânea",
+      "author": "Texto adaptado de referências em geopolítica contemporânea",
+      "content": "A geopolítica contemporânea não pode mais ser compreendida exclusivamente a partir de categorias tradicionais, como território e poder militar, embora esses elementos permaneçam relevantes. A intensificação dos fluxos econômicos, a atuação de empresas transnacionais e os avanços tecnológicos ampliaram os atores e as dinâmicas de poder. Ainda assim, conflitos armados, disputas estratégicas e a capacidade bélica dos Estados continuam desempenhando papel decisivo na configuração da ordem internacional."
+    },
+    {
+      "id": "text_geo_2026_2_q40",
+      "title": "Urbanização brasileira",
+      "author": "Texto adaptado de referências sobre o processo de urbanização brasileiro",
+      "content": "O processo de urbanização brasileiro, intensificado ao longo do século XX, apresenta profundas desigualdades regionais, refletindo a própria formação socioeconômica do país. Embora tenha ocorrido de maneira acelerada, sobretudo a partir da industrialização, esse fenômeno não se deu de forma uniforme no território, sendo marcado por ritmos distintos entre as regiões e pela concentração populacional em determinados centros urbanos. Ainda assim, ao longo do tempo, observa-se a difusão do processo urbano para áreas antes predominantemente rurais, ainda que em níveis e intensidades variados."
+    }
+  ],
+  "questions": [
+    {
+      "id": "atu_2024_2_q21",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome do autor da obra Menino Maluquinho, falecido em abril de 2024.",
+      "options": {
+        "a": "Mauricio de Souza",
+        "b": "Paulo César Silva",
+        "c": "Daniel Lafayette",
+        "d": "Paulo Caruso",
+        "e": "Ziraldo Alves Pinto"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: Ziraldo Alves Pinto criou O Menino Maluquinho e morreu em abril de 2024. Mauricio de Souza, opção a, criou a Turma da Mônica; Paulo César Silva, Daniel Lafayette e Paulo Caruso, opções b, c e d, não são o autor da obra citada. A questão avalia reconhecimento de um fato cultural recente.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#cultura-brasileira",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q22",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do primeiro-ministro de Israel que declarou guerra ao grupo Hamas.",
+      "options": {
+        "a": "Benjamin Netanyahu",
+        "b": "Volodymyr Zelensky",
+        "c": "Emmanuel Macron",
+        "d": "Ariel Sharon",
+        "e": "Shimon Peres"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: Benjamin Netanyahu era o primeiro-ministro israelense durante a declaração de estado de guerra após os ataques do Hamas em outubro de 2023. Zelensky, b, é associado à presidência da Ucrânia; Macron, c, é presidente da França; Ariel Sharon, d, e Shimon Peres, e, são ex-líderes israelenses que não ocupavam o cargo naquele momento.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#geopolitica",
+        "#oriente-medio",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q23",
+      "text_id": null,
+      "statement": "Todas as informações são verdadeiras sobre a Faixa de Gaza, EXCETO:",
+      "options": {
+        "a": "É um pequeno território situado no Oriente Médio.",
+        "b": "Faz fronteira com Israel e com o Egito.",
+        "c": "O território é muito pobre e enfrenta severos problemas estruturais, além dos constantes conflitos.",
+        "d": "É uma região com baixa densidade demográfica.",
+        "e": "É governada pelo Hamas."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d é a exceção: Gaza é uma das áreas densamente povoadas do mundo, não uma região de baixa densidade demográfica. As opções a e b descrevem sua localização e fronteiras; c resume problemas humanitários e de infraestrutura; e identifica o Hamas como autoridade governante de facto antes da guerra recente. A densidade populacional elevada agrava a exposição de civis em conflitos.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#geopolitica",
+        "#oriente-medio",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q24",
+      "text_id": null,
+      "statement": "Leonardo Riella, médico brasileiro, tornou-se mundialmente conhecido, em 2024:",
+      "options": {
+        "a": "pelo transplante de rim de porco para um homem em estado de saúde crítico.",
+        "b": "pelo desenvolvimento da vacina contra a dengue.",
+        "c": "pelo uso da Inteligência Artificial no diagnóstico precoce do câncer de pâncreas.",
+        "d": "pelas pesquisas na produção de medicamentos contra a doença de Alzheimer.",
+        "e": "pelas pesquisas no desenvolvimento de vacina para a cura e prevenção do HIV."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a é a indicada pelo enunciado: Leonardo Riella ganhou projeção em 2024 no contexto de um transplante experimental de rim de porco geneticamente modificado para um paciente humano. A vacina contra dengue, opção b, foi desenvolvida por equipes e instituições distintas; c, d e e atribuem a ele feitos diferentes que não correspondem ao fato associado à questão.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#ciencia-e-tecnologia",
+        "#saude",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q25",
+      "text_id": null,
+      "statement": "São fatos que aconteceram em 2024, EXCETO:",
+      "options": {
+        "a": "O Brasil ultrapassou a marca de 500 mil casos de dengue.",
+        "b": "A vacina contra a dengue começou a ser aplicada no Brasil.",
+        "c": "O encontro dos países do G20 ocorreu no Rio de Janeiro.",
+        "d": "O início da mais sangrenta guerra entre Israel e o grupo terrorista Hamas.",
+        "e": "A edição do festival musical Lollapalooza aconteceu no Autódromo de Interlagos, em São Paulo, no mês de março."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d é a exceção porque os ataques do Hamas e o início da guerra em larga escala ocorreram em outubro de 2023, não em 2024. Em 2024 houve forte aumento dos casos de dengue e início da vacinação, o G20 reuniu-se no Rio de Janeiro e o Lollapalooza ocorreu em Interlagos em março; por isso a, b, c e e são compatíveis com aquele ano.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#brasil",
+        "#saude-publica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q26",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o país governado pelo economista ultraliberal Javier Milei.",
+      "options": {
+        "a": "Paraguai",
+        "b": "Chile",
+        "c": "Argentina",
+        "d": "Uruguai",
+        "e": "Peru"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: Javier Milei assumiu a Presidência da Argentina em dezembro de 2023. Paraguai, Chile, Uruguai e Peru, alternativas a, b, d e e, são países distintos da América do Sul e não eram governados por Milei.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#america-do-sul",
+        "#politica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q27",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a cidade onde seriam realizadas as Olimpíadas de 2024.",
+      "options": {
+        "a": "Moscou",
+        "b": "Paris",
+        "c": "Londres",
+        "d": "Berlim",
+        "e": "Toronto"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: Paris, na França, sediou os Jogos Olímpicos de Verão de 2024. Moscou, Londres e Berlim, opções a, c e d, sediaram edições em outros anos; Toronto, e, não foi a cidade-sede dessa edição.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#esportes",
+        "#geografia-mundial",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q28",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o crime que motivou a prisão do ex-jogador de futebol Robinho.",
+      "options": {
+        "a": "tráfico de drogas",
+        "b": "lavagem de dinheiro",
+        "c": "fraude fiscal",
+        "d": "estupro coletivo",
+        "e": "contrabando"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: a prisão decorreu da condenação por estupro coletivo cometido na Itália. Tráfico de drogas, lavagem de dinheiro, fraude fiscal e contrabando, opções a, b, c e e, são crimes distintos e não correspondem à condenação que fundamentou a prisão.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#justica",
+        "#brasil",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q29",
+      "text_id": null,
+      "statement": "Em construção, o anel de contorno viário da Região da Grande Florianópolis atravessa os municípios listados abaixo, EXCETO:",
+      "options": {
+        "a": "São José",
+        "b": "Biguaçu",
+        "c": "Palhoça",
+        "d": "São Pedro de Alcântara",
+        "e": "Florianópolis"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e é a resposta esperada: o Contorno Viário foi projetado para desviar o tráfego de passagem do trecho principal da BR-101 na Grande Florianópolis, conectando trechos em municípios como Biguaçu, São José e Palhoça, sem atravessar o município de Florianópolis. A opção d também pode gerar dúvida pela geografia regional, mas o enunciado e a descrição do itinerário no material associado à prova apontam Florianópolis como a exceção.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#contorno-viario",
+        "#geografia-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2024_2_q30",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o país em disputa territorial com a Venezuela pela posse da região conhecida como Essequibo.",
+      "options": {
+        "a": "Suriname",
+        "b": "Colômbia",
+        "c": "Guiana",
+        "d": "Peru",
+        "e": "Bolívia"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: Essequibo é uma extensa região administrada pela Guiana e reivindicada pela Venezuela. Suriname, Colômbia, Peru e Bolívia, opções a, b, d e e, não são o Estado diretamente envolvido nessa disputa territorial.",
+      "tags": [
+        "#2024-2",
+        "#atualidades",
+        "#geopolitica",
+        "#america-do-sul",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q31",
+      "text_id": null,
+      "statement": "A FMP dentro da estrutura administrativa do município de Palhoça é definida como:",
+      "options": {
+        "a": "autarquia",
+        "b": "fundação",
+        "c": "secretaria",
+        "d": "superintendência",
+        "e": "intendência"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b corresponde à natureza institucional indicada na questão: a Faculdade Municipal de Palhoça é uma fundação municipal de ensino superior. Autarquia, a, é outra forma de pessoa administrativa; secretaria, c, superintendência, d, e intendência, e, são estruturas administrativas diferentes da categoria indicada para a FMP.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#historia-local",
+        "#fmp-institucional",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q32",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome de uma das praias citadas no Hino de Palhoça.",
+      "options": {
+        "a": "Praia de Fora",
+        "b": "Praia do Sonho",
+        "c": "Guarda do Embaú",
+        "d": "Ponta do Papagaio",
+        "e": "Pinheira"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b é a resposta esperada: a Praia do Sonho é mencionada entre as referências litorâneas associadas ao Hino de Palhoça. As outras opções são localidades costeiras conhecidas do município, mas não são a resposta correspondente à referência pedida nesta questão.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#geografia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q33",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome do padroeiro do município de Palhoça.",
+      "options": {
+        "a": "Senhor Bom Jesus de Nazaré",
+        "b": "São Sebastião",
+        "c": "São Tomé",
+        "d": "São Joaquim",
+        "e": "São José"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: o padroeiro tradicionalmente associado a Palhoça é o Senhor Bom Jesus de Nazaré. São Sebastião, São Tomé, São Joaquim e São José, opções b a e, são figuras religiosas diferentes e não correspondem ao padroeiro municipal indicado no material local.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#historia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q34",
+      "text_id": null,
+      "statement": "Todos os municípios abaixo fazem divisa com Palhoça, EXCETO:",
+      "options": {
+        "a": "São José",
+        "b": "Santo Amaro da Imperatriz",
+        "c": "Águas Mornas",
+        "d": "São Pedro de Alcântara",
+        "e": "Paulo Lopes"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c é a exceção esperada: Águas Mornas não aparece entre os municípios limítrofes de Palhoça nesta relação. São José, Santo Amaro da Imperatriz, São Pedro de Alcântara e Paulo Lopes, opções a, b, d e e, são municípios da área regional com limites territoriais associados a Palhoça.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#geografia-local",
+        "#municipios-vizinhos",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q35",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do mais antigo povoado de Palhoça.",
+      "options": {
+        "a": "Praia da Pinheira",
+        "b": "Barra do Aririú",
+        "c": "Guarda do Cubatão",
+        "d": "Guarda do Embaú",
+        "e": "Enseada do Brito"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a Enseada do Brito é reconhecida como um dos núcleos de ocupação histórica mais antigos de Palhoça, ligado à colonização açoriana. Pinheira, Barra do Aririú, Guarda do Cubatão e Guarda do Embaú, opções a a d, também têm importância local, mas não são apontadas como o povoado mais antigo nesta questão.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#historia-local",
+        "#colonizacao-acoriana",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q36",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome do rio que marca a divisa geográfica entre os municípios de Palhoça e Paulo Lopes.",
+      "options": {
+        "a": "Rio Imaruim",
+        "b": "Rio da Madre",
+        "c": "Rio Cubatão",
+        "d": "Rio Aririú",
+        "e": "Rio Massiambu"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o Rio da Madre é indicado como referência natural de limite entre Palhoça e Paulo Lopes. Os rios Imaruim, Cubatão, Aririú e Massiambu, opções a, c, d e e, pertencem à hidrografia regional, mas não são a resposta para essa divisa municipal.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#geografia-local",
+        "#hidrografia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q37",
+      "text_id": null,
+      "statement": "Segundo os dados do Censo IBGE/2022, assinale a posição de Palhoça entre os municípios mais populosos de Santa Catarina.",
+      "options": {
+        "a": "sexto",
+        "b": "quinto",
+        "c": "oitavo",
+        "d": "sétimo",
+        "e": "nono"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d é a resposta esperada pelo caderno: Palhoça é apresentada como o sétimo município mais populoso de Santa Catarina segundo o Censo 2022. Sexto, quinto, oitavo e nono, opções a, b, c e e, não correspondem à posição cobrada pela prova.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#geografia-local",
+        "#demografia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q38",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a data da emancipação política de Palhoça.",
+      "options": {
+        "a": "24 de abril",
+        "b": "15 de novembro",
+        "c": "06 de agosto",
+        "d": "10 de março",
+        "e": "10 de junho"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: 24 de abril é a data comemorativa da emancipação política de Palhoça. As datas 15 de novembro, 6 de agosto, 10 de março e 10 de junho, opções b a e, não são a data municipal pedida.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#historia-local",
+        "#emancipacao-politica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q39",
+      "text_id": null,
+      "statement": "A tese do marco temporal foi derrubada pelo Supremo Tribunal Federal em 2023. No município de Palhoça, o marco temporal está diretamente vinculado:",
+      "options": {
+        "a": "à pesca artesanal da tainha nas praias.",
+        "b": "ao cultivo de mariscos e ostras.",
+        "c": "à demarcação das terras indígenas no Morro dos Cavalos.",
+        "d": "à crescente urbanização do município.",
+        "e": "à construção das obras do Contorno Viário da Grande Florianópolis."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: a discussão do marco temporal, relativa aos critérios para demarcação de terras indígenas, conecta-se em Palhoça ao território indígena do Morro dos Cavalos. Pesca da tainha, maricultura, urbanização e Contorno Viário, opções a, b, d e e, são temas locais relevantes, mas não definem juridicamente essa controvérsia territorial.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#historia-local",
+        "#territorios-indigenas",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2024_2_q40",
+      "text_id": null,
+      "statement": "A FMP, enquanto instituição de ensino superior, é mantida com recursos do(a):",
+      "options": {
+        "a": "estado de Santa Catarina",
+        "b": "iniciativa privada",
+        "c": "governo federal",
+        "d": "câmara de vereadores de Palhoça",
+        "e": "prefeitura de Palhoça"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a FMP é uma instituição municipal mantida pelo poder público de Palhoça. O Estado de Santa Catarina e o governo federal, opções a e c, não são seu mantenedor direto; iniciativa privada, b, não corresponde ao modelo público; e a Câmara de Vereadores, d, tem função legislativa e fiscalizadora, não de mantenedora executiva da faculdade.",
+      "tags": [
+        "#2024-2",
+        "#palhoca",
+        "#fmp-institucional",
+        "#administracao-publica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q21",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a sigla da organização com atuação direta na guerra entre Rússia e Ucrânia.",
+      "options": {
+        "a": "OTAN",
+        "b": "ONU",
+        "c": "UNESCO",
+        "d": "UNICEF",
+        "e": "OEA"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: a OTAN é uma aliança político-militar euro-atlântica central para a segurança dos países que apoiam a Ucrânia e para a percepção estratégica russa. A ONU, b, atua diplomaticamente e humanitariamente, mas não é uma aliança militar; UNESCO, c, UNICEF, d, e OEA, e, têm mandatos educacionais, infantis ou regionais distintos.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#geopolitica",
+        "#russia-ucrania",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q22",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome da nova moeda digital brasileira com lançamento previsto para o final de 2024.",
+      "options": {
+        "a": "BRAX",
+        "b": "DREX",
+        "c": "BRICS",
+        "d": "E-PIX",
+        "e": "ON-PIX"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: Drex é o nome atribuído pelo Banco Central ao projeto brasileiro de moeda digital de banco central. BRAX, E-PIX e ON-PIX, opções a, d e e, não são o nome oficial do projeto; BRICS, c, designa o agrupamento de países e não uma moeda digital brasileira.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#economia",
+        "#tecnologia-financeira",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q23",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica um dos principais objetivos discutidos pelos países do BRICS na cúpula de 2024.",
+      "options": {
+        "a": "A expansão dos BRICS para incluir países da Europa.",
+        "b": "A formação de uma aliança militar para defesa conjunta.",
+        "c": "A criação de uma moeda digital comum entre os países-membros.",
+        "d": "A redução das taxas alfandegárias entre os países.",
+        "e": "O apoio exclusivo aos setores de tecnologia e inovação."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d é a mais compatível entre as opções: o BRICS busca ampliar a cooperação econômica e comercial, inclusive discutindo barreiras e facilitação do comércio. A expansão para incluir países europeus, a, não foi o objetivo descrito; o grupo não é uma aliança militar, b; uma moeda digital comum não foi criada, c; e a cooperação não é exclusiva de tecnologia e inovação, e.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#geopolitica",
+        "#brics",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q24",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a fonte de energia renovável que o Brasil considera mais promissora para liderar a transição energética sustentável.",
+      "options": {
+        "a": "Energia nuclear",
+        "b": "Energia eólica",
+        "c": "Biomassa",
+        "d": "Energia solar",
+        "e": "Hidrelétrica"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b é a resposta selecionada entre as opções, pois o Brasil dispõe de elevado potencial eólico, inclusive em projetos offshore, e a expansão eólica contribui para diversificar a matriz renovável. A energia nuclear, a, não é renovável; biomassa, c, solar, d, e hidrelétrica, e, também são fontes relevantes, mas não são a fonte indicada como líder neste item. A formulação “mais promissora” é comparativa e depende do critério usado.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#energia",
+        "#sustentabilidade",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q25",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica um dos principais temas de debate nas eleições presidenciais dos Estados Unidos de 2024, que dividiu fortemente as opiniões entre os candidatos.",
+      "options": {
+        "a": "Política monetária",
+        "b": "Pena de morte",
+        "c": "Inteligência artificial",
+        "d": "Saúde pública",
+        "e": "Imigração"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: controle de fronteiras e imigração foram temas centrais e polarizadores da campanha presidencial norte-americana de 2024. Política monetária, a, pena de morte, b, inteligência artificial, c, e saúde pública, d, também podem entrar em debates políticos, mas não tiveram o mesmo papel distintivo apontado pela questão.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#estados-unidos",
+        "#eleicoes",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q26",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o fator climático associado aos eventos extremos de chuva que causaram destruição em inúmeras cidades do Rio Grande do Sul, em 2024.",
+      "options": {
+        "a": "Efeitos do La Niña",
+        "b": "Influência do El Niño",
+        "c": "Aquecimento das correntes marítimas",
+        "d": "Desmatamento na região da Amazônia",
+        "e": "Oscilações de pressão no Oceano Atlântico"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta no contexto cobrado: o El Niño altera a circulação atmosférica e esteve associado ao aumento de chuvas no Sul do Brasil em 2024, embora desastres extremos também dependam de outros fatores meteorológicos e territoriais. La Niña, a, é uma fase distinta; c, d e e não são a explicação climática apresentada pela questão de forma direta.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#clima",
+        "#desastres-naturais",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q27",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome da política de educação que visa democratizar o acesso ao ensino superior em Santa Catarina.",
+      "options": {
+        "a": "Ensino Superior para Todos",
+        "b": "SC Futuro",
+        "c": "Universidade Gratuita",
+        "d": "Mais Educação",
+        "e": "Universidade para Todos"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: Universidade Gratuita é o programa de Santa Catarina voltado à oferta de assistência/bolsas para acesso e permanência no ensino superior. As expressões das opções a, b e e não são o nome do programa descrito; Mais Educação, d, é associado a outra política educacional, não a essa iniciativa estadual.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#santa-catarina",
+        "#educacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q28",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica as reformas do presidente Javier Milei que mais geraram resistência na Argentina, em 2024.",
+      "options": {
+        "a": "Corte de subsídios e ajustes fiscais",
+        "b": "Privatização do sistema de saúde",
+        "c": "Adoção do dólar como moeda oficial",
+        "d": "Nacionalização das indústrias de energia",
+        "e": "Abandono das políticas ambientais"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: o governo Milei promoveu forte ajuste fiscal e reduziu subsídios, medidas que provocaram protestos e resistência social. As opções b e d descrevem direções que não resumem sua política econômica; c era uma proposta debatida, mas não foi adotada como moeda oficial em 2024; e não representa o núcleo das reformas econômicas cobradas.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#argentina",
+        "#economia-politica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q29",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o fato que marcou a vitória de Donald Trump nas eleições presidenciais dos Estados Unidos de 2024.",
+      "options": {
+        "a": "Ele foi o primeiro presidente a vencer com apoio de um terceiro partido.",
+        "b": "Ele venceu Kamala Harris, tornando-se o segundo presidente com mandatos não consecutivos.",
+        "c": "Ele foi o único presidente a vencer todos os estados americanos.",
+        "d": "Ele derrotou Kamala Harris no Colégio Eleitoral, mas perdeu no voto popular.",
+        "e": "Ele foi eleito sem a escolha de um vice-presidente."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: Trump venceu a eleição de 2024 após ter exercido o mandato de 2017 a 2021, tornando-se o segundo presidente dos EUA a conquistar mandatos não consecutivos. Não concorreu como candidato de terceiro partido, a; não venceu todos os estados, c; ganhou também o voto popular em 2024, portanto d é falsa; e foi eleito com vice-presidente, e.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#estados-unidos",
+        "#eleicoes",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_1_q30",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a principal função da Assembleia Geral da ONU.",
+      "options": {
+        "a": "Aprovar resoluções vinculantes para todos os Estados-membros.",
+        "b": "Supervisionar as operações de paz da ONU no mundo.",
+        "c": "Estabelecer normas de conduta para conflitos armados.",
+        "d": "Servir como fórum de debate e adotar resoluções não vinculantes sobre questões internacionais.",
+        "e": "Resolver disputas jurídicas entre Estados por meio de decisões finais."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: a Assembleia Geral é um fórum universal de debate, deliberação e recomendação; suas resoluções, em regra, não são juridicamente vinculantes como decisões de um tribunal. A opção a exagera sua força normativa; b atribui função operacional específica; c simplifica a criação de normas humanitárias; e descreve mais diretamente a função da Corte Internacional de Justiça.",
+      "tags": [
+        "#2025-1",
+        "#atualidades",
+        "#onu",
+        "#organizacoes-internacionais",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q31",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome do rio que marca a divisa geográfica entre os municípios de Palhoça e Paulo Lopes.",
+      "options": {
+        "a": "Rio Imaruim",
+        "b": "Rio da Madre",
+        "c": "Rio Cubatão",
+        "d": "Rio Aririú",
+        "e": "Rio Massiambu"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o Rio da Madre é apontado como referência geográfica da divisa entre Palhoça e Paulo Lopes. Os rios Imaruim, Cubatão, Aririú e Massiambu, opções a, c, d e e, fazem parte da geografia hidrográfica regional, mas não são o rio cobrado.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#geografia-local",
+        "#hidrografia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q32",
+      "text_id": null,
+      "statement": "Na história do município de Palhoça, a “Praça das Bandeiras” presta homenagem aos:",
+      "options": {
+        "a": "municípios da Região da Grande Florianópolis.",
+        "b": "municípios de colonização açoriana.",
+        "c": "municípios da Região da Foz do Rio Cubatão.",
+        "d": "municípios que possuem fontes de águas termais.",
+        "e": "municípios que já fizeram parte do território de Palhoça."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta conforme a história local associada à Praça das Bandeiras: a referência é aos municípios que, em algum momento, integraram o território de Palhoça antes de se tornarem unidades administrativas próprias. As opções a a d propõem critérios regionais, culturais ou naturais diferentes do motivo histórico da homenagem.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#patrimonio-cultural",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q33",
+      "text_id": null,
+      "statement": "Os dados do Censo IBGE/2022 apontam que Palhoça é o ______ município mais populoso de Santa Catarina.",
+      "options": {
+        "a": "sexto",
+        "b": "quinto",
+        "c": "oitavo",
+        "d": "sétimo",
+        "e": "nono"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d corresponde à posição cobrada no caderno: sétimo município mais populoso de Santa Catarina pelo Censo 2022. Sexto, quinto, oitavo e nono, opções a, b, c e e, são posições diferentes da classificação referida pela questão.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#geografia-local",
+        "#demografia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q34",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome das praias citadas no Hino de Palhoça.",
+      "options": {
+        "a": "Pontal, Cambirela e Pinheira",
+        "b": "Pontal, Cambirela e Praia do Sonho",
+        "c": "Pontal, Cambirela e Guarda do Embaú",
+        "d": "Pontal, Cambirela e Enseada do Brito",
+        "e": "Pontal, Cambirela e Praia de Fora"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o conjunto citado no hino é Pontal, Cambirela e Praia do Sonho. Pinheira, Guarda do Embaú, Enseada do Brito e Praia de Fora, opções a, c, d e e, são referências costeiras locais, mas não completam a sequência pedida.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#geografia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q35",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a instituição onde funcionou a FMP no início de suas atividades acadêmicas.",
+      "options": {
+        "a": "UNISUL unidade Ponte do Imaruim",
+        "b": "Escola Básica Palhoça",
+        "c": "SESC",
+        "d": "CAIC",
+        "e": "SENAI"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d é a resposta esperada: o CAIC é apontado como o local onde a FMP iniciou suas atividades acadêmicas. As unidades da UNISUL, Escola Básica Palhoça, SESC e SENAI, opções a, b, c e e, são instituições distintas e não correspondem ao local inicial indicado pela história institucional usada na prova.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#fmp-institucional",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q36",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do mais antigo povoado de Palhoça.",
+      "options": {
+        "a": "Praia da Pinheira",
+        "b": "Barra do Aririú",
+        "c": "Guarda do Cubatão",
+        "d": "Guarda do Embaú",
+        "e": "Enseada do Brito"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a Enseada do Brito é tradicionalmente reconhecida como o mais antigo povoado do município, associado à ocupação histórica açoriana. As outras localidades, opções a a d, integram a história de Palhoça, mas não são a resposta para o núcleo de povoamento mais antigo.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#colonizacao-acoriana",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q37",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do fundador de Palhoça.",
+      "options": {
+        "a": "Caetano Silveira de Mattos",
+        "b": "Vicentino Domingos Peixoto de Brito",
+        "c": "Aniceto Zacchi",
+        "d": "Matheus Caetano de Souza",
+        "e": "Domingos Peixoto de Brito"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: Caetano Silveira de Mattos é reconhecido como fundador de Palhoça na memória histórica municipal. Os nomes das opções b a e não correspondem à figura indicada como fundador no conteúdo histórico cobrado.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#fundacao-municipal",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q38",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do fotógrafo que eternizou a memória e a história de Palhoça em imagens.",
+      "options": {
+        "a": "Claudir Silveira",
+        "b": "Gedalvo José dos Passos",
+        "c": "Nicolau Nagib Nahas",
+        "d": "Gercino José dos Santos",
+        "e": "Venceslau Bueno"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b é a indicada pela história cultural local: Gedalvo José dos Passos ficou associado ao registro fotográfico da memória de Palhoça. Os demais nomes, opções a, c, d e e, não são o fotógrafo referido na questão.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#memoria-fotografica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q39",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do ex-governador de Santa Catarina que nasceu em Palhoça.",
+      "options": {
+        "a": "Celso Ramos",
+        "b": "Colombo Machado Sales",
+        "c": "Luiz Henrique da Silveira",
+        "d": "Pedro Ivo Campos",
+        "e": "Ivo Silveira"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: Ivo Silveira nasceu em Palhoça e governou Santa Catarina entre 1966 e 1971. Celso Ramos, Colombo Machado Sales, Luiz Henrique da Silveira e Pedro Ivo Campos, opções a a d, também foram figuras políticas estaduais, mas não são o ex-governador natural de Palhoça pedido aqui.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#politica-catarinense",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_1_q40",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do festival de música realizado em 1974, no Estádio Renato Silveira, que marcou a história cultural de Palhoça.",
+      "options": {
+        "a": "PalhosRock",
+        "b": "Rock in Palhoça",
+        "c": "Palhostock",
+        "d": "Palhoça Rock Festival",
+        "e": "Metal Festival Rock"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: Palhostock é o nome associado ao festival realizado em 1974 no Estádio Renato Silveira. Os títulos das opções a, b, d e e não são o nome histórico indicado para o evento.",
+      "tags": [
+        "#2025-1",
+        "#palhoca",
+        "#historia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q21",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome do Papa falecido em abril de 2025.",
+      "options": {
+        "a": "Papa João Paulo I",
+        "b": "Papa João Paulo II",
+        "c": "Papa Bento XVI",
+        "d": "Papa Francisco",
+        "e": "Papa Pio XII"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: o Papa Francisco morreu em abril de 2025. João Paulo I, João Paulo II, Bento XVI e Pio XII, opções a, b, c e e, morreram em outros anos, respectivamente em 1978, 2005, 2022 e 1958.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#religiao-e-sociedade",
+        "#mundo",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q22",
+      "text_id": null,
+      "statement": "A lei sancionada em janeiro de 2025 que restringe o uso de celulares nas salas de aula de escolas públicas e privadas tem validade:",
+      "options": {
+        "a": "Em todo o território nacional.",
+        "b": "Apenas no estado de Santa Catarina.",
+        "c": "Apenas no estado de São Paulo.",
+        "d": "Apenas nos estados do Nordeste.",
+        "e": "Apenas no estado do Rio de Janeiro."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: a Lei Federal nº 15.100/2025 estabeleceu regras nacionais para o uso de aparelhos eletrônicos portáteis pessoais nas escolas de educação básica, públicas e privadas, com exceções previstas. As opções b a e restringem incorretamente a validade a um estado ou região.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#legislacao-brasileira",
+        "#educacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q23",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome da cidade brasileira que sediará a 30ª Conferência das Nações Unidas sobre Mudança do Clima (COP).",
+      "options": {
+        "a": "Manaus",
+        "b": "Belém do Pará",
+        "c": "Florianópolis",
+        "d": "Fortaleza",
+        "e": "Belo Horizonte"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: Belém, no Pará, foi escolhida para sediar a COP30 em 2025, colocando a Amazônia no centro do debate climático internacional. Manaus, Florianópolis, Fortaleza e Belo Horizonte, opções a, c, d e e, não são a cidade-sede desta edição.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#mudancas-climaticas",
+        "#amazonia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q24",
+      "text_id": null,
+      "statement": "Todas as alternativas abaixo são medidas de Donald Trump quando assumiu a presidência dos Estados Unidos pela segunda vez, em 20 de janeiro, EXCETO:",
+      "options": {
+        "a": "Revogação do status de proteção para imigrantes venezuelanos.",
+        "b": "Criação do Departamento de Eficiência Governamental.",
+        "c": "Perdão aos presos no dia 6 de janeiro de 2021 (invasão ao Capitólio).",
+        "d": "Imposição de sanções contra o Tribunal Penal Internacional.",
+        "e": "Banimento da rede social chinesa TikTok nos EUA."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e é a exceção: a restrição ao TikTok vinha de legislação anterior à posse, e Trump assinou uma ordem para adiar sua aplicação, não um banimento novo como medida de posse. As opções a, b, c e d correspondem a ações ou ordens executivas tomadas ou anunciadas por seu governo no início do segundo mandato.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#estados-unidos",
+        "#politica-internacional",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q25",
+      "text_id": null,
+      "statement": "Indique a alternativa que resume a narrativa principal do filme “Ainda Estou Aqui”, ganhador do Oscar 2025 de melhor filme internacional.",
+      "options": {
+        "a": "A trajetória política de Rubens Paiva durante a ditadura militar.",
+        "b": "A luta de Eunice Paiva, esposa de Rubens, para descobrir o paradeiro do marido após seu desaparecimento.",
+        "c": "A atuação de Eunice Paiva como advogada de defesa durante o regime militar.",
+        "d": "A resistência de Rubens Paiva contra o regime militar brasileiro.",
+        "e": "A adaptação do livro de Marcelo Rubens Paiva para o cinema."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o filme acompanha principalmente Eunice Paiva diante do desaparecimento forçado do marido Rubens Paiva durante a ditadura militar e sua busca por respostas e justiça. As opções a e d deslocam o foco para a trajetória política ou resistência de Rubens; c descreve de forma incorreta o eixo narrativo; e menciona a adaptação literária, mas não resume a história central.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#historia-do-brasil",
+        "#ditadura-militar",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q26",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome da moeda digital brasileira em fase de testes pelo Banco Central.",
+      "options": {
+        "a": "Real Digital",
+        "b": "Drex",
+        "c": "e-Real",
+        "d": "ExReal",
+        "e": "CriptoReal"
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: Drex é o nome do projeto de moeda digital do Banco Central do Brasil. Real Digital, a, foi uma denominação genérica usada em etapas anteriores, enquanto e-Real, ExReal e CriptoReal, opções c, d e e, não são o nome oficial atribuído ao projeto.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#economia",
+        "#tecnologia-financeira",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q27",
+      "text_id": null,
+      "statement": "O BRICS é um grupo de países emergentes que busca cooperação econômica, política e estratégica entre seus membros. Sobre esse grupo, assinale a alternativa CORRETA.",
+      "options": {
+        "a": "São países fundadores do grupo: Brasil, Rússia, Índia e China.",
+        "b": "A Argentina aderiu ao grupo em 2025.",
+        "c": "Os Estados Unidos são a principal economia do grupo.",
+        "d": "O investimento em energia nuclear está entre os principais objetivos do grupo.",
+        "e": "O fortalecimento do dólar como moeda comum nas transações internacionais é o principal objetivo do grupo."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a é a pretendida pelo item: o agrupamento original BRIC foi formado por Brasil, Rússia, Índia e China; a África do Sul aderiu posteriormente e deu origem à sigla BRICS. A Argentina não aderiu em 2025, b; os EUA não são membros, c; energia nuclear não define o objetivo principal do bloco, d; e fortalecer o dólar como moeda comum contradiz as discussões sobre maior uso de moedas locais, e.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#geopolitica",
+        "#brics",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q28",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a principal ação do Ministério da Saúde para conter os efeitos do avanço da dengue no país.",
+      "options": {
+        "a": "Campanha nas escolas sobre a prevenção nacional contra a dengue.",
+        "b": "Ampliação da Farmácia Popular com medicamentos para o tratamento da dengue.",
+        "c": "Introdução da vacina Qdenga no Sistema Único de Saúde (SUS) para grupos prioritários.",
+        "d": "Substituição de agentes de saúde por drones de monitoramento.",
+        "e": "Ampliação de investimentos em saneamento básico na região Norte e Nordeste."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: em 2024–2025 a vacina Qdenga passou a ser ofertada no SUS de forma gradual e com foco em grupos prioritários, conforme disponibilidade e critérios do programa. Campanhas educativas, a, podem ajudar, mas não são a medida específica perguntada; Farmácia Popular, b, drones, d, e saneamento, e, não substituem a estratégia vacinal referida.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#saude-publica",
+        "#dengue",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q29",
+      "text_id": null,
+      "statement": "Indique a alternativa que contém o nome da cidade americana fortemente atingida por incêndios florestais em janeiro de 2025, que causaram mortes e muita destruição.",
+      "options": {
+        "a": "Miami",
+        "b": "Orlando",
+        "c": "Las Vegas",
+        "d": "Filadélfia",
+        "e": "Los Angeles"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a região metropolitana de Los Angeles, na Califórnia, foi atingida por grandes incêndios florestais em janeiro de 2025. Miami, Orlando, Las Vegas e Filadélfia, opções a, b, c e d, não foram o foco desse desastre específico.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#desastres-naturais",
+        "#estados-unidos",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2025_2_q30",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do país em disputa territorial com a Venezuela pela posse da região conhecida como Essequibo.",
+      "options": {
+        "a": "Suriname",
+        "b": "Colômbia",
+        "c": "Guiana",
+        "d": "Peru",
+        "e": "Bolívia"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: a região do Essequibo é administrada pela Guiana e reivindicada pela Venezuela. Suriname, Colômbia, Peru e Bolívia, opções a, b, d e e, não são a parte estatal diretamente envolvida nessa disputa.",
+      "tags": [
+        "#2025-2",
+        "#atualidades",
+        "#geopolitica",
+        "#america-do-sul",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q31",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a esfera responsável pela administração do Parque Estadual da Serra do Tabuleiro, com abrangência no território de Palhoça.",
+      "options": {
+        "a": "Estadual",
+        "b": "Federal",
+        "c": "Municipal",
+        "d": "Privada",
+        "e": "Internacional"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: o Parque Estadual da Serra do Tabuleiro é uma unidade de conservação estadual de Santa Catarina, cuja gestão cabe ao poder público estadual. Não é administrado diretamente pela União, b, pela Prefeitura de Palhoça, c, por entidade privada, d, nem por organismo internacional, e.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#geografia-local",
+        "#meio-ambiente",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q32",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome da festa que reúne elementos religiosos, culturais e folclóricos, resgatando tradições portuguesas e promovendo a união comunitária em Palhoça.",
+      "options": {
+        "a": "Festa do Divino Espírito Santo",
+        "b": "Festa do Sagrado Coração de Jesus",
+        "c": "Festa da Tradição Portuguesa",
+        "d": "Festa de Imaculada Conceição",
+        "e": "Festa da Colonização Açoriana"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a é a resposta esperada: a Festa do Divino Espírito Santo é uma tradição religiosa e comunitária com raízes portuguesas, relevante na cultura local. As demais opções nomeiam outras devoções ou denominações genéricas e não identificam a festividade descrita no enunciado.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#historia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q33",
+      "text_id": null,
+      "statement": "Assinale a alternativa que corresponde à maricultura, uma atividade econômica importante para o município de Palhoça.",
+      "options": {
+        "a": "Peixes de água doce",
+        "b": "Camarões de água salgada",
+        "c": "Ostras e mexilhões",
+        "d": "Berbigão",
+        "e": "Algas marinhas"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: maricultura é o cultivo de organismos marinhos e, na região de Palhoça, a produção de ostras e mexilhões é especialmente importante. Peixes de água doce, a, não são cultivo marinho; camarões, berbigão e algas, b, d e e, podem integrar atividades aquícolas ou extrativas em outros contextos, mas não formam a resposta esperada.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#geografia-local",
+        "#economia-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q34",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a localização da Igreja de Nossa Senhora do Rosário, em Palhoça, tombada como patrimônio histórico.",
+      "options": {
+        "a": "Pinheira",
+        "b": "Praça central de Palhoça",
+        "c": "Guarda do Cubatão",
+        "d": "Enseada de Brito",
+        "e": "Araçatuba"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: a Igreja de Nossa Senhora do Rosário associada ao patrimônio histórico municipal está localizada na Enseada de Brito, antigo núcleo de colonização açoriana. Pinheira, praça central, Guarda do Cubatão e Araçatuba, opções a, b, c e e, não são a localização solicitada.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#historia-local",
+        "#patrimonio-historico",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q35",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do município com o qual Palhoça faz limite ao sul.",
+      "options": {
+        "a": "São José",
+        "b": "Garopaba",
+        "c": "Paulo Lopes",
+        "d": "Santo Amaro da Imperatriz",
+        "e": "Imbituba"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: Paulo Lopes fica ao sul de Palhoça e é referência de limite municipal nessa direção. São José fica ao norte/nordeste, a; Garopaba e Imbituba ficam mais ao sul, mas não são o município limítrofe imediato referido; Santo Amaro da Imperatriz, d, está em outra direção.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#geografia-local",
+        "#municipios-vizinhos",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q36",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica a data que marca oficialmente a emancipação política do município de Palhoça.",
+      "options": {
+        "a": "24 de abril",
+        "b": "15 de novembro",
+        "c": "06 de agosto",
+        "d": "10 de março",
+        "e": "10 de junho"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: a data oficial comemorativa da emancipação política de Palhoça é 24 de abril. As demais datas, b a e, não correspondem ao marco municipal cobrado.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#historia-local",
+        "#emancipacao-politica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q37",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica uma informação CORRETA sobre Ivo Silveira, importante figura política nascida em Palhoça.",
+      "options": {
+        "a": "Foi o primeiro governador militar de Santa Catarina após o golpe de 1964.",
+        "b": "Atuou exclusivamente como deputado federal, sem cargos no executivo estadual.",
+        "c": "Ficou conhecido por sua atuação no setor jurídico, sem envolvimento político.",
+        "d": "Foi senador da República por três mandatos consecutivos.",
+        "e": "Foi governador de Santa Catarina."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: Ivo Silveira foi governador de Santa Catarina. A opção a o confunde com uma descrição incorreta de governador militar; b nega sua atuação no Executivo estadual; c reduz incorretamente sua trajetória à área jurídica; d atribui-lhe três mandatos consecutivos no Senado, o que não define sua biografia.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#historia-local",
+        "#politica-catarinense",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q38",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do órgão responsável pela manutenção da FMP.",
+      "options": {
+        "a": "Estado de Santa Catarina",
+        "b": "Iniciativa privada",
+        "c": "Governo federal",
+        "d": "Câmara de Vereadores de Palhoça",
+        "e": "Prefeitura de Palhoça"
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a Faculdade Municipal de Palhoça é mantida pelo Município, por meio da Prefeitura. O Estado e o Governo Federal, a e c, não são o mantenedor direto; a iniciativa privada, b, não corresponde à instituição pública municipal; a Câmara, d, exerce funções legislativas e fiscalizadoras, mas não é a entidade executiva mantenedora.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#fmp-institucional",
+        "#administracao-publica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q39",
+      "text_id": null,
+      "statement": "Assinale a alternativa que indica o nome do fundador de Palhoça.",
+      "options": {
+        "a": "Caetano Silveira de Mattos",
+        "b": "Vicentino Domingos Peixoto de Brito",
+        "c": "Aniceto Zacchi",
+        "d": "Matheus Caetano de Souza",
+        "e": "Domingos Peixoto de Brito"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: Caetano Silveira de Mattos é o nome associado à fundação histórica de Palhoça. As demais alternativas apresentam nomes diferentes, não identificados pelo material local como o fundador do município.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#historia-local",
+        "#fundacao-municipal",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2025_2_q40",
+      "text_id": null,
+      "statement": "Segundo os dados do Censo IBGE/2022, assinale a posição de Palhoça entre os municípios mais populosos de Santa Catarina.",
+      "options": {
+        "a": "Sexto",
+        "b": "Quinto",
+        "c": "Oitavo",
+        "d": "Sétimo",
+        "e": "Nono"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d é a resposta indicada para o censo citado no caderno: sétimo lugar entre os municípios catarinenses mais populosos. Sexto, quinto, oitavo e nono, opções a, b, c e e, não correspondem à classificação pedida.",
+      "tags": [
+        "#2025-2",
+        "#palhoca",
+        "#geografia-local",
+        "#demografia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_1_q21",
+      "text_id": null,
+      "statement": "Em 2025, uma das medidas adotadas pelo governo de Donald Trump envolve:",
+      "options": {
+        "a": "Restrição a financiamentos à OMS e políticas de imigração mais rígidas.",
+        "b": "Nacionalização das grandes empresas de tecnologia.",
+        "c": "A volta dos EUA ao Acordo de Paris sobre mudanças climáticas.",
+        "d": "A recriação da Organização das Nações Unidas.",
+        "e": "Política de desarmamento nuclear global."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: no início do segundo mandato, o governo Trump adotou medidas de afastamento ou restrição de financiamento a organismos internacionais, incluindo a OMS, e endureceu políticas migratórias. As opções b e d não descrevem medidas adotadas; c é falsa porque o governo anunciou nova retirada do Acordo de Paris; e não corresponde à orientação de política externa do período.",
+      "tags": [
+        "#2026-1",
+        "#atualidades",
+        "#estados-unidos",
+        "#politica-internacional",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_1_q22",
+      "text_id": null,
+      "statement": "Num recente acordo de cessar-fogo anunciado em 2025, o Hamas afirmou ter obtido garantias dos EUA para:",
+      "options": {
+        "a": "Uma retirada total de Israel da Faixa de Gaza.",
+        "b": "A libertação de todos os presos palestinos em Israel.",
+        "c": "Nenhuma garantia específica foi divulgada.",
+        "d": "Um tratado de paz democrático entre Israel e Palestina.",
+        "e": "Medidas econômicas para reconstrução de Gaza sem bloqueio."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c é a menos categórica entre as disponíveis, mas o item tem uma limitação: a cobertura pública do acordo de janeiro de 2025 relatou garantias verbais dos mediadores para que as negociações das fases seguintes continuassem de boa-fé, e essa formulação não aparece nas opções. Não se deve interpretar isso como garantia já concretizada de retirada total de Israel (a), libertação de todos os presos (b), tratado definitivo (d) ou reconstrução sem bloqueio (e). Assim, c é uma escolha conservadora entre as alternativas, e a questão merece revisão se houver um gabarito oficial divergente.",
+      "tags": [
+        "#2026-1",
+        "#atualidades",
+        "#geopolitica",
+        "#oriente-medio",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_1_q23",
+      "text_id": null,
+      "statement": "A justificativa dada pelo Comitê Nobel para premiar María Corina Machado em 2025 foi:",
+      "options": {
+        "a": "Seu papel central em ações humanitárias durante desastres naturais.",
+        "b": "Sua contribuição para a paz entre Israel e Hamas.",
+        "c": "Seu envolvimento em tratados de desarmamento nuclear.",
+        "d": "Seu trabalho pela defesa de direitos democráticos e pela transição pacífica para a democracia na Venezuela.",
+        "e": "Sua atuação em negociações militares para encerramento da guerra."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: o reconhecimento de María Corina Machado foi associado à defesa dos direitos democráticos e à busca de uma transição pacífica na Venezuela. As opções a, b, c e e atribuem o prêmio a áreas de atuação diferentes — assistência em desastres, mediação no Oriente Médio, desarmamento nuclear ou negociações militares — que não correspondem à justificativa enunciada.",
+      "tags": [
+        "#2026-1",
+        "#atualidades",
+        "#democracia",
+        "#venezuela",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_1_q24",
+      "text_id": null,
+      "statement": "Um impacto econômico e geopolítico da guerra entre Rússia e Ucrânia nas negociações climáticas é:",
+      "options": {
+        "a": "A redução da dependência europeia de combustíveis fósseis russos, acelerando a transição energética.",
+        "b": "A unificação de todos os países europeus em uma única moeda ecológica.",
+        "c": "A completa desmobilização militar da Rússia como condição para os acordos climáticos.",
+        "d": "O uso da energia como ferramenta geopolítica, com a Rússia restringindo exportações para pressionar politicamente.",
+        "e": "A participação da Ucrânia como membro permanente no Conselho de Segurança da ONU."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a responde mais diretamente ao vínculo com negociações climáticas: a guerra estimulou países europeus a diversificar o abastecimento e reduzir a dependência de combustíveis fósseis russos, acelerando debates sobre transição energética. A opção d também descreve um mecanismo geopolítico real, mas não focaliza de modo tão direto a repercussão sobre a transição climática; b não existe; c não é condição geral dos acordos climáticos; e é incompatível com a composição permanente do Conselho de Segurança.",
+      "tags": [
+        "#2026-1",
+        "#atualidades",
+        "#geopolitica",
+        "#energia",
+        "#mudancas-climaticas",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_1_q25",
+      "text_id": null,
+      "statement": "A 30ª Conferência das Partes (COP30) da Convenção-Quadro das Nações Unidas sobre Mudança do Clima, realizada em 2025, é de grande importância simbólica por quê?",
+      "options": {
+        "a": "Será a primeira COP inteiramente digital, sem encontros presenciais.",
+        "b": "Irá abolir os mercados de carbono.",
+        "c": "É sediada na Amazônia, cenário crucial para o combate às mudanças climáticas.",
+        "d": "Marcará formalmente a saída dos EUA do pacto climático.",
+        "e": "Será dedicada exclusivamente a temas de segurança energética."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: a COP30 ocorreu em Belém, na região amazônica, conferindo destaque à floresta, à biodiversidade e aos desafios climáticos. Não foi uma conferência exclusivamente digital, a; não tinha como finalidade abolir todos os mercados de carbono, b; a saída dos EUA não define sua função, d; e seu programa não se restringe à segurança energética, e.",
+      "tags": [
+        "#2026-1",
+        "#atualidades",
+        "#mudancas-climaticas",
+        "#amazonia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "hist_2026_1_q26",
+      "text_id": null,
+      "statement": "Um dos efeitos da Revolução Industrial no século XIX foi:",
+      "options": {
+        "a": "O aumento do trabalho artesanal.",
+        "b": "A redução das desigualdades sociais.",
+        "c": "O fortalecimento do capitalismo e da urbanização acelerada.",
+        "d": "O enfraquecimento do imperialismo europeu.",
+        "e": "A restrição do uso de máquinas a vapor."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: a mecanização da produção, a expansão fabril e a concentração de trabalhadores nas cidades fortaleceram o capitalismo industrial e aceleraram a urbanização. A produção artesanal perdeu espaço relativo, contrariando a; as desigualdades não desapareceram, b; o imperialismo europeu se fortaleceu no período, d; e a máquina a vapor foi amplamente utilizada e aperfeiçoada, não restringida, e.",
+      "tags": [
+        "#2026-1",
+        "#historia",
+        "#revolucao-industrial",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_1_q27",
+      "text_id": null,
+      "statement": "O padroeiro do município de Palhoça é uma figura religiosa de grande importância para a comunidade local. Assinale a alternativa correta.",
+      "options": {
+        "a": "Senhor Bom Jesus de Nazaré",
+        "b": "São José",
+        "c": "São Sebastião",
+        "d": "São Tomé",
+        "e": "São Joaquim"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: o padroeiro municipal indicado pela tradição local é o Senhor Bom Jesus de Nazaré. São José, São Sebastião, São Tomé e São Joaquim, opções b a e, são outras devoções e não respondem à pergunta sobre o padroeiro de Palhoça.",
+      "tags": [
+        "#2026-1",
+        "#palhoca",
+        "#historia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_1_q28",
+      "text_id": null,
+      "statement": "A emancipação política de Palhoça representa um marco histórico na formação do município. Assinale a alternativa que indica corretamente a data desse acontecimento.",
+      "options": {
+        "a": "24 de abril",
+        "b": "10 de março",
+        "c": "10 de junho",
+        "d": "15 de novembro",
+        "e": "06 de agosto"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: 24 de abril é a data reconhecida para a emancipação política de Palhoça. As datas b, c, d e e não correspondem ao marco da emancipação municipal mencionado na questão.",
+      "tags": [
+        "#2026-1",
+        "#palhoca",
+        "#historia-local",
+        "#emancipacao-politica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_1_q29",
+      "text_id": null,
+      "statement": "O Boi de Mamão é uma das manifestações culturais mais tradicionais de Palhoça, especialmente preservada na região da Barra. Sobre essa expressão do folclore local, assinale a alternativa correta.",
+      "options": {
+        "a": "Por ser uma manifestação musical, o Boi de Mamão não utiliza elementos cênicos ou figurinos artesanais.",
+        "b": "O Boi de Mamão da Barra é apresentado apenas durante festividades religiosas e segue um roteiro sem variações ao longo dos anos.",
+        "c": "A brincadeira envolve personagens como o Boi, a Maricota, o Esqueleto e o Urubu, e combina música, dança e dramatização em torno da morte e ressurreição do boi.",
+        "d": "A origem do Boi de Mamão da Barra está muito vinculada às populações indígenas que habitavam Palhoça antes da chegada dos açorianos.",
+        "e": "Na região da Barra, a apresentação do Boi de Mamão é feita por grupos profissionais financiados pela Fundação Catarinense de Cultura."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: o Boi de Mamão é uma brincadeira popular com personagens, música, dança, adereços e encenação da morte e ressurreição do boi. A opção a nega os elementos cênicos; b limita indevidamente as ocasiões e supõe roteiro imutável; d atribui origem exclusiva não sustentada pelo enunciado; e afirma profissionalização e financiamento como regra, o que não caracteriza a manifestação comunitária descrita.",
+      "tags": [
+        "#2026-1",
+        "#palhoca",
+        "#historia-local",
+        "#folclore",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_1_q30",
+      "text_id": null,
+      "statement": "Nos últimos anos, a Prefeitura de Palhoça reforçou ações de infraestrutura e mobilidade urbana, com destaque para a duplicação da Avenida Paulo Roberto Vidal (antiga Avenida das Torres). Essa intervenção é considerada estratégica principalmente porque:",
+      "options": {
+        "a": "Facilita exclusivamente o acesso às praias do sul do município.",
+        "b": "Melhora o fluxo entre bairros populosos e reduz congestionamentos na ligação com a BR-101.",
+        "c": "Atende ao trânsito de pedestres da região central.",
+        "d": "Tem como objetivo principal criar novas áreas de lazer e praças públicas.",
+        "e": "É voltada ao transporte cicloviário."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: a duplicação de um eixo viário urbano busca ampliar a capacidade de circulação, conectar bairros populosos e aliviar congestionamentos nos acessos à BR-101. A opção a reduz o benefício apenas às praias; c restringe a obra a pedestres; d descreve lazer, não o objetivo viário principal; e atribui foco cicloviário à intervenção.",
+      "tags": [
+        "#2026-1",
+        "#palhoca",
+        "#geografia-local",
+        "#mobilidade-urbana",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_1_q31",
+      "text_id": null,
+      "statement": "A construção do novo Hospital Regional de Palhoça tem sido destacada como uma das principais obras públicas em execução no município em 2025. Considerando as informações divulgadas oficialmente sobre o projeto, analise as afirmativas: I – O hospital será o primeiro equipamento de saúde totalmente público da cidade, com atendimento integral pelo SUS. II – O investimento estimado é de cerca de R$ 120 milhões, provenientes do Governo do Estado e da Prefeitura de Palhoça. III – A implantação ocorrerá por meio de parceria com a iniciativa privada, responsável por parte da construção. Está(ão) correta(s):",
+      "options": {
+        "a": "Apenas II",
+        "b": "Apenas II e III",
+        "c": "Apenas I",
+        "d": "Apenas I e II",
+        "e": "I, II e III"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta no contexto do enunciado: as afirmativas I e II descrevem o caráter público do hospital e o financiamento estimado pelo Estado e pelo Município. A III acrescenta uma parceria privada para executar parte da obra, o que não é apresentado como parte do modelo descrito; por isso a, b, c e e não representam a combinação correta.",
+      "tags": [
+        "#2026-1",
+        "#palhoca",
+        "#geografia-local",
+        "#politicas-publicas",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_1_q32",
+      "text_id": null,
+      "statement": "Sobre o uso da Internet e medidas de segurança, é correto afirmar que:",
+      "options": {
+        "a": "Manter o antivírus desatualizado não compromete o desempenho do computador.",
+        "b": "É seguro compartilhar senhas em redes sociais, desde que em mensagens privadas.",
+        "c": "Apenas sites governamentais utilizam conexões seguras (HTTPS).",
+        "d": "Apagar o histórico do navegador impede qualquer rastreamento de navegação.",
+        "e": "O uso de autenticação em dois fatores aumenta a segurança no acesso a contas online."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a autenticação em dois fatores acrescenta uma segunda prova de identidade além da senha, reduzindo o risco de acesso indevido. Antivírus desatualizado aumenta a exposição, a; senhas não devem ser compartilhadas, mesmo em mensagens privadas, b; HTTPS é utilizado por inúmeros sites não governamentais, c; e apagar o histórico local não elimina todos os registros ou rastreadores, d.",
+      "tags": [
+        "#2026-1",
+        "#informatica",
+        "#seguranca-da-informacao",
+        "#autenticacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_1_q33",
+      "text_id": null,
+      "statement": "No Microsoft Word, o recurso de “mala direta” é utilizado para:",
+      "options": {
+        "a": "Combinar automaticamente dados de uma planilha com um documento modelo.",
+        "b": "Traduzir um texto em vários idiomas ao mesmo tempo.",
+        "c": "Aplicar regras gramaticais e ortográficas de forma automática.",
+        "d": "Gerar índices e sumários em documentos longos.",
+        "e": "Converter o arquivo em formato PDF."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: mala direta combina uma fonte de dados, como uma planilha com nomes e endereços, a um documento-modelo para gerar cartas, etiquetas ou mensagens personalizadas. Tradução, b, revisão gramatical, c, índices e sumários, d, e exportação para PDF, e, são recursos diferentes do Word.",
+      "tags": [
+        "#2026-1",
+        "#informatica",
+        "#office",
+        "#word",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_1_q34",
+      "text_id": null,
+      "statement": "No Microsoft Excel, a função =SOMA(A1:A5) tem como finalidade:",
+      "options": {
+        "a": "Concatenar o conteúdo das células A1 a A5.",
+        "b": "Calcular a média aritmética das células A1 a A5.",
+        "c": "Somar os valores contidos nas células de A1 a A5.",
+        "d": "Exibir o maior valor existente no intervalo A1:A5.",
+        "e": "Contar a quantidade de células preenchidas no intervalo A1:A5."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: SOMA adiciona valores numéricos do intervalo A1 até A5, incluindo as células intermediárias. Concatenar, a, une textos; média, b, é função de MÉDIA; maior valor, d, pode ser obtido por MÁXIMO; e contar células preenchidas, e, exige uma função de contagem apropriada.",
+      "tags": [
+        "#2026-1",
+        "#informatica",
+        "#office",
+        "#excel",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_1_q35",
+      "text_id": null,
+      "statement": "No Microsoft PowerPoint, a ferramenta “Transições” permite ao usuário:",
+      "options": {
+        "a": "Aplicar efeitos de movimentação entre um slide e outro durante a apresentação.",
+        "b": "Alterar o plano de fundo de um slide específico.",
+        "c": "Inserir textos e imagens em um mesmo slide.",
+        "d": "Revisar ortograficamente o conteúdo da apresentação.",
+        "e": "Criar hiperlinks entre slides e documentos externos."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: Transições controla o efeito visual de passagem de um slide para o seguinte. Alterar plano de fundo, b, inserir conteúdo, c, revisar ortografia, d, e criar hiperlinks, e, são operações distintas disponíveis em outras ferramentas ou menus do PowerPoint.",
+      "tags": [
+        "#2026-1",
+        "#informatica",
+        "#office",
+        "#powerpoint",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_1_q36",
+      "text_id": null,
+      "statement": "No sistema operacional Windows, a opção “modo de espera” tem a função de:",
+      "options": {
+        "a": "Suspender temporariamente as atividades, economizando energia.",
+        "b": "Bloquear o acesso do usuário e desligar a Internet.",
+        "c": "Desligar completamente o computador.",
+        "d": "Salvar todos os arquivos e reiniciar o sistema automaticamente.",
+        "e": "Formatar o disco rígido e restaurar as configurações padrão."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: o modo de espera/suspensão reduz o consumo de energia mantendo a sessão pronta para retomada. Bloquear a sessão, b, não é a definição do modo de espera; desligar totalmente, c, é outra ação; reiniciar, d, encerra e inicia o sistema; formatar o disco, e, é uma operação destrutiva sem relação com suspensão.",
+      "tags": [
+        "#2026-1",
+        "#informatica",
+        "#windows",
+        "#sistema-operacional",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "geo_2026_1_q37",
+      "text_id": null,
+      "statement": "O clima de Santa Catarina se distingue pela:",
+      "options": {
+        "a": "Presença de clima equatorial.",
+        "b": "Ausência de massas de ar frio.",
+        "c": "Influência de massas polares que provocam geadas e neve ocasional.",
+        "d": "Temperatura uniforme durante todo o ano.",
+        "e": "Dominação de clima semiárido."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: massas de ar polar podem provocar quedas acentuadas de temperatura, geadas e, ocasionalmente, neve em áreas mais elevadas de Santa Catarina. Clima equatorial, a, e semiárido, e, não caracterizam o estado; massas frias atuam na região, portanto b é falsa; e há variação sazonal, contrariando d.",
+      "tags": [
+        "#2026-1",
+        "#geografia",
+        "#clima-brasileiro",
+        "#santa-catarina",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "geo_2026_1_q38",
+      "text_id": null,
+      "statement": "Um bioma brasileiro marcado por solos pobres, grande biodiversidade e clima semiárido é:",
+      "options": {
+        "a": "Caatinga",
+        "b": "Mata Atlântica",
+        "c": "Pampa",
+        "d": "Cerrado",
+        "e": "Pantanal"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a é a resposta esperada pelo conjunto de características do enunciado, especialmente o clima semiárido, típico da Caatinga. A Mata Atlântica, b, tem maior umidade em sua área característica; o Pampa, c, está no Sul; o Cerrado, d, tem estação seca e chuvosa, mas não é o bioma semiárido descrito; o Pantanal, e, apresenta dinâmica de cheias sazonais.",
+      "tags": [
+        "#2026-1",
+        "#geografia",
+        "#biomas-brasileiros",
+        "#caatinga",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "geo_2026_1_q39",
+      "text_id": null,
+      "statement": "A União Europeia enfrenta desafios contemporâneos como:",
+      "options": {
+        "a": "Abandono do euro por todos os países.",
+        "b": "O fim do mercado comum.",
+        "c": "Expansão ilimitada sem oposição.",
+        "d": "Convergência total das economias dos países-membros.",
+        "e": "Crises migratórias e divergências políticas internas."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: políticas migratórias, distribuição de responsabilidades entre países e divergências políticas são desafios reais para a União Europeia. Não houve abandono do euro por todos os integrantes, a; o mercado comum não terminou, b; a expansão não é ilimitada nem consensual, c; e as economias dos membros continuam apresentando diferenças, contrariando d.",
+      "tags": [
+        "#2026-1",
+        "#geografia",
+        "#europa",
+        "#geopolitica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "geo_2026_1_q40",
+      "text_id": null,
+      "statement": "A urbanização brasileira é marcada por:",
+      "options": {
+        "a": "Crescimento planejado e homogêneo.",
+        "b": "Queda geral das desigualdades socioespaciais.",
+        "c": "Concentração populacional nas metrópoles e periferização.",
+        "d": "Ruralização crescente.",
+        "e": "Predomínio de cidades médias isoladas."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: a urbanização brasileira foi rápida e desigual, com concentração de população e atividades em grandes centros e expansão periférica frequentemente marcada por déficits de infraestrutura. O crescimento não foi homogêneo nem plenamente planejado, a; as desigualdades não caíram de modo geral, b; o país urbanizou-se em vez de passar por ruralização, d; e o sistema urbano inclui metrópoles articuladas, não apenas cidades médias isoladas, e.",
+      "tags": [
+        "#2026-1",
+        "#geografia",
+        "#urbanizacao",
+        "#geografia-do-brasil",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_2_q21",
+      "text_id": "text_atu_2026_2",
+      "statement": "A leitura integrada dos quatro parágrafos permite caracterizar o cenário descrito como:",
+      "options": {
+        "a": "Uma configuração geopolítica linear, centrada em conflitos diretos e resoluções imediatas.",
+        "b": "Um processo de estabilização progressiva, impulsionado por iniciativas diplomáticas eficazes.",
+        "c": "Uma dinâmica restrita ao campo militar, com impactos pouco significativos em outras esferas.",
+        "d": "Um arranjo internacional marcado pela sobreposição de interesses estratégicos, com desdobramentos que extrapolam o plano regional.",
+        "e": "Um contexto de equilíbrio entre as potências envolvidas, sem assimetrias relevantes."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: o texto relaciona interesses nucleares, alianças, sanções, grupos aliados, petróleo e diplomacia, mostrando que as disputas regionais têm efeitos internacionais. A é simplificadora porque os conflitos não seguem uma linha simples nem têm resolução imediata; B contraria a instabilidade descrita; C ignora repercussões econômicas e diplomáticas; E presume equilíbrio e ausência de assimetrias, que o texto não afirma.",
+      "tags": [
+        "#2026-2",
+        "#atualidades",
+        "#geopolitica",
+        "#oriente-medio",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_2_q22",
+      "text_id": "text_atu_2026_2",
+      "statement": "Ao mencionar alianças estratégicas e sanções econômicas, o texto sugere que a atuação dos Estados Unidos se caracteriza por:",
+      "options": {
+        "a": "Um posicionamento predominantemente reativo, condicionado às decisões de outros países.",
+        "b": "Uma intervenção limitada ao campo econômico, sem implicações geopolíticas mais amplas.",
+        "c": "Uma estratégia de influência que combina instrumentos diplomáticos e mecanismos de pressão indireta.",
+        "d": "Uma postura de neutralidade, voltada à mediação imparcial dos conflitos.",
+        "e": "Uma redução de sua presença no cenário internacional contemporâneo."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: alianças estratégicas e sanções são instrumentos de influência diplomática, econômica e geopolítica que podem pressionar um Estado sem exigir conflito direto. A caracteriza os EUA como mero ator reativo; B limita indevidamente a ação à economia; D contradiz a existência de alianças e sanções; E afirma retração quando o texto descreve presença ativa na região.",
+      "tags": [
+        "#2026-2",
+        "#atualidades",
+        "#geopolitica",
+        "#politica-externa",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_2_q23",
+      "text_id": "text_atu_2026_2",
+      "statement": "O trecho que aborda a atuação por meio de “grupos aliados em diferentes territórios”, associado ao conjunto do texto, indica que:",
+      "options": {
+        "a": "As tensões se encontram em processo de dissolução, com redução dos confrontos.",
+        "b": "O conflito assume formas descentralizadas, ampliando sua extensão e dificultando sua contenção.",
+        "c": "Há substituição integral das ações militares por negociações multilaterais.",
+        "d": "Os países envolvidos concentram suas ações em fronteiras rigidamente delimitadas.",
+        "e": "A instabilidade regional decorre exclusivamente de fatores internos aos países citados."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o uso de grupos aliados em diferentes territórios é característica de conflitos indiretos ou por procuração, que dispersam os focos de tensão e complicam sua contenção. A fala em dissolução das tensões, o que não é dito; C elimina indevidamente a dimensão militar; D ignora a atuação transfronteiriça; E atribui a instabilidade apenas a fatores internos, embora o texto destaque relações e interesses externos.",
+      "tags": [
+        "#2026-2",
+        "#atualidades",
+        "#geopolitica",
+        "#conflitos-indiretos",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_2_q24",
+      "text_id": "text_atu_2026_2",
+      "statement": "Com base no último parágrafo, é correto afirmar que os efeitos econômicos mencionados:",
+      "options": {
+        "a": "Permanecem circunscritos às economias diretamente envolvidas no conflito.",
+        "b": "Evidenciam a autonomia dos mercados nacionais frente a crises externas.",
+        "c": "Resultam apenas de decisões políticas internas, sem relação com fatores externos.",
+        "d": "Revelam a desconexão entre o setor energético e outros segmentos econômicos.",
+        "e": "Decorrem de uma rede de interdependências que conecta dinâmicas regionais a impactos globais."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: uma escalada que afete o fornecimento de petróleo pode alterar preços, produção, transporte e inflação em países distantes, ilustrando a interdependência econômica. A limita falsamente os efeitos aos países em guerra; B presume autonomia absoluta; C ignora fatores externos; D separa setores que, na realidade, se conectam por meio da energia e dos custos de produção.",
+      "tags": [
+        "#2026-2",
+        "#atualidades",
+        "#geopolitica",
+        "#economia-global",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "atu_2026_2_q25",
+      "text_id": "text_atu_2026_2",
+      "statement": "Considerando o trecho que aborda as tentativas de mediação internacional, pode-se inferir que:",
+      "options": {
+        "a": "A resolução do conflito depende exclusivamente de acordos bilaterais imediatos.",
+        "b": "As divergências históricas e os interesses estratégicos atuam como entraves à construção de consensos.",
+        "c": "As organizações internacionais exercem controle efetivo sobre as decisões dos países envolvidos.",
+        "d": "O cenário atual indica a superação de tensões acumuladas ao longo do tempo.",
+        "e": "A diplomacia contemporânea se mostra suficiente para neutralizar conflitos complexos."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o texto afirma diretamente que divergências históricas, interesses estratégicos e disputas por influência dificultam acordos duradouros. A restringe a solução a acordos bilaterais imediatos; C atribui controle excessivo a organismos internacionais; D contradiz a persistência da instabilidade; E presume que a diplomacia sozinha neutralize um conflito complexo, conclusão que o texto não sustenta.",
+      "tags": [
+        "#2026-2",
+        "#atualidades",
+        "#geopolitica",
+        "#diplomacia",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_2_q26",
+      "text_id": "text_palhoca_2026_2",
+      "statement": "A relação estabelecida no texto entre diversidade geográfica e crescimento urbano autoriza a interpretação de que:",
+      "options": {
+        "a": "A heterogeneidade do relevo e da cobertura vegetal atua como condicionante, mas não como determinante absoluto.",
+        "b": "A expansão urbana ocorre prioritariamente em função de variáveis naturais, relegando a segundo plano fatores socioeconômicos.",
+        "c": "A configuração espacial do município resulta de uma relação linear entre ambiente físico e ocupação humana.",
+        "d": "A dinâmica de crescimento populacional tende a neutralizar as especificidades ambientais do território.",
+        "e": "Os elementos naturais funcionam como obstáculos intransponíveis à reorganização do espaço urbano."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: relevo, vegetação, rios e litoral condicionam os usos do território, mas a expansão urbana também depende de população, infraestrutura, mercado imobiliário e políticas públicas. B e C reduzem o processo a uma causa natural ou linear; D supõe que o crescimento apague as características ambientais; E exagera ao tratar a natureza como impedimento absoluto à reorganização urbana.",
+      "tags": [
+        "#2026-2",
+        "#palhoca",
+        "#geografia-local",
+        "#urbanizacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_2_q27",
+      "text_id": "text_palhoca_2026_2",
+      "statement": "A permanência de traços da colonização açoriana, conforme apresentada no texto, pode ser compreendida como:",
+      "options": {
+        "a": "Um processo de reprodução cultural estática, sem reinterpretações ao longo do tempo.",
+        "b": "Um resquício histórico sem influência significativa nas práticas sociais contemporâneas.",
+        "c": "Uma evidência de que a identidade local se estrutura por meio de continuidades e ressignificações históricas.",
+        "d": "Um elemento isolado, dissociado das dinâmicas sociais e culturais atuais.",
+        "e": "Um indicativo de resistência à incorporação de novas referências culturais."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: tradições podem persistir e, ao mesmo tempo, ser reinterpretadas conforme as mudanças sociais, contribuindo para a identidade coletiva. A pressupõe cultura congelada; B e D negam a influência contemporânea destacada no texto; E interpreta a continuidade cultural como rejeição necessária a novas referências, o que não decorre do enunciado.",
+      "tags": [
+        "#2026-2",
+        "#palhoca",
+        "#historia-local",
+        "#colonizacao-acoriana",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_2_q28",
+      "text_id": "text_palhoca_2026_2",
+      "statement": "Ao considerar o papel das manifestações culturais mencionadas no texto, é possível afirmar que:",
+      "options": {
+        "a": "A cultura local assume função predominantemente simbólica, sem efeitos sobre a coesão social.",
+        "b": "Os elementos culturais operam como dispositivos de mediação entre memória coletiva e identidade social.",
+        "c": "A valorização cultural implica necessariamente homogeneização das práticas sociais.",
+        "d": "As manifestações culturais tendem a se desvincular de processos históricos em contextos urbanos.",
+        "e": "O hino municipal exerce função meramente protocolar, sem inserção no imaginário coletivo."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: festas, folclore, música e hino podem articular lembranças, símbolos e pertencimento, contribuindo para a identidade e a coesão comunitária. A nega efeitos sociais da cultura; C presume homogeneização obrigatória; D desconsidera que práticas culturais mantêm vínculos históricos também em cidades; E contraria o texto, que atribui ao hino e aos eventos papel na identidade coletiva.",
+      "tags": [
+        "#2026-2",
+        "#palhoca",
+        "#historia-local",
+        "#cultura-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_2_q29",
+      "text_id": "text_palhoca_2026_2",
+      "statement": "A articulação entre diversidade econômica e localização geográfica permite inferir, a partir do texto, que:",
+      "options": {
+        "a": "A proximidade com centros urbanos maiores elimina a necessidade de diversificação produtiva.",
+        "b": "A estrutura econômica local se organiza de modo independente das dinâmicas regionais.",
+        "c": "O setor industrial tende a suprimir progressivamente as demais atividades econômicas.",
+        "d": "A diversificação econômica decorre, em parte, de condicionantes espaciais que favorecem fluxos e integração regional.",
+        "e": "A economia municipal apresenta baixa sensibilidade às transformações territoriais."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: a proximidade com centros urbanos, a localização litorânea e a infraestrutura favorecem circulação de pessoas, mercadorias e serviços, influenciando uma economia diversificada. A afirma que a localização elimina a diversificação, em contradição com o texto; B ignora a integração regional; C supõe substituição inevitável das demais atividades pela indústria; E nega a influência das mudanças territoriais.",
+      "tags": [
+        "#2026-2",
+        "#palhoca",
+        "#geografia-local",
+        "#economia-local",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "palhoca_2026_2_q30",
+      "text_id": "text_palhoca_2026_2",
+      "statement": "A descrição da organização política municipal apresentada no texto permite concluir que:",
+      "options": {
+        "a": "A atuação da câmara de vereadores limita-se à validação formal de decisões do poder executivo.",
+        "b": "A estrutura política local reproduz, de forma reduzida, a centralização típica de esferas superiores de governo.",
+        "c": "A gestão pública municipal prescinde de mecanismos de representação institucional.",
+        "d": "A autonomia administrativa implica ausência de articulação entre os poderes constituídos.",
+        "e": "A separação entre funções administrativas e legislativas configura um modelo de atuação interdependente."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: a Prefeitura exerce funções executivas e administrativas, enquanto a Câmara de Vereadores legisla e fiscaliza; os poderes têm funções distintas e precisam interagir dentro de suas competências. A reduz a Câmara a mera formalidade; B presume centralização sem base; C nega a representação política; D confunde autonomia com ausência de articulação institucional.",
+      "tags": [
+        "#2026-2",
+        "#palhoca",
+        "#historia-local",
+        "#administracao-publica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_2_q31",
+      "text_id": null,
+      "statement": "Ao acessar a Internet, um usuário decide utilizar um navegador para realizar pesquisas. Sobre navegadores e motores de busca, assinale a alternativa correta.",
+      "options": {
+        "a": "O navegador permite acessar páginas web, enquanto o motor de busca auxilia na localização de informações na Internet.",
+        "b": "O navegador é responsável por deixar páginas da Internet, enquanto o motor de busca apenas exibe sites armazenados no computador.",
+        "c": "Motores de busca funcionam apenas offline, utilizando arquivos locais do sistema.",
+        "d": "Navegadores e motores de busca são softwares idênticos, com a mesma função.",
+        "e": "Motores de busca substituem a necessidade de conexão com a Internet."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: navegador é o aplicativo que acessa e renderiza páginas web; motor de busca indexa conteúdos e ajuda a encontrar páginas, normalmente dentro do navegador. B descreve funções incorretas; C erra ao afirmar que motores de busca funcionam apenas offline; D confunde ferramentas diferentes; E ignora que pesquisas web normalmente dependem de conexão à Internet.",
+      "tags": [
+        "#2026-2",
+        "#informatica",
+        "#internet",
+        "#navegadores",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_2_q32",
+      "text_id": null,
+      "statement": "No sistema operacional Windows, um usuário deseja se ausentar temporariamente do computador, mantendo seus arquivos e programas abertos, mas protegendo o acesso. A opção mais adequada é:",
+      "options": {
+        "a": "Desligar o computador",
+        "b": "Reiniciar o sistema",
+        "c": "Colocar em modo de espera",
+        "d": "Bloquear o computador",
+        "e": "Encerrar sessão"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: bloquear o computador mantém a sessão e os programas abertos, exigindo autenticação para voltar a utilizá-los. Desligar, a, encerra a sessão de uso; reiniciar, b, fecha e reabre o sistema; modo de espera, c, reduz energia, mas não é por si só o recurso mais direto de bloqueio; encerrar sessão, e, fecha a sessão do usuário.",
+      "tags": [
+        "#2026-2",
+        "#informatica",
+        "#windows",
+        "#seguranca-da-informacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_2_q33",
+      "text_id": null,
+      "statement": "No Microsoft Word, ao elaborar um documento extenso com capítulos e subtítulos, o recurso mais adequado para gerar automaticamente uma lista organizada desses itens é:",
+      "options": {
+        "a": "Mala direta",
+        "b": "Inserção de tabela",
+        "c": "Sumário automático",
+        "d": "Revisão ortográfica",
+        "e": "Inserção de cabeçalho"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: um sumário automático usa os estilos de título aplicados aos capítulos e subtítulos para gerar uma lista com páginas, atualizável quando o documento muda. Mala direta, a, personaliza documentos com dados; tabela, b, organiza informações em células; revisão ortográfica, d, verifica a escrita; cabeçalho, e, insere conteúdo na margem superior.",
+      "tags": [
+        "#2026-2",
+        "#informatica",
+        "#office",
+        "#word",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_2_q34",
+      "text_id": null,
+      "statement": "No Microsoft Excel, para analisar grandes volumes de dados, reorganizar informações dinamicamente e gerar resumos, o recurso mais apropriado é:",
+      "options": {
+        "a": "Gráfico de colunas",
+        "b": "Função SOMA",
+        "c": "Formatação condicional",
+        "d": "Tabela dinâmica",
+        "e": "Planilha protegida"
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: uma tabela dinâmica resume, agrupa, reorganiza e compara dados sem alterar a base original. Gráfico de colunas, a, é útil para visualizar séries; SOMA, b, executa uma operação aritmética; formatação condicional, c, destaca valores segundo regras; proteger planilha, e, restringe alterações em células.",
+      "tags": [
+        "#2026-2",
+        "#informatica",
+        "#office",
+        "#excel",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "inf_2026_2_q35",
+      "text_id": null,
+      "statement": "Sobre dispositivos e práticas de uso de tecnologias no cotidiano, assinale a alternativa correta:",
+      "options": {
+        "a": "Dispositivos removíveis, como pen drives, não apresentam riscos de segurança.",
+        "b": "Impressoras não podem digitalizar documentos.",
+        "c": "O envio de e-mails dispensa cuidados com anexos desconhecidos.",
+        "d": "Redes sociais não exigem configurações de privacidade.",
+        "e": "Dispositivos multifuncionais podem imprimir, copiar e digitalizar documentos."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: equipamentos multifuncionais reúnem impressão, cópia e digitalização. Pen drives podem transportar malware e dados sensíveis, contrariando a; muitos equipamentos imprimem e também digitalizam, contrariando b; anexos desconhecidos podem conter golpes ou malware, c; redes sociais oferecem controles de privacidade que devem ser configurados, d.",
+      "tags": [
+        "#2026-2",
+        "#informatica",
+        "#hardware",
+        "#seguranca-da-informacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "hist_2026_2_q36",
+      "text_id": null,
+      "statement": "As revoluções burguesas dos séculos XVII e XVIII contribuíram para a consolidação do capitalismo e de novos modelos políticos. Nesse contexto, é correto afirmar que:",
+      "options": {
+        "a": "Defenderam a manutenção dos privilégios aristocráticos.",
+        "b": "Promoveram a ampliação da participação política e a limitação do poder absolutista.",
+        "c": "Rejeitaram os ideais iluministas.",
+        "d": "Consolidaram regimes teocráticos na Europa.",
+        "e": "Tiveram impacto apenas econômico, sem consequências políticas."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: revoluções como a Inglesa, a Americana e a Francesa contribuíram, de maneiras distintas, para limitar o absolutismo, questionar privilégios e difundir ideias de cidadania e representação política. A preserva justamente os privilégios contestados; C contradiz a influência iluminista; D não descreve o resultado geral; E ignora as profundas transformações políticas dessas revoluções.",
+      "tags": [
+        "#2026-2",
+        "#historia",
+        "#revolucoes-burguesas",
+        "#iluminismo",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "hist_2026_2_q37",
+      "text_id": null,
+      "statement": "Os regimes totalitários do século XX apresentam características comuns. Assinale a alternativa que identifica corretamente uma dessas características:",
+      "options": {
+        "a": "Controle estatal da sociedade e repressão às oposições.",
+        "b": "Pluralidade partidária e liberdade de imprensa.",
+        "c": "Separação rigorosa entre Estado e propaganda.",
+        "d": "Defesa irrestrita dos direitos individuais.",
+        "e": "Ausência de liderança centralizada."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: regimes totalitários buscaram ampliar o controle sobre a vida política e social, concentrar poder e reprimir opositores, frequentemente usando propaganda e censura. B e D descrevem liberdades incompatíveis com esses regimes; C nega o uso de propaganda estatal; E contradiz a tendência à liderança centralizada e ao culto do líder.",
+      "tags": [
+        "#2026-2",
+        "#historia",
+        "#totalitarismo",
+        "#seculo-xx",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "hist_2026_2_q38",
+      "text_id": null,
+      "statement": "A Era Vargas (1930–1945) foi marcada por centralização política e mudanças estruturais. Um aspecto característico desse período foi:",
+      "options": {
+        "a": "A total ausência de intervenção estatal na economia.",
+        "b": "A manutenção do federalismo extremo da República Velha.",
+        "c": "A inexistência de políticas de industrialização.",
+        "d": "A plena liberdade política durante o Estado Novo.",
+        "e": "A criação de leis trabalhistas e fortalecimento do Estado como mediador das relações sociais."
+      },
+      "correct_answer": "e",
+      "explanation": "A alternativa e está correta: durante a Era Vargas, o Estado ampliou a intervenção econômica e institucionalizou direitos trabalhistas, culminando na Consolidação das Leis do Trabalho em 1943. A e C negam a intervenção e a industrialização; B ignora a centralização posterior a 1930; D é falsa porque o Estado Novo (1937–1945) foi uma ditadura, com restrição de liberdades políticas.",
+      "tags": [
+        "#2026-2",
+        "#historia",
+        "#era-vargas",
+        "#leis-trabalhistas",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "geo_2026_2_q39",
+      "text_id": "text_geo_2026_2_q39",
+      "statement": "Com base no texto e em seus conhecimentos sobre geopolítica mundial, assinale a alternativa correta:",
+      "options": {
+        "a": "A globalização eliminou os conflitos entre Estados, substituindo-os por disputas exclusivamente econômicas.",
+        "b": "Os organismos internacionais deixaram de influenciar as decisões estratégicas dos Estados nacionais.",
+        "c": "A geopolítica contemporânea é determinada apenas por fatores econômicos e tecnológicos, sem relevância militar.",
+        "d": "Embora novos fatores tenham ganhado relevância, os elementos militares permanecem centrais na definição das relações de poder entre os Estados.",
+        "e": "A atuação de empresas transnacionais não interfere nas dinâmicas geopolíticas globais."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta e acompanha o texto: fluxos econômicos, empresas transnacionais e tecnologia ampliam os atores do poder, mas conflitos armados e capacidade militar continuam relevantes. A afirma que a globalização eliminou conflitos; B exclui indevidamente a influência de organismos internacionais; C elimina a dimensão militar; E nega o efeito geopolítico das transnacionais.",
+      "tags": [
+        "#2026-2",
+        "#geografia",
+        "#geopolitica",
+        "#globalizacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "geo_2026_2_q40",
+      "text_id": "text_geo_2026_2_q40",
+      "statement": "A partir da leitura do texto e de seus conhecimentos sobre a urbanização brasileira, assinale a alternativa correta:",
+      "options": {
+        "a": "Apesar de desigual e em ritmos distintos, o processo de urbanização no Brasil expandiu-se progressivamente por todo o território, configurando uma tendência de generalização espacial do fenômeno urbano.",
+        "b": "A urbanização brasileira ocorreu de forma homogênea, sem diferenças regionais significativas ao longo do tempo.",
+        "c": "O crescimento urbano no Brasil desenvolveu-se de maneira independente da industrialização e das transformações econômicas.",
+        "d": "A urbanização brasileira eliminou progressivamente os problemas habitacionais e as desigualdades socioespaciais.",
+        "e": "A expansão urbana resultou na redução das periferias e na plena integração socioespacial da população."
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: a urbanização se difundiu pelo país, mas em ritmos e formas desiguais, acompanhando mudanças econômicas e concentração populacional nos centros urbanos. B afirma homogeneidade inexistente; C separa artificialmente urbanização e industrialização; D afirma que problemas habitacionais e desigualdades foram eliminados; E atribui à expansão urbana uma integração plena que não ocorreu.",
+      "tags": [
+        "#2026-2",
+        "#geografia",
+        "#urbanizacao",
+        "#geografia-do-brasil",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_palhoca_emancipacao_q01",
+      "text_id": null,
+      "statement": "Qual data deve ser associada à comemoração da emancipação política de Palhoça, conforme a referência recorrente nas provas da FMP?",
+      "options": {
+        "a": "24 de abril",
+        "b": "10 de março",
+        "c": "15 de novembro",
+        "d": "6 de agosto",
+        "e": "10 de junho"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: 24 de abril é a data comemorativa da emancipação política de Palhoça, conteúdo recorrente nas provas locais. As datas b, c, d e e podem ser importantes em outros calendários cívicos ou religiosos, mas não correspondem ao marco municipal cobrado.",
+      "tags": [
+        "#ia",
+        "#palhoca",
+        "#historia-local",
+        "#emancipacao-politica",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_palhoca_serra_tabuleiro_q02",
+      "text_id": null,
+      "statement": "O Parque Estadual da Serra do Tabuleiro, que abrange áreas de Palhoça, pertence a qual esfera de gestão pública?",
+      "options": {
+        "a": "Municipal, administrada exclusivamente pela Prefeitura de Palhoça.",
+        "b": "Estadual, vinculada ao poder público de Santa Catarina.",
+        "c": "Federal, administrada diretamente pelo governo federal.",
+        "d": "Privada, administrada por empresas de turismo.",
+        "e": "Internacional, gerida por organismos multilaterais."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o nome “Parque Estadual” identifica uma unidade de conservação estadual de Santa Catarina. Não é exclusivamente municipal, a; não é parque nacional federal, c; sua natureza não é privada, d; e não é administrado por organismo internacional, e. A proteção ambiental envolve regras de conservação e uso público definidas pelo órgão gestor competente.",
+      "tags": [
+        "#ia",
+        "#palhoca",
+        "#geografia-local",
+        "#meio-ambiente",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_palhoca_contorno_q03",
+      "text_id": null,
+      "statement": "Qual é a finalidade central do Contorno Viário da Grande Florianópolis para a mobilidade regional?",
+      "options": {
+        "a": "Substituir todas as ruas municipais de Palhoça.",
+        "b": "Desviar parte do tráfego de passagem do trecho principal da BR-101, contribuindo para melhorar a fluidez.",
+        "c": "Conectar exclusivamente as praias de Palhoça, sem ligação com rodovias federais.",
+        "d": "Impedir a circulação de veículos pesados na região metropolitana.",
+        "e": "Eliminar definitivamente todo congestionamento da Grande Florianópolis."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o Contorno oferece uma rota alternativa para parte do tráfego, especialmente de passagem e veículos pesados, reduzindo pressão sobre a BR-101 no trecho urbano. A e C exageram ou descrevem função inexistente; D sugere proibição total que não é o objetivo; E promete a eliminação de congestionamentos, resultado que uma obra viária não pode garantir de forma absoluta.",
+      "tags": [
+        "#ia",
+        "#geografia",
+        "#palhoca",
+        "#contorno-viario",
+        "#mobilidade-urbana",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_hist_revolucao_industrial_q04",
+      "text_id": null,
+      "statement": "Qual transformação histórica está diretamente associada à Revolução Industrial?",
+      "options": {
+        "a": "A substituição das fábricas pelo trabalho artesanal doméstico.",
+        "b": "A redução permanente da produção e do comércio internacional.",
+        "c": "A expansão do sistema fabril, da mecanização e da urbanização.",
+        "d": "O desaparecimento das classes sociais.",
+        "e": "O fim da utilização de fontes de energia na produção."
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: a Revolução Industrial expandiu a produção mecanizada e fabril e estimulou a migração para cidades industriais. A descreve movimento contrário à mecanização; B contradiz o crescimento da capacidade produtiva; D ignora as novas relações de classe; E é absurda porque a industrialização dependeu justamente de fontes de energia como carvão e vapor.",
+      "tags": [
+        "#ia",
+        "#historia",
+        "#revolucao-industrial",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_hist_era_vargas_q05",
+      "text_id": null,
+      "statement": "Qual alternativa apresenta uma característica da Era Vargas no Brasil (1930–1945)?",
+      "options": {
+        "a": "Redução completa da atuação estatal na economia.",
+        "b": "Criação de leis trabalhistas e fortalecimento da intervenção do Estado.",
+        "c": "Ausência de industrialização e retorno integral à economia colonial.",
+        "d": "Liberdade partidária irrestrita durante todo o período.",
+        "e": "Descentralização política máxima durante o Estado Novo."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o período foi marcado por legislação trabalhista, industrialização e aumento da intervenção do Estado. A e C negam essas tendências; D é incorreta porque houve restrições autoritárias e fechamento político, sobretudo no Estado Novo; E contradiz a centralização de poder do regime a partir de 1937.",
+      "tags": [
+        "#ia",
+        "#historia",
+        "#era-vargas",
+        "#leis-trabalhistas",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_atu_oriente_medio_q06",
+      "text_id": null,
+      "statement": "Em conflitos no Oriente Médio, o uso de grupos aliados por Estados envolvidos é geralmente descrito como:",
+      "options": {
+        "a": "Neutralidade permanente de todos os atores regionais.",
+        "b": "Conflito indireto ou por procuração, que pode ampliar a instabilidade para diferentes territórios.",
+        "c": "Fim automático das disputas estratégicas.",
+        "d": "Proibição de participação de atores não estatais.",
+        "e": "Ausência de consequências para os mercados internacionais."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: apoiar grupos aliados permite que Estados disputem influência sem necessariamente combater apenas de forma direta, ampliando os locais e atores envolvidos. A e C presumem neutralidade ou resolução automática; D erra porque grupos não estatais podem participar desses conflitos; E ignora possíveis efeitos sobre energia, comércio, segurança e mercados globais.",
+      "tags": [
+        "#ia",
+        "#atualidades",
+        "#geopolitica",
+        "#oriente-medio",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_inf_windows_bloqueio_q07",
+      "text_id": null,
+      "statement": "Em um computador com Windows, qual atalho permite bloquear rapidamente a sessão antes de o usuário se afastar da mesa?",
+      "options": {
+        "a": "Ctrl + C",
+        "b": "Alt + F4",
+        "c": "Windows + L",
+        "d": "Ctrl + P",
+        "e": "Windows + E"
+      },
+      "correct_answer": "c",
+      "explanation": "A alternativa c está correta: Windows + L bloqueia a sessão e exige autenticação para retomá-la, ajudando a proteger arquivos e contas quando o usuário se afasta. Ctrl + C copia conteúdo, a; Alt + F4 fecha a janela ativa, b; Ctrl + P abre a impressão, d; Windows + E abre o Explorador de Arquivos, e.",
+      "tags": [
+        "#ia",
+        "#informatica",
+        "#windows",
+        "#seguranca-da-informacao",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_inf_office_sumario_q08",
+      "text_id": null,
+      "statement": "Para que o Microsoft Word crie um sumário automático confiável, qual prática é mais adequada antes de inserir o recurso?",
+      "options": {
+        "a": "Digitar manualmente todos os títulos apenas em negrito.",
+        "b": "Aplicar os estilos de título apropriados aos capítulos e subtítulos.",
+        "c": "Converter todas as páginas em imagens.",
+        "d": "Inserir cada título no cabeçalho da página.",
+        "e": "Desativar a numeração de páginas."
+      },
+      "correct_answer": "b",
+      "explanation": "A alternativa b está correta: o sumário automático identifica os níveis de títulos por meio dos estilos do Word e associa os itens às páginas. Negrito manual, a, não fornece necessariamente estrutura semântica; converter páginas em imagens, c, impede a identificação de títulos; cabeçalhos, d, não substituem estilos; desativar a numeração, e, prejudica a referência às páginas.",
+      "tags": [
+        "#ia",
+        "#informatica",
+        "#office",
+        "#word",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_inf_excel_pivot_q09",
+      "text_id": null,
+      "statement": "Uma planilha contém milhares de vendas por região, produto e mês. Qual recurso do Excel facilita agrupar os dados por categoria e calcular totais sem reescrever a base?",
+      "options": {
+        "a": "Tabela dinâmica",
+        "b": "Cor da fonte manual",
+        "c": "Cabeçalho e rodapé",
+        "d": "Corretor ortográfico",
+        "e": "Proteção de tela"
+      },
+      "correct_answer": "a",
+      "explanation": "A alternativa a está correta: a tabela dinâmica agrupa dados em linhas e colunas, calcula somas e outros resumos e permite reorganizar a análise rapidamente. Cor da fonte, b, apenas altera a aparência; cabeçalho e rodapé, c, são recursos de impressão; revisão ortográfica, d, é voltada ao texto; proteção de tela, e, não analisa dados.",
+      "tags": [
+        "#ia",
+        "#informatica",
+        "#office",
+        "#excel",
+        "#fmp"
+      ]
+    },
+    {
+      "id": "ia_inf_phishing_q10",
+      "text_id": null,
+      "statement": "Uma pessoa recebe um e-mail inesperado que solicita senha e traz um link urgente para “regularizar” sua conta. Qual é a conduta mais segura?",
+      "options": {
+        "a": "Abrir o link e informar a senha para evitar bloqueio.",
+        "b": "Responder com a senha, mas apagar a mensagem depois.",
+        "c": "Encaminhar o e-mail a colegas para que testem o link.",
+        "d": "Não clicar; verificar o remetente por canal oficial e denunciar ou excluir a mensagem suspeita.",
+        "e": "Desativar o antivírus para o link abrir corretamente."
+      },
+      "correct_answer": "d",
+      "explanation": "A alternativa d está correta: urgência artificial, solicitação de credenciais e links inesperados são sinais comuns de phishing; a verificação deve ocorrer por canal oficial, sem usar o link recebido. A e B entregam a senha; C expõe outras pessoas ao golpe; E enfraquece a proteção do equipamento e não resolve a suspeita.",
+      "tags": [
+        "#ia",
+        "#informatica",
+        "#seguranca-da-informacao",
+        "#phishing",
+        "#fmp"
+      ]
+    }
+  ]
+}
